@@ -1,0 +1,1625 @@
+FIPS_Code,State,Area_Name,Attribute,Value,Dataset
+6001,CA,Alameda County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6001,CA,Alameda County,POVALL_2023,151872.0,poverty
+6001,CA,Alameda County,PCTPOVALL_2023,9.5,poverty
+6001,CA,Alameda County,MEDHHINC_2023,119230.0,poverty
+6003,CA,Alpine County,Rural_Urban_Continuum_Code_2023,8.0,poverty
+6003,CA,Alpine County,POVALL_2023,177.0,poverty
+6003,CA,Alpine County,PCTPOVALL_2023,15.6,poverty
+6003,CA,Alpine County,MEDHHINC_2023,83265.0,poverty
+6005,CA,Amador County,Rural_Urban_Continuum_Code_2023,6.0,poverty
+6005,CA,Amador County,POVALL_2023,4400.0,poverty
+6005,CA,Amador County,PCTPOVALL_2023,11.7,poverty
+6005,CA,Amador County,MEDHHINC_2023,80767.0,poverty
+6007,CA,Butte County,Rural_Urban_Continuum_Code_2023,3.0,poverty
+6007,CA,Butte County,POVALL_2023,40532.0,poverty
+6007,CA,Butte County,PCTPOVALL_2023,19.9,poverty
+6007,CA,Butte County,MEDHHINC_2023,63084.0,poverty
+6009,CA,Calaveras County,Rural_Urban_Continuum_Code_2023,6.0,poverty
+6009,CA,Calaveras County,POVALL_2023,5639.0,poverty
+6009,CA,Calaveras County,PCTPOVALL_2023,12.2,poverty
+6009,CA,Calaveras County,MEDHHINC_2023,77041.0,poverty
+6011,CA,Colusa County,Rural_Urban_Continuum_Code_2023,6.0,poverty
+6011,CA,Colusa County,POVALL_2023,2677.0,poverty
+6011,CA,Colusa County,PCTPOVALL_2023,12.3,poverty
+6011,CA,Colusa County,MEDHHINC_2023,66675.0,poverty
+6013,CA,Contra Costa County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6013,CA,Contra Costa County,POVALL_2023,95369.0,poverty
+6013,CA,Contra Costa County,PCTPOVALL_2023,8.3,poverty
+6013,CA,Contra Costa County,MEDHHINC_2023,122000.0,poverty
+6015,CA,Del Norte County,Rural_Urban_Continuum_Code_2023,7.0,poverty
+6015,CA,Del Norte County,POVALL_2023,3408.0,poverty
+6015,CA,Del Norte County,PCTPOVALL_2023,13.8,poverty
+6015,CA,Del Norte County,MEDHHINC_2023,70231.0,poverty
+6017,CA,El Dorado County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6017,CA,El Dorado County,POVALL_2023,13438.0,poverty
+6017,CA,El Dorado County,PCTPOVALL_2023,7.0,poverty
+6017,CA,El Dorado County,MEDHHINC_2023,107063.0,poverty
+6019,CA,Fresno County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6019,CA,Fresno County,POVALL_2023,177171.0,poverty
+6019,CA,Fresno County,PCTPOVALL_2023,17.7,poverty
+6019,CA,Fresno County,MEDHHINC_2023,71271.0,poverty
+6021,CA,Glenn County,Rural_Urban_Continuum_Code_2023,6.0,poverty
+6021,CA,Glenn County,POVALL_2023,3769.0,poverty
+6021,CA,Glenn County,PCTPOVALL_2023,13.5,poverty
+6021,CA,Glenn County,MEDHHINC_2023,64197.0,poverty
+6023,CA,Humboldt County,Rural_Urban_Continuum_Code_2023,5.0,poverty
+6023,CA,Humboldt County,POVALL_2023,21856.0,poverty
+6023,CA,Humboldt County,PCTPOVALL_2023,16.7,poverty
+6023,CA,Humboldt County,MEDHHINC_2023,61307.0,poverty
+6025,CA,Imperial County,Rural_Urban_Continuum_Code_2023,3.0,poverty
+6025,CA,Imperial County,POVALL_2023,29810.0,poverty
+6025,CA,Imperial County,PCTPOVALL_2023,17.3,poverty
+6025,CA,Imperial County,MEDHHINC_2023,58768.0,poverty
+6027,CA,Inyo County,Rural_Urban_Continuum_Code_2023,6.0,poverty
+6027,CA,Inyo County,POVALL_2023,2169.0,poverty
+6027,CA,Inyo County,PCTPOVALL_2023,11.8,poverty
+6027,CA,Inyo County,MEDHHINC_2023,71656.0,poverty
+6029,CA,Kern County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6029,CA,Kern County,POVALL_2023,169857.0,poverty
+6029,CA,Kern County,PCTPOVALL_2023,19.0,poverty
+6029,CA,Kern County,MEDHHINC_2023,68436.0,poverty
+6031,CA,Kings County,Rural_Urban_Continuum_Code_2023,3.0,poverty
+6031,CA,Kings County,POVALL_2023,23950.0,poverty
+6031,CA,Kings County,PCTPOVALL_2023,17.5,poverty
+6031,CA,Kings County,MEDHHINC_2023,65768.0,poverty
+6033,CA,Lake County,Rural_Urban_Continuum_Code_2023,4.0,poverty
+6033,CA,Lake County,POVALL_2023,11790.0,poverty
+6033,CA,Lake County,PCTPOVALL_2023,17.6,poverty
+6033,CA,Lake County,MEDHHINC_2023,57945.0,poverty
+6035,CA,Lassen County,Rural_Urban_Continuum_Code_2023,7.0,poverty
+6035,CA,Lassen County,POVALL_2023,3992.0,poverty
+6035,CA,Lassen County,PCTPOVALL_2023,17.1,poverty
+6035,CA,Lassen County,MEDHHINC_2023,77743.0,poverty
+6037,CA,Los Angeles County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6037,CA,Los Angeles County,POVALL_2023,1299957.0,poverty
+6037,CA,Los Angeles County,PCTPOVALL_2023,13.7,poverty
+6037,CA,Los Angeles County,MEDHHINC_2023,86499.0,poverty
+6039,CA,Madera County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6039,CA,Madera County,POVALL_2023,28046.0,poverty
+6039,CA,Madera County,PCTPOVALL_2023,18.0,poverty
+6039,CA,Madera County,MEDHHINC_2023,66084.0,poverty
+6041,CA,Marin County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6041,CA,Marin County,POVALL_2023,21535.0,poverty
+6041,CA,Marin County,PCTPOVALL_2023,8.7,poverty
+6041,CA,Marin County,MEDHHINC_2023,139197.0,poverty
+6043,CA,Mariposa County,Rural_Urban_Continuum_Code_2023,8.0,poverty
+6043,CA,Mariposa County,POVALL_2023,2899.0,poverty
+6043,CA,Mariposa County,PCTPOVALL_2023,17.3,poverty
+6043,CA,Mariposa County,MEDHHINC_2023,64352.0,poverty
+6045,CA,Mendocino County,Rural_Urban_Continuum_Code_2023,4.0,poverty
+6045,CA,Mendocino County,POVALL_2023,12295.0,poverty
+6045,CA,Mendocino County,PCTPOVALL_2023,13.9,poverty
+6045,CA,Mendocino County,MEDHHINC_2023,65891.0,poverty
+6047,CA,Merced County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6047,CA,Merced County,POVALL_2023,53192.0,poverty
+6047,CA,Merced County,PCTPOVALL_2023,18.6,poverty
+6047,CA,Merced County,MEDHHINC_2023,58962.0,poverty
+6049,CA,Modoc County,Rural_Urban_Continuum_Code_2023,8.0,poverty
+6049,CA,Modoc County,POVALL_2023,1690.0,poverty
+6049,CA,Modoc County,PCTPOVALL_2023,20.1,poverty
+6049,CA,Modoc County,MEDHHINC_2023,51996.0,poverty
+6051,CA,Mono County,Rural_Urban_Continuum_Code_2023,7.0,poverty
+6051,CA,Mono County,POVALL_2023,1013.0,poverty
+6051,CA,Mono County,PCTPOVALL_2023,7.8,poverty
+6051,CA,Mono County,MEDHHINC_2023,82973.0,poverty
+6053,CA,Monterey County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6053,CA,Monterey County,POVALL_2023,58136.0,poverty
+6053,CA,Monterey County,PCTPOVALL_2023,14.0,poverty
+6053,CA,Monterey County,MEDHHINC_2023,86809.0,poverty
+6055,CA,Napa County,Rural_Urban_Continuum_Code_2023,3.0,poverty
+6055,CA,Napa County,POVALL_2023,11581.0,poverty
+6055,CA,Napa County,PCTPOVALL_2023,8.9,poverty
+6055,CA,Napa County,MEDHHINC_2023,100469.0,poverty
+6057,CA,Nevada County,Rural_Urban_Continuum_Code_2023,4.0,poverty
+6057,CA,Nevada County,POVALL_2023,10990.0,poverty
+6057,CA,Nevada County,PCTPOVALL_2023,10.9,poverty
+6057,CA,Nevada County,MEDHHINC_2023,87142.0,poverty
+6059,CA,Orange County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6059,CA,Orange County,POVALL_2023,284696.0,poverty
+6059,CA,Orange County,PCTPOVALL_2023,9.2,poverty
+6059,CA,Orange County,MEDHHINC_2023,109768.0,poverty
+6061,CA,Placer County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6061,CA,Placer County,POVALL_2023,27088.0,poverty
+6061,CA,Placer County,PCTPOVALL_2023,6.5,poverty
+6061,CA,Placer County,MEDHHINC_2023,110020.0,poverty
+6063,CA,Plumas County,Rural_Urban_Continuum_Code_2023,9.0,poverty
+6063,CA,Plumas County,POVALL_2023,2418.0,poverty
+6063,CA,Plumas County,PCTPOVALL_2023,12.7,poverty
+6063,CA,Plumas County,MEDHHINC_2023,64121.0,poverty
+6065,CA,Riverside County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6065,CA,Riverside County,POVALL_2023,278442.0,poverty
+6065,CA,Riverside County,PCTPOVALL_2023,11.3,poverty
+6065,CA,Riverside County,MEDHHINC_2023,90251.0,poverty
+6067,CA,Sacramento County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6067,CA,Sacramento County,POVALL_2023,185867.0,poverty
+6067,CA,Sacramento County,PCTPOVALL_2023,11.9,poverty
+6067,CA,Sacramento County,MEDHHINC_2023,89984.0,poverty
+6069,CA,San Benito County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6069,CA,San Benito County,POVALL_2023,6204.0,poverty
+6069,CA,San Benito County,PCTPOVALL_2023,9.1,poverty
+6069,CA,San Benito County,MEDHHINC_2023,105112.0,poverty
+6071,CA,San Bernardino County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6071,CA,San Bernardino County,POVALL_2023,284772.0,poverty
+6071,CA,San Bernardino County,PCTPOVALL_2023,13.2,poverty
+6071,CA,San Bernardino County,MEDHHINC_2023,84576.0,poverty
+6073,CA,San Diego County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6073,CA,San Diego County,POVALL_2023,319714.0,poverty
+6073,CA,San Diego County,PCTPOVALL_2023,10.1,poverty
+6073,CA,San Diego County,MEDHHINC_2023,103476.0,poverty
+6075,CA,San Francisco County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6075,CA,San Francisco County,POVALL_2023,95298.0,poverty
+6075,CA,San Francisco County,PCTPOVALL_2023,11.9,poverty
+6075,CA,San Francisco County,MEDHHINC_2023,125456.0,poverty
+6077,CA,San Joaquin County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6077,CA,San Joaquin County,POVALL_2023,99266.0,poverty
+6077,CA,San Joaquin County,PCTPOVALL_2023,12.6,poverty
+6077,CA,San Joaquin County,MEDHHINC_2023,86211.0,poverty
+6079,CA,San Luis Obispo County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6079,CA,San Luis Obispo County,POVALL_2023,34227.0,poverty
+6079,CA,San Luis Obispo County,PCTPOVALL_2023,12.8,poverty
+6079,CA,San Luis Obispo County,MEDHHINC_2023,89809.0,poverty
+6081,CA,San Mateo County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6081,CA,San Mateo County,POVALL_2023,52747.0,poverty
+6081,CA,San Mateo County,PCTPOVALL_2023,7.3,poverty
+6081,CA,San Mateo County,MEDHHINC_2023,151004.0,poverty
+6083,CA,Santa Barbara County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6083,CA,Santa Barbara County,POVALL_2023,62891.0,poverty
+6083,CA,Santa Barbara County,PCTPOVALL_2023,14.9,poverty
+6083,CA,Santa Barbara County,MEDHHINC_2023,90155.0,poverty
+6085,CA,Santa Clara County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6085,CA,Santa Clara County,POVALL_2023,139084.0,poverty
+6085,CA,Santa Clara County,PCTPOVALL_2023,7.6,poverty
+6085,CA,Santa Clara County,MEDHHINC_2023,154573.0,poverty
+6087,CA,Santa Cruz County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6087,CA,Santa Cruz County,POVALL_2023,31840.0,poverty
+6087,CA,Santa Cruz County,PCTPOVALL_2023,12.6,poverty
+6087,CA,Santa Cruz County,MEDHHINC_2023,102723.0,poverty
+6089,CA,Shasta County,Rural_Urban_Continuum_Code_2023,3.0,poverty
+6089,CA,Shasta County,POVALL_2023,23527.0,poverty
+6089,CA,Shasta County,PCTPOVALL_2023,13.2,poverty
+6089,CA,Shasta County,MEDHHINC_2023,71935.0,poverty
+6091,CA,Sierra County,Rural_Urban_Continuum_Code_2023,8.0,poverty
+6091,CA,Sierra County,POVALL_2023,397.0,poverty
+6091,CA,Sierra County,PCTPOVALL_2023,12.6,poverty
+6091,CA,Sierra County,MEDHHINC_2023,67675.0,poverty
+6093,CA,Siskiyou County,Rural_Urban_Continuum_Code_2023,7.0,poverty
+6093,CA,Siskiyou County,POVALL_2023,7273.0,poverty
+6093,CA,Siskiyou County,PCTPOVALL_2023,17.1,poverty
+6093,CA,Siskiyou County,MEDHHINC_2023,58975.0,poverty
+6095,CA,Solano County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6095,CA,Solano County,POVALL_2023,45402.0,poverty
+6095,CA,Solano County,PCTPOVALL_2023,10.3,poverty
+6095,CA,Solano County,MEDHHINC_2023,99117.0,poverty
+6097,CA,Sonoma County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6097,CA,Sonoma County,POVALL_2023,43143.0,poverty
+6097,CA,Sonoma County,PCTPOVALL_2023,9.1,poverty
+6097,CA,Sonoma County,MEDHHINC_2023,100157.0,poverty
+6099,CA,Stanislaus County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6099,CA,Stanislaus County,POVALL_2023,68761.0,poverty
+6099,CA,Stanislaus County,PCTPOVALL_2023,12.6,poverty
+6099,CA,Stanislaus County,MEDHHINC_2023,81582.0,poverty
+6101,CA,Sutter County,Rural_Urban_Continuum_Code_2023,3.0,poverty
+6101,CA,Sutter County,POVALL_2023,14849.0,poverty
+6101,CA,Sutter County,PCTPOVALL_2023,15.3,poverty
+6101,CA,Sutter County,MEDHHINC_2023,71968.0,poverty
+6103,CA,Tehama County,Rural_Urban_Continuum_Code_2023,4.0,poverty
+6103,CA,Tehama County,POVALL_2023,9633.0,poverty
+6103,CA,Tehama County,PCTPOVALL_2023,15.0,poverty
+6103,CA,Tehama County,MEDHHINC_2023,58333.0,poverty
+6105,CA,Trinity County,Rural_Urban_Continuum_Code_2023,8.0,poverty
+6105,CA,Trinity County,POVALL_2023,3223.0,poverty
+6105,CA,Trinity County,PCTPOVALL_2023,20.8,poverty
+6105,CA,Trinity County,MEDHHINC_2023,52079.0,poverty
+6107,CA,Tulare County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6107,CA,Tulare County,POVALL_2023,83050.0,poverty
+6107,CA,Tulare County,PCTPOVALL_2023,17.5,poverty
+6107,CA,Tulare County,MEDHHINC_2023,71368.0,poverty
+6109,CA,Tuolumne County,Rural_Urban_Continuum_Code_2023,4.0,poverty
+6109,CA,Tuolumne County,POVALL_2023,5390.0,poverty
+6109,CA,Tuolumne County,PCTPOVALL_2023,10.5,poverty
+6109,CA,Tuolumne County,MEDHHINC_2023,72329.0,poverty
+6111,CA,Ventura County,Rural_Urban_Continuum_Code_2023,2.0,poverty
+6111,CA,Ventura County,POVALL_2023,80427.0,poverty
+6111,CA,Ventura County,PCTPOVALL_2023,9.8,poverty
+6111,CA,Ventura County,MEDHHINC_2023,106526.0,poverty
+6113,CA,Yolo County,Rural_Urban_Continuum_Code_2023,1.0,poverty
+6113,CA,Yolo County,POVALL_2023,31960.0,poverty
+6113,CA,Yolo County,PCTPOVALL_2023,15.3,poverty
+6113,CA,Yolo County,MEDHHINC_2023,91192.0,poverty
+6115,CA,Yuba County,Rural_Urban_Continuum_Code_2023,3.0,poverty
+6115,CA,Yuba County,POVALL_2023,12935.0,poverty
+6115,CA,Yuba County,PCTPOVALL_2023,15.4,poverty
+6115,CA,Yuba County,MEDHHINC_2023,71493.0,poverty
+6001,CA,Alameda County,2023 Rural-urban Continuum Code,1.0,education
+6003,CA,Alpine County,2023 Rural-urban Continuum Code,8.0,education
+6005,CA,Amador County,2023 Rural-urban Continuum Code,6.0,education
+6007,CA,Butte County,2023 Rural-urban Continuum Code,3.0,education
+6009,CA,Calaveras County,2023 Rural-urban Continuum Code,6.0,education
+6011,CA,Colusa County,2023 Rural-urban Continuum Code,6.0,education
+6013,CA,Contra Costa County,2023 Rural-urban Continuum Code,1.0,education
+6015,CA,Del Norte County,2023 Rural-urban Continuum Code,7.0,education
+6017,CA,El Dorado County,2023 Rural-urban Continuum Code,1.0,education
+6019,CA,Fresno County,2023 Rural-urban Continuum Code,1.0,education
+6021,CA,Glenn County,2023 Rural-urban Continuum Code,6.0,education
+6023,CA,Humboldt County,2023 Rural-urban Continuum Code,5.0,education
+6025,CA,Imperial County,2023 Rural-urban Continuum Code,3.0,education
+6027,CA,Inyo County,2023 Rural-urban Continuum Code,6.0,education
+6029,CA,Kern County,2023 Rural-urban Continuum Code,2.0,education
+6031,CA,Kings County,2023 Rural-urban Continuum Code,3.0,education
+6033,CA,Lake County,2023 Rural-urban Continuum Code,4.0,education
+6035,CA,Lassen County,2023 Rural-urban Continuum Code,7.0,education
+6037,CA,Los Angeles County,2023 Rural-urban Continuum Code,1.0,education
+6039,CA,Madera County,2023 Rural-urban Continuum Code,1.0,education
+6041,CA,Marin County,2023 Rural-urban Continuum Code,1.0,education
+6043,CA,Mariposa County,2023 Rural-urban Continuum Code,8.0,education
+6045,CA,Mendocino County,2023 Rural-urban Continuum Code,4.0,education
+6047,CA,Merced County,2023 Rural-urban Continuum Code,2.0,education
+6049,CA,Modoc County,2023 Rural-urban Continuum Code,8.0,education
+6051,CA,Mono County,2023 Rural-urban Continuum Code,7.0,education
+6053,CA,Monterey County,2023 Rural-urban Continuum Code,2.0,education
+6055,CA,Napa County,2023 Rural-urban Continuum Code,3.0,education
+6057,CA,Nevada County,2023 Rural-urban Continuum Code,4.0,education
+6059,CA,Orange County,2023 Rural-urban Continuum Code,1.0,education
+6061,CA,Placer County,2023 Rural-urban Continuum Code,1.0,education
+6063,CA,Plumas County,2023 Rural-urban Continuum Code,9.0,education
+6065,CA,Riverside County,2023 Rural-urban Continuum Code,1.0,education
+6067,CA,Sacramento County,2023 Rural-urban Continuum Code,1.0,education
+6069,CA,San Benito County,2023 Rural-urban Continuum Code,1.0,education
+6071,CA,San Bernardino County,2023 Rural-urban Continuum Code,1.0,education
+6073,CA,San Diego County,2023 Rural-urban Continuum Code,1.0,education
+6075,CA,San Francisco County,2023 Rural-urban Continuum Code,1.0,education
+6077,CA,San Joaquin County,2023 Rural-urban Continuum Code,2.0,education
+6079,CA,San Luis Obispo County,2023 Rural-urban Continuum Code,2.0,education
+6081,CA,San Mateo County,2023 Rural-urban Continuum Code,1.0,education
+6083,CA,Santa Barbara County,2023 Rural-urban Continuum Code,2.0,education
+6085,CA,Santa Clara County,2023 Rural-urban Continuum Code,1.0,education
+6087,CA,Santa Cruz County,2023 Rural-urban Continuum Code,2.0,education
+6089,CA,Shasta County,2023 Rural-urban Continuum Code,3.0,education
+6091,CA,Sierra County,2023 Rural-urban Continuum Code,8.0,education
+6093,CA,Siskiyou County,2023 Rural-urban Continuum Code,7.0,education
+6095,CA,Solano County,2023 Rural-urban Continuum Code,2.0,education
+6097,CA,Sonoma County,2023 Rural-urban Continuum Code,2.0,education
+6099,CA,Stanislaus County,2023 Rural-urban Continuum Code,2.0,education
+6101,CA,Sutter County,2023 Rural-urban Continuum Code,3.0,education
+6103,CA,Tehama County,2023 Rural-urban Continuum Code,4.0,education
+6105,CA,Trinity County,2023 Rural-urban Continuum Code,8.0,education
+6107,CA,Tulare County,2023 Rural-urban Continuum Code,2.0,education
+6109,CA,Tuolumne County,2023 Rural-urban Continuum Code,4.0,education
+6111,CA,Ventura County,2023 Rural-urban Continuum Code,2.0,education
+6113,CA,Yolo County,2023 Rural-urban Continuum Code,1.0,education
+6115,CA,Yuba County,2023 Rural-urban Continuum Code,3.0,education
+6001,CA,"Alameda County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6001,CA,"Alameda County, CA",Metro_2023,1.0,unemployment
+6001,CA,"Alameda County, CA",Civilian_labor_force_2023,826102.0,unemployment
+6001,CA,"Alameda County, CA",Employed_2023,792439.0,unemployment
+6001,CA,"Alameda County, CA",Unemployed_2023,33663.0,unemployment
+6001,CA,"Alameda County, CA",Unemployment_rate_2023,4.1,unemployment
+6003,CA,"Alpine County, CA",Rural_Urban_Continuum_Code_2023,8.0,unemployment
+6003,CA,"Alpine County, CA",Metro_2023,0.0,unemployment
+6003,CA,"Alpine County, CA",Civilian_labor_force_2023,540.0,unemployment
+6003,CA,"Alpine County, CA",Employed_2023,505.0,unemployment
+6003,CA,"Alpine County, CA",Unemployed_2023,35.0,unemployment
+6003,CA,"Alpine County, CA",Unemployment_rate_2023,6.5,unemployment
+6005,CA,"Amador County, CA",Rural_Urban_Continuum_Code_2023,6.0,unemployment
+6005,CA,"Amador County, CA",Metro_2023,0.0,unemployment
+6005,CA,"Amador County, CA",Civilian_labor_force_2023,14404.0,unemployment
+6005,CA,"Amador County, CA",Employed_2023,13673.0,unemployment
+6005,CA,"Amador County, CA",Unemployed_2023,731.0,unemployment
+6005,CA,"Amador County, CA",Unemployment_rate_2023,5.1,unemployment
+6007,CA,"Butte County, CA",Rural_Urban_Continuum_Code_2023,3.0,unemployment
+6007,CA,"Butte County, CA",Metro_2023,1.0,unemployment
+6007,CA,"Butte County, CA",Civilian_labor_force_2023,91910.0,unemployment
+6007,CA,"Butte County, CA",Employed_2023,87088.0,unemployment
+6007,CA,"Butte County, CA",Unemployed_2023,4822.0,unemployment
+6007,CA,"Butte County, CA",Unemployment_rate_2023,5.2,unemployment
+6009,CA,"Calaveras County, CA",Rural_Urban_Continuum_Code_2023,6.0,unemployment
+6009,CA,"Calaveras County, CA",Metro_2023,0.0,unemployment
+6009,CA,"Calaveras County, CA",Civilian_labor_force_2023,21956.0,unemployment
+6009,CA,"Calaveras County, CA",Employed_2023,21030.0,unemployment
+6009,CA,"Calaveras County, CA",Unemployed_2023,926.0,unemployment
+6009,CA,"Calaveras County, CA",Unemployment_rate_2023,4.2,unemployment
+6011,CA,"Colusa County, CA",Rural_Urban_Continuum_Code_2023,6.0,unemployment
+6011,CA,"Colusa County, CA",Metro_2023,0.0,unemployment
+6011,CA,"Colusa County, CA",Civilian_labor_force_2023,10576.0,unemployment
+6011,CA,"Colusa County, CA",Employed_2023,9202.0,unemployment
+6011,CA,"Colusa County, CA",Unemployed_2023,1374.0,unemployment
+6011,CA,"Colusa County, CA",Unemployment_rate_2023,13.0,unemployment
+6013,CA,"Contra Costa County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6013,CA,"Contra Costa County, CA",Metro_2023,1.0,unemployment
+6013,CA,"Contra Costa County, CA",Civilian_labor_force_2023,550610.0,unemployment
+6013,CA,"Contra Costa County, CA",Employed_2023,527843.0,unemployment
+6013,CA,"Contra Costa County, CA",Unemployed_2023,22767.0,unemployment
+6013,CA,"Contra Costa County, CA",Unemployment_rate_2023,4.1,unemployment
+6015,CA,"Del Norte County, CA",Rural_Urban_Continuum_Code_2023,7.0,unemployment
+6015,CA,"Del Norte County, CA",Metro_2023,0.0,unemployment
+6015,CA,"Del Norte County, CA",Civilian_labor_force_2023,9443.0,unemployment
+6015,CA,"Del Norte County, CA",Employed_2023,8904.0,unemployment
+6015,CA,"Del Norte County, CA",Unemployed_2023,539.0,unemployment
+6015,CA,"Del Norte County, CA",Unemployment_rate_2023,5.7,unemployment
+6017,CA,"El Dorado County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6017,CA,"El Dorado County, CA",Metro_2023,1.0,unemployment
+6017,CA,"El Dorado County, CA",Civilian_labor_force_2023,93670.0,unemployment
+6017,CA,"El Dorado County, CA",Employed_2023,89963.0,unemployment
+6017,CA,"El Dorado County, CA",Unemployed_2023,3707.0,unemployment
+6017,CA,"El Dorado County, CA",Unemployment_rate_2023,4.0,unemployment
+6019,CA,"Fresno County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6019,CA,"Fresno County, CA",Metro_2023,1.0,unemployment
+6019,CA,"Fresno County, CA",Civilian_labor_force_2023,461040.0,unemployment
+6019,CA,"Fresno County, CA",Employed_2023,426635.0,unemployment
+6019,CA,"Fresno County, CA",Unemployed_2023,34405.0,unemployment
+6019,CA,"Fresno County, CA",Unemployment_rate_2023,7.5,unemployment
+6021,CA,"Glenn County, CA",Rural_Urban_Continuum_Code_2023,6.0,unemployment
+6021,CA,"Glenn County, CA",Metro_2023,0.0,unemployment
+6021,CA,"Glenn County, CA",Civilian_labor_force_2023,12792.0,unemployment
+6021,CA,"Glenn County, CA",Employed_2023,11989.0,unemployment
+6021,CA,"Glenn County, CA",Unemployed_2023,803.0,unemployment
+6021,CA,"Glenn County, CA",Unemployment_rate_2023,6.3,unemployment
+6023,CA,"Humboldt County, CA",Rural_Urban_Continuum_Code_2023,5.0,unemployment
+6023,CA,"Humboldt County, CA",Metro_2023,0.0,unemployment
+6023,CA,"Humboldt County, CA",Civilian_labor_force_2023,59947.0,unemployment
+6023,CA,"Humboldt County, CA",Employed_2023,57189.0,unemployment
+6023,CA,"Humboldt County, CA",Unemployed_2023,2758.0,unemployment
+6023,CA,"Humboldt County, CA",Unemployment_rate_2023,4.6,unemployment
+6025,CA,"Imperial County, CA",Rural_Urban_Continuum_Code_2023,3.0,unemployment
+6025,CA,"Imperial County, CA",Metro_2023,1.0,unemployment
+6025,CA,"Imperial County, CA",Civilian_labor_force_2023,73294.0,unemployment
+6025,CA,"Imperial County, CA",Employed_2023,60637.0,unemployment
+6025,CA,"Imperial County, CA",Unemployed_2023,12657.0,unemployment
+6025,CA,"Imperial County, CA",Unemployment_rate_2023,17.3,unemployment
+6027,CA,"Inyo County, CA",Rural_Urban_Continuum_Code_2023,6.0,unemployment
+6027,CA,"Inyo County, CA",Metro_2023,0.0,unemployment
+6027,CA,"Inyo County, CA",Civilian_labor_force_2023,8355.0,unemployment
+6027,CA,"Inyo County, CA",Employed_2023,8039.0,unemployment
+6027,CA,"Inyo County, CA",Unemployed_2023,316.0,unemployment
+6027,CA,"Inyo County, CA",Unemployment_rate_2023,3.8,unemployment
+6029,CA,"Kern County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6029,CA,"Kern County, CA",Metro_2023,1.0,unemployment
+6029,CA,"Kern County, CA",Civilian_labor_force_2023,393736.0,unemployment
+6029,CA,"Kern County, CA",Employed_2023,360971.0,unemployment
+6029,CA,"Kern County, CA",Unemployed_2023,32765.0,unemployment
+6029,CA,"Kern County, CA",Unemployment_rate_2023,8.3,unemployment
+6031,CA,"Kings County, CA",Rural_Urban_Continuum_Code_2023,3.0,unemployment
+6031,CA,"Kings County, CA",Metro_2023,1.0,unemployment
+6031,CA,"Kings County, CA",Civilian_labor_force_2023,58232.0,unemployment
+6031,CA,"Kings County, CA",Employed_2023,53451.0,unemployment
+6031,CA,"Kings County, CA",Unemployed_2023,4781.0,unemployment
+6031,CA,"Kings County, CA",Unemployment_rate_2023,8.2,unemployment
+6033,CA,"Lake County, CA",Rural_Urban_Continuum_Code_2023,4.0,unemployment
+6033,CA,"Lake County, CA",Metro_2023,0.0,unemployment
+6033,CA,"Lake County, CA",Civilian_labor_force_2023,28706.0,unemployment
+6033,CA,"Lake County, CA",Employed_2023,27045.0,unemployment
+6033,CA,"Lake County, CA",Unemployed_2023,1661.0,unemployment
+6033,CA,"Lake County, CA",Unemployment_rate_2023,5.8,unemployment
+6035,CA,"Lassen County, CA",Rural_Urban_Continuum_Code_2023,7.0,unemployment
+6035,CA,"Lassen County, CA",Metro_2023,0.0,unemployment
+6035,CA,"Lassen County, CA",Civilian_labor_force_2023,8624.0,unemployment
+6035,CA,"Lassen County, CA",Employed_2023,8176.0,unemployment
+6035,CA,"Lassen County, CA",Unemployed_2023,448.0,unemployment
+6035,CA,"Lassen County, CA",Unemployment_rate_2023,5.2,unemployment
+6037,CA,"Los Angeles County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6037,CA,"Los Angeles County, CA",Metro_2023,1.0,unemployment
+6037,CA,"Los Angeles County, CA",Civilian_labor_force_2023,5015629.0,unemployment
+6037,CA,"Los Angeles County, CA",Employed_2023,4763587.0,unemployment
+6037,CA,"Los Angeles County, CA",Unemployed_2023,252042.0,unemployment
+6037,CA,"Los Angeles County, CA",Unemployment_rate_2023,5.0,unemployment
+6039,CA,"Madera County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6039,CA,"Madera County, CA",Metro_2023,1.0,unemployment
+6039,CA,"Madera County, CA",Civilian_labor_force_2023,64206.0,unemployment
+6039,CA,"Madera County, CA",Employed_2023,59404.0,unemployment
+6039,CA,"Madera County, CA",Unemployed_2023,4802.0,unemployment
+6039,CA,"Madera County, CA",Unemployment_rate_2023,7.5,unemployment
+6041,CA,"Marin County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6041,CA,"Marin County, CA",Metro_2023,1.0,unemployment
+6041,CA,"Marin County, CA",Civilian_labor_force_2023,132018.0,unemployment
+6041,CA,"Marin County, CA",Employed_2023,127638.0,unemployment
+6041,CA,"Marin County, CA",Unemployed_2023,4380.0,unemployment
+6041,CA,"Marin County, CA",Unemployment_rate_2023,3.3,unemployment
+6043,CA,"Mariposa County, CA",Rural_Urban_Continuum_Code_2023,8.0,unemployment
+6043,CA,"Mariposa County, CA",Metro_2023,0.0,unemployment
+6043,CA,"Mariposa County, CA",Civilian_labor_force_2023,7603.0,unemployment
+6043,CA,"Mariposa County, CA",Employed_2023,7216.0,unemployment
+6043,CA,"Mariposa County, CA",Unemployed_2023,387.0,unemployment
+6043,CA,"Mariposa County, CA",Unemployment_rate_2023,5.1,unemployment
+6045,CA,"Mendocino County, CA",Rural_Urban_Continuum_Code_2023,4.0,unemployment
+6045,CA,"Mendocino County, CA",Metro_2023,0.0,unemployment
+6045,CA,"Mendocino County, CA",Civilian_labor_force_2023,37377.0,unemployment
+6045,CA,"Mendocino County, CA",Employed_2023,35621.0,unemployment
+6045,CA,"Mendocino County, CA",Unemployed_2023,1756.0,unemployment
+6045,CA,"Mendocino County, CA",Unemployment_rate_2023,4.7,unemployment
+6047,CA,"Merced County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6047,CA,"Merced County, CA",Metro_2023,1.0,unemployment
+6047,CA,"Merced County, CA",Civilian_labor_force_2023,118932.0,unemployment
+6047,CA,"Merced County, CA",Employed_2023,108224.0,unemployment
+6047,CA,"Merced County, CA",Unemployed_2023,10708.0,unemployment
+6047,CA,"Merced County, CA",Unemployment_rate_2023,9.0,unemployment
+6049,CA,"Modoc County, CA",Rural_Urban_Continuum_Code_2023,8.0,unemployment
+6049,CA,"Modoc County, CA",Metro_2023,0.0,unemployment
+6049,CA,"Modoc County, CA",Civilian_labor_force_2023,3265.0,unemployment
+6049,CA,"Modoc County, CA",Employed_2023,3058.0,unemployment
+6049,CA,"Modoc County, CA",Unemployed_2023,207.0,unemployment
+6049,CA,"Modoc County, CA",Unemployment_rate_2023,6.3,unemployment
+6051,CA,"Mono County, CA",Rural_Urban_Continuum_Code_2023,7.0,unemployment
+6051,CA,"Mono County, CA",Metro_2023,0.0,unemployment
+6051,CA,"Mono County, CA",Civilian_labor_force_2023,9102.0,unemployment
+6051,CA,"Mono County, CA",Employed_2023,8755.0,unemployment
+6051,CA,"Mono County, CA",Unemployed_2023,347.0,unemployment
+6051,CA,"Mono County, CA",Unemployment_rate_2023,3.8,unemployment
+6053,CA,"Monterey County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6053,CA,"Monterey County, CA",Metro_2023,1.0,unemployment
+6053,CA,"Monterey County, CA",Civilian_labor_force_2023,217665.0,unemployment
+6053,CA,"Monterey County, CA",Employed_2023,202396.0,unemployment
+6053,CA,"Monterey County, CA",Unemployed_2023,15269.0,unemployment
+6053,CA,"Monterey County, CA",Unemployment_rate_2023,7.0,unemployment
+6055,CA,"Napa County, CA",Rural_Urban_Continuum_Code_2023,3.0,unemployment
+6055,CA,"Napa County, CA",Metro_2023,1.0,unemployment
+6055,CA,"Napa County, CA",Civilian_labor_force_2023,71973.0,unemployment
+6055,CA,"Napa County, CA",Employed_2023,69429.0,unemployment
+6055,CA,"Napa County, CA",Unemployed_2023,2544.0,unemployment
+6055,CA,"Napa County, CA",Unemployment_rate_2023,3.5,unemployment
+6057,CA,"Nevada County, CA",Rural_Urban_Continuum_Code_2023,4.0,unemployment
+6057,CA,"Nevada County, CA",Metro_2023,0.0,unemployment
+6057,CA,"Nevada County, CA",Civilian_labor_force_2023,48838.0,unemployment
+6057,CA,"Nevada County, CA",Employed_2023,46925.0,unemployment
+6057,CA,"Nevada County, CA",Unemployed_2023,1913.0,unemployment
+6057,CA,"Nevada County, CA",Unemployment_rate_2023,3.9,unemployment
+6059,CA,"Orange County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6059,CA,"Orange County, CA",Metro_2023,1.0,unemployment
+6059,CA,"Orange County, CA",Civilian_labor_force_2023,1588873.0,unemployment
+6059,CA,"Orange County, CA",Employed_2023,1532415.0,unemployment
+6059,CA,"Orange County, CA",Unemployed_2023,56458.0,unemployment
+6059,CA,"Orange County, CA",Unemployment_rate_2023,3.6,unemployment
+6061,CA,"Placer County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6061,CA,"Placer County, CA",Metro_2023,1.0,unemployment
+6061,CA,"Placer County, CA",Civilian_labor_force_2023,194719.0,unemployment
+6061,CA,"Placer County, CA",Employed_2023,187464.0,unemployment
+6061,CA,"Placer County, CA",Unemployed_2023,7255.0,unemployment
+6061,CA,"Placer County, CA",Unemployment_rate_2023,3.7,unemployment
+6063,CA,"Plumas County, CA",Rural_Urban_Continuum_Code_2023,9.0,unemployment
+6063,CA,"Plumas County, CA",Metro_2023,0.0,unemployment
+6063,CA,"Plumas County, CA",Civilian_labor_force_2023,7423.0,unemployment
+6063,CA,"Plumas County, CA",Employed_2023,6883.0,unemployment
+6063,CA,"Plumas County, CA",Unemployed_2023,540.0,unemployment
+6063,CA,"Plumas County, CA",Unemployment_rate_2023,7.3,unemployment
+6065,CA,"Riverside County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6065,CA,"Riverside County, CA",Metro_2023,1.0,unemployment
+6065,CA,"Riverside County, CA",Civilian_labor_force_2023,1157871.0,unemployment
+6065,CA,"Riverside County, CA",Employed_2023,1102297.0,unemployment
+6065,CA,"Riverside County, CA",Unemployed_2023,55574.0,unemployment
+6065,CA,"Riverside County, CA",Unemployment_rate_2023,4.8,unemployment
+6067,CA,"Sacramento County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6067,CA,"Sacramento County, CA",Metro_2023,1.0,unemployment
+6067,CA,"Sacramento County, CA",Civilian_labor_force_2023,731046.0,unemployment
+6067,CA,"Sacramento County, CA",Employed_2023,698518.0,unemployment
+6067,CA,"Sacramento County, CA",Unemployed_2023,32528.0,unemployment
+6067,CA,"Sacramento County, CA",Unemployment_rate_2023,4.4,unemployment
+6069,CA,"San Benito County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6069,CA,"San Benito County, CA",Metro_2023,1.0,unemployment
+6069,CA,"San Benito County, CA",Civilian_labor_force_2023,32408.0,unemployment
+6069,CA,"San Benito County, CA",Employed_2023,30475.0,unemployment
+6069,CA,"San Benito County, CA",Unemployed_2023,1933.0,unemployment
+6069,CA,"San Benito County, CA",Unemployment_rate_2023,6.0,unemployment
+6071,CA,"San Bernardino County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6071,CA,"San Bernardino County, CA",Metro_2023,1.0,unemployment
+6071,CA,"San Bernardino County, CA",Civilian_labor_force_2023,1013665.0,unemployment
+6071,CA,"San Bernardino County, CA",Employed_2023,966511.0,unemployment
+6071,CA,"San Bernardino County, CA",Unemployed_2023,47154.0,unemployment
+6071,CA,"San Bernardino County, CA",Unemployment_rate_2023,4.7,unemployment
+6073,CA,"San Diego County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6073,CA,"San Diego County, CA",Metro_2023,1.0,unemployment
+6073,CA,"San Diego County, CA",Civilian_labor_force_2023,1596432.0,unemployment
+6073,CA,"San Diego County, CA",Employed_2023,1534417.0,unemployment
+6073,CA,"San Diego County, CA",Unemployed_2023,62015.0,unemployment
+6073,CA,"San Diego County, CA",Unemployment_rate_2023,3.9,unemployment
+6075,CA,"San Francisco County/city, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6075,CA,"San Francisco County/city, CA",Metro_2023,1.0,unemployment
+6075,CA,"San Francisco County/city, CA",Civilian_labor_force_2023,563326.0,unemployment
+6075,CA,"San Francisco County/city, CA",Employed_2023,544928.0,unemployment
+6075,CA,"San Francisco County/city, CA",Unemployed_2023,18398.0,unemployment
+6075,CA,"San Francisco County/city, CA",Unemployment_rate_2023,3.3,unemployment
+6077,CA,"San Joaquin County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6077,CA,"San Joaquin County, CA",Metro_2023,1.0,unemployment
+6077,CA,"San Joaquin County, CA",Civilian_labor_force_2023,346764.0,unemployment
+6077,CA,"San Joaquin County, CA",Employed_2023,325140.0,unemployment
+6077,CA,"San Joaquin County, CA",Unemployed_2023,21624.0,unemployment
+6077,CA,"San Joaquin County, CA",Unemployment_rate_2023,6.2,unemployment
+6079,CA,"San Luis Obispo County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6079,CA,"San Luis Obispo County, CA",Metro_2023,1.0,unemployment
+6079,CA,"San Luis Obispo County, CA",Civilian_labor_force_2023,136314.0,unemployment
+6079,CA,"San Luis Obispo County, CA",Employed_2023,131600.0,unemployment
+6079,CA,"San Luis Obispo County, CA",Unemployed_2023,4714.0,unemployment
+6079,CA,"San Luis Obispo County, CA",Unemployment_rate_2023,3.5,unemployment
+6081,CA,"San Mateo County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6081,CA,"San Mateo County, CA",Metro_2023,1.0,unemployment
+6081,CA,"San Mateo County, CA",Civilian_labor_force_2023,445393.0,unemployment
+6081,CA,"San Mateo County, CA",Employed_2023,431899.0,unemployment
+6081,CA,"San Mateo County, CA",Unemployed_2023,13494.0,unemployment
+6081,CA,"San Mateo County, CA",Unemployment_rate_2023,3.0,unemployment
+6083,CA,"Santa Barbara County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6083,CA,"Santa Barbara County, CA",Metro_2023,1.0,unemployment
+6083,CA,"Santa Barbara County, CA",Civilian_labor_force_2023,218248.0,unemployment
+6083,CA,"Santa Barbara County, CA",Employed_2023,209269.0,unemployment
+6083,CA,"Santa Barbara County, CA",Unemployed_2023,8979.0,unemployment
+6083,CA,"Santa Barbara County, CA",Unemployment_rate_2023,4.1,unemployment
+6085,CA,"Santa Clara County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6085,CA,"Santa Clara County, CA",Metro_2023,1.0,unemployment
+6085,CA,"Santa Clara County, CA",Civilian_labor_force_2023,1038951.0,unemployment
+6085,CA,"Santa Clara County, CA",Employed_2023,1002573.0,unemployment
+6085,CA,"Santa Clara County, CA",Unemployed_2023,36378.0,unemployment
+6085,CA,"Santa Clara County, CA",Unemployment_rate_2023,3.5,unemployment
+6087,CA,"Santa Cruz County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6087,CA,"Santa Cruz County, CA",Metro_2023,1.0,unemployment
+6087,CA,"Santa Cruz County, CA",Civilian_labor_force_2023,133217.0,unemployment
+6087,CA,"Santa Cruz County, CA",Employed_2023,125570.0,unemployment
+6087,CA,"Santa Cruz County, CA",Unemployed_2023,7647.0,unemployment
+6087,CA,"Santa Cruz County, CA",Unemployment_rate_2023,5.7,unemployment
+6089,CA,"Shasta County, CA",Rural_Urban_Continuum_Code_2023,3.0,unemployment
+6089,CA,"Shasta County, CA",Metro_2023,1.0,unemployment
+6089,CA,"Shasta County, CA",Civilian_labor_force_2023,73889.0,unemployment
+6089,CA,"Shasta County, CA",Employed_2023,70091.0,unemployment
+6089,CA,"Shasta County, CA",Unemployed_2023,3798.0,unemployment
+6089,CA,"Shasta County, CA",Unemployment_rate_2023,5.1,unemployment
+6091,CA,"Sierra County, CA",Rural_Urban_Continuum_Code_2023,8.0,unemployment
+6091,CA,"Sierra County, CA",Metro_2023,0.0,unemployment
+6091,CA,"Sierra County, CA",Civilian_labor_force_2023,1332.0,unemployment
+6091,CA,"Sierra County, CA",Employed_2023,1270.0,unemployment
+6091,CA,"Sierra County, CA",Unemployed_2023,62.0,unemployment
+6091,CA,"Sierra County, CA",Unemployment_rate_2023,4.7,unemployment
+6093,CA,"Siskiyou County, CA",Rural_Urban_Continuum_Code_2023,7.0,unemployment
+6093,CA,"Siskiyou County, CA",Metro_2023,0.0,unemployment
+6093,CA,"Siskiyou County, CA",Civilian_labor_force_2023,16716.0,unemployment
+6093,CA,"Siskiyou County, CA",Employed_2023,15649.0,unemployment
+6093,CA,"Siskiyou County, CA",Unemployed_2023,1067.0,unemployment
+6093,CA,"Siskiyou County, CA",Unemployment_rate_2023,6.4,unemployment
+6095,CA,"Solano County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6095,CA,"Solano County, CA",Metro_2023,1.0,unemployment
+6095,CA,"Solano County, CA",Civilian_labor_force_2023,203063.0,unemployment
+6095,CA,"Solano County, CA",Employed_2023,193619.0,unemployment
+6095,CA,"Solano County, CA",Unemployed_2023,9444.0,unemployment
+6095,CA,"Solano County, CA",Unemployment_rate_2023,4.7,unemployment
+6097,CA,"Sonoma County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6097,CA,"Sonoma County, CA",Metro_2023,1.0,unemployment
+6097,CA,"Sonoma County, CA",Civilian_labor_force_2023,247963.0,unemployment
+6097,CA,"Sonoma County, CA",Employed_2023,238991.0,unemployment
+6097,CA,"Sonoma County, CA",Unemployed_2023,8972.0,unemployment
+6097,CA,"Sonoma County, CA",Unemployment_rate_2023,3.6,unemployment
+6099,CA,"Stanislaus County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6099,CA,"Stanislaus County, CA",Metro_2023,1.0,unemployment
+6099,CA,"Stanislaus County, CA",Civilian_labor_force_2023,244926.0,unemployment
+6099,CA,"Stanislaus County, CA",Employed_2023,229171.0,unemployment
+6099,CA,"Stanislaus County, CA",Unemployed_2023,15755.0,unemployment
+6099,CA,"Stanislaus County, CA",Unemployment_rate_2023,6.4,unemployment
+6101,CA,"Sutter County, CA",Rural_Urban_Continuum_Code_2023,3.0,unemployment
+6101,CA,"Sutter County, CA",Metro_2023,1.0,unemployment
+6101,CA,"Sutter County, CA",Civilian_labor_force_2023,46736.0,unemployment
+6101,CA,"Sutter County, CA",Employed_2023,43098.0,unemployment
+6101,CA,"Sutter County, CA",Unemployed_2023,3638.0,unemployment
+6101,CA,"Sutter County, CA",Unemployment_rate_2023,7.8,unemployment
+6103,CA,"Tehama County, CA",Rural_Urban_Continuum_Code_2023,4.0,unemployment
+6103,CA,"Tehama County, CA",Metro_2023,0.0,unemployment
+6103,CA,"Tehama County, CA",Civilian_labor_force_2023,26071.0,unemployment
+6103,CA,"Tehama County, CA",Employed_2023,24552.0,unemployment
+6103,CA,"Tehama County, CA",Unemployed_2023,1519.0,unemployment
+6103,CA,"Tehama County, CA",Unemployment_rate_2023,5.8,unemployment
+6105,CA,"Trinity County, CA",Rural_Urban_Continuum_Code_2023,8.0,unemployment
+6105,CA,"Trinity County, CA",Metro_2023,0.0,unemployment
+6105,CA,"Trinity County, CA",Civilian_labor_force_2023,4560.0,unemployment
+6105,CA,"Trinity County, CA",Employed_2023,4301.0,unemployment
+6105,CA,"Trinity County, CA",Unemployed_2023,259.0,unemployment
+6105,CA,"Trinity County, CA",Unemployment_rate_2023,5.7,unemployment
+6107,CA,"Tulare County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6107,CA,"Tulare County, CA",Metro_2023,1.0,unemployment
+6107,CA,"Tulare County, CA",Civilian_labor_force_2023,213303.0,unemployment
+6107,CA,"Tulare County, CA",Employed_2023,191983.0,unemployment
+6107,CA,"Tulare County, CA",Unemployed_2023,21320.0,unemployment
+6107,CA,"Tulare County, CA",Unemployment_rate_2023,10.0,unemployment
+6109,CA,"Tuolumne County, CA",Rural_Urban_Continuum_Code_2023,4.0,unemployment
+6109,CA,"Tuolumne County, CA",Metro_2023,0.0,unemployment
+6109,CA,"Tuolumne County, CA",Civilian_labor_force_2023,19979.0,unemployment
+6109,CA,"Tuolumne County, CA",Employed_2023,18979.0,unemployment
+6109,CA,"Tuolumne County, CA",Unemployed_2023,1000.0,unemployment
+6109,CA,"Tuolumne County, CA",Unemployment_rate_2023,5.0,unemployment
+6111,CA,"Ventura County, CA",Rural_Urban_Continuum_Code_2023,2.0,unemployment
+6111,CA,"Ventura County, CA",Metro_2023,1.0,unemployment
+6111,CA,"Ventura County, CA",Civilian_labor_force_2023,412931.0,unemployment
+6111,CA,"Ventura County, CA",Employed_2023,395282.0,unemployment
+6111,CA,"Ventura County, CA",Unemployed_2023,17649.0,unemployment
+6111,CA,"Ventura County, CA",Unemployment_rate_2023,4.3,unemployment
+6113,CA,"Yolo County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
+6113,CA,"Yolo County, CA",Metro_2023,1.0,unemployment
+6113,CA,"Yolo County, CA",Civilian_labor_force_2023,109753.0,unemployment
+6113,CA,"Yolo County, CA",Employed_2023,104602.0,unemployment
+6113,CA,"Yolo County, CA",Unemployed_2023,5151.0,unemployment
+6113,CA,"Yolo County, CA",Unemployment_rate_2023,4.7,unemployment
+6115,CA,"Yuba County, CA",Rural_Urban_Continuum_Code_2023,3.0,unemployment
+6115,CA,"Yuba County, CA",Metro_2023,1.0,unemployment
+6115,CA,"Yuba County, CA",Civilian_labor_force_2023,31878.0,unemployment
+6115,CA,"Yuba County, CA",Employed_2023,29754.0,unemployment
+6115,CA,"Yuba County, CA",Unemployed_2023,2124.0,unemployment
+6115,CA,"Yuba County, CA",Unemployment_rate_2023,6.7,unemployment
+6001,CA,Alameda County,Rural_Urban_Continuum_Code_2023,1.0,population
+6001,CA,Alameda County,POP_ESTIMATE_2023,1622188.0,population
+6001,CA,Alameda County,N_POP_CHG_2023,-6071.0,population
+6001,CA,Alameda County,BIRTHS_2023,16418.0,population
+6001,CA,Alameda County,DEATHS_2023,10571.0,population
+6001,CA,Alameda County,NATURAL_CHG_2023,5847.0,population
+6001,CA,Alameda County,INTERNATIONAL_MIG_2023,12740.0,population
+6001,CA,Alameda County,DOMESTIC_MIG_2023,-24633.0,population
+6001,CA,Alameda County,NET_MIG_2023,-11893.0,population
+6001,CA,Alameda County,RESIDUAL_2023,-25.0,population
+6001,CA,Alameda County,GQ_ESTIMATES_2023,50861.0,population
+6001,CA,Alameda County,R_BIRTH_2023,10.1,population
+6001,CA,Alameda County,R_DEATH_2023,6.5,population
+6001,CA,Alameda County,R_NATURAL_CHG_2023,3.6,population
+6001,CA,Alameda County,R_INTERNATIONAL_MIG_2023,7.8,population
+6001,CA,Alameda County,R_DOMESTIC_MIG_2023,-15.2,population
+6001,CA,Alameda County,R_NET_MIG_2023,-7.3,population
+6003,CA,Alpine County,Rural_Urban_Continuum_Code_2023,8.0,population
+6003,CA,Alpine County,POP_ESTIMATE_2023,1141.0,population
+6003,CA,Alpine County,N_POP_CHG_2023,-49.0,population
+6003,CA,Alpine County,BIRTHS_2023,7.0,population
+6003,CA,Alpine County,DEATHS_2023,22.0,population
+6003,CA,Alpine County,NATURAL_CHG_2023,-15.0,population
+6003,CA,Alpine County,INTERNATIONAL_MIG_2023,1.0,population
+6003,CA,Alpine County,DOMESTIC_MIG_2023,-33.0,population
+6003,CA,Alpine County,NET_MIG_2023,-32.0,population
+6003,CA,Alpine County,RESIDUAL_2023,-2.0,population
+6003,CA,Alpine County,GQ_ESTIMATES_2023,53.0,population
+6003,CA,Alpine County,R_BIRTH_2023,6.0,population
+6003,CA,Alpine County,R_DEATH_2023,18.9,population
+6003,CA,Alpine County,R_NATURAL_CHG_2023,-12.9,population
+6003,CA,Alpine County,R_INTERNATIONAL_MIG_2023,0.9,population
+6003,CA,Alpine County,R_DOMESTIC_MIG_2023,-28.3,population
+6003,CA,Alpine County,R_NET_MIG_2023,-27.5,population
+6005,CA,Amador County,Rural_Urban_Continuum_Code_2023,6.0,population
+6005,CA,Amador County,POP_ESTIMATE_2023,41811.0,population
+6005,CA,Amador County,N_POP_CHG_2023,318.0,population
+6005,CA,Amador County,BIRTHS_2023,331.0,population
+6005,CA,Amador County,DEATHS_2023,553.0,population
+6005,CA,Amador County,NATURAL_CHG_2023,-222.0,population
+6005,CA,Amador County,INTERNATIONAL_MIG_2023,25.0,population
+6005,CA,Amador County,DOMESTIC_MIG_2023,517.0,population
+6005,CA,Amador County,NET_MIG_2023,542.0,population
+6005,CA,Amador County,RESIDUAL_2023,-2.0,population
+6005,CA,Amador County,GQ_ESTIMATES_2023,4202.0,population
+6005,CA,Amador County,R_BIRTH_2023,7.9,population
+6005,CA,Amador County,R_DEATH_2023,13.3,population
+6005,CA,Amador County,R_NATURAL_CHG_2023,-5.3,population
+6005,CA,Amador County,R_INTERNATIONAL_MIG_2023,0.6,population
+6005,CA,Amador County,R_DOMESTIC_MIG_2023,12.4,population
+6005,CA,Amador County,R_NET_MIG_2023,13.0,population
+6007,CA,Butte County,Rural_Urban_Continuum_Code_2023,3.0,population
+6007,CA,Butte County,POP_ESTIMATE_2023,207172.0,population
+6007,CA,Butte County,N_POP_CHG_2023,-197.0,population
+6007,CA,Butte County,BIRTHS_2023,1947.0,population
+6007,CA,Butte County,DEATHS_2023,2388.0,population
+6007,CA,Butte County,NATURAL_CHG_2023,-441.0,population
+6007,CA,Butte County,INTERNATIONAL_MIG_2023,238.0,population
+6007,CA,Butte County,DOMESTIC_MIG_2023,12.0,population
+6007,CA,Butte County,NET_MIG_2023,250.0,population
+6007,CA,Butte County,RESIDUAL_2023,-6.0,population
+6007,CA,Butte County,GQ_ESTIMATES_2023,4566.0,population
+6007,CA,Butte County,R_BIRTH_2023,9.4,population
+6007,CA,Butte County,R_DEATH_2023,11.5,population
+6007,CA,Butte County,R_NATURAL_CHG_2023,-2.1,population
+6007,CA,Butte County,R_INTERNATIONAL_MIG_2023,1.1,population
+6007,CA,Butte County,R_DOMESTIC_MIG_2023,0.1,population
+6007,CA,Butte County,R_NET_MIG_2023,1.2,population
+6009,CA,Calaveras County,Rural_Urban_Continuum_Code_2023,6.0,population
+6009,CA,Calaveras County,POP_ESTIMATE_2023,46565.0,population
+6009,CA,Calaveras County,N_POP_CHG_2023,9.0,population
+6009,CA,Calaveras County,BIRTHS_2023,376.0,population
+6009,CA,Calaveras County,DEATHS_2023,594.0,population
+6009,CA,Calaveras County,NATURAL_CHG_2023,-218.0,population
+6009,CA,Calaveras County,INTERNATIONAL_MIG_2023,15.0,population
+6009,CA,Calaveras County,DOMESTIC_MIG_2023,214.0,population
+6009,CA,Calaveras County,NET_MIG_2023,229.0,population
+6009,CA,Calaveras County,RESIDUAL_2023,-2.0,population
+6009,CA,Calaveras County,GQ_ESTIMATES_2023,399.0,population
+6009,CA,Calaveras County,R_BIRTH_2023,8.1,population
+6009,CA,Calaveras County,R_DEATH_2023,12.8,population
+6009,CA,Calaveras County,R_NATURAL_CHG_2023,-4.7,population
+6009,CA,Calaveras County,R_INTERNATIONAL_MIG_2023,0.3,population
+6009,CA,Calaveras County,R_DOMESTIC_MIG_2023,4.6,population
+6009,CA,Calaveras County,R_NET_MIG_2023,4.9,population
+6011,CA,Colusa County,Rural_Urban_Continuum_Code_2023,6.0,population
+6011,CA,Colusa County,POP_ESTIMATE_2023,22037.0,population
+6011,CA,Colusa County,N_POP_CHG_2023,128.0,population
+6011,CA,Colusa County,BIRTHS_2023,283.0,population
+6011,CA,Colusa County,DEATHS_2023,188.0,population
+6011,CA,Colusa County,NATURAL_CHG_2023,95.0,population
+6011,CA,Colusa County,INTERNATIONAL_MIG_2023,31.0,population
+6011,CA,Colusa County,DOMESTIC_MIG_2023,2.0,population
+6011,CA,Colusa County,NET_MIG_2023,33.0,population
+6011,CA,Colusa County,RESIDUAL_2023,0.0,population
+6011,CA,Colusa County,GQ_ESTIMATES_2023,160.0,population
+6011,CA,Colusa County,R_BIRTH_2023,12.9,population
+6011,CA,Colusa County,R_DEATH_2023,8.6,population
+6011,CA,Colusa County,R_NATURAL_CHG_2023,4.3,population
+6011,CA,Colusa County,R_INTERNATIONAL_MIG_2023,1.4,population
+6011,CA,Colusa County,R_DOMESTIC_MIG_2023,0.1,population
+6011,CA,Colusa County,R_NET_MIG_2023,1.5,population
+6013,CA,Contra Costa County,Rural_Urban_Continuum_Code_2023,1.0,population
+6013,CA,Contra Costa County,POP_ESTIMATE_2023,1155025.0,population
+6013,CA,Contra Costa County,N_POP_CHG_2023,-1994.0,population
+6013,CA,Contra Costa County,BIRTHS_2023,11573.0,population
+6013,CA,Contra Costa County,DEATHS_2023,8599.0,population
+6013,CA,Contra Costa County,NATURAL_CHG_2023,2974.0,population
+6013,CA,Contra Costa County,INTERNATIONAL_MIG_2023,5258.0,population
+6013,CA,Contra Costa County,DOMESTIC_MIG_2023,-10314.0,population
+6013,CA,Contra Costa County,NET_MIG_2023,-5056.0,population
+6013,CA,Contra Costa County,RESIDUAL_2023,88.0,population
+6013,CA,Contra Costa County,GQ_ESTIMATES_2023,11066.0,population
+6013,CA,Contra Costa County,R_BIRTH_2023,10.0,population
+6013,CA,Contra Costa County,R_DEATH_2023,7.4,population
+6013,CA,Contra Costa County,R_NATURAL_CHG_2023,2.6,population
+6013,CA,Contra Costa County,R_INTERNATIONAL_MIG_2023,4.5,population
+6013,CA,Contra Costa County,R_DOMESTIC_MIG_2023,-8.9,population
+6013,CA,Contra Costa County,R_NET_MIG_2023,-4.4,population
+6015,CA,Del Norte County,Rural_Urban_Continuum_Code_2023,7.0,population
+6015,CA,Del Norte County,POP_ESTIMATE_2023,26589.0,population
+6015,CA,Del Norte County,N_POP_CHG_2023,-523.0,population
+6015,CA,Del Norte County,BIRTHS_2023,236.0,population
+6015,CA,Del Norte County,DEATHS_2023,359.0,population
+6015,CA,Del Norte County,NATURAL_CHG_2023,-123.0,population
+6015,CA,Del Norte County,INTERNATIONAL_MIG_2023,2.0,population
+6015,CA,Del Norte County,DOMESTIC_MIG_2023,-404.0,population
+6015,CA,Del Norte County,NET_MIG_2023,-402.0,population
+6015,CA,Del Norte County,RESIDUAL_2023,2.0,population
+6015,CA,Del Norte County,GQ_ESTIMATES_2023,1981.0,population
+6015,CA,Del Norte County,R_BIRTH_2023,8.8,population
+6015,CA,Del Norte County,R_DEATH_2023,13.4,population
+6015,CA,Del Norte County,R_NATURAL_CHG_2023,-4.6,population
+6015,CA,Del Norte County,R_INTERNATIONAL_MIG_2023,0.1,population
+6015,CA,Del Norte County,R_DOMESTIC_MIG_2023,-15.0,population
+6015,CA,Del Norte County,R_NET_MIG_2023,-15.0,population
+6017,CA,El Dorado County,Rural_Urban_Continuum_Code_2023,1.0,population
+6017,CA,El Dorado County,POP_ESTIMATE_2023,192215.0,population
+6017,CA,El Dorado County,N_POP_CHG_2023,-572.0,population
+6017,CA,El Dorado County,BIRTHS_2023,1495.0,population
+6017,CA,El Dorado County,DEATHS_2023,1748.0,population
+6017,CA,El Dorado County,NATURAL_CHG_2023,-253.0,population
+6017,CA,El Dorado County,INTERNATIONAL_MIG_2023,216.0,population
+6017,CA,El Dorado County,DOMESTIC_MIG_2023,-530.0,population
+6017,CA,El Dorado County,NET_MIG_2023,-314.0,population
+6017,CA,El Dorado County,RESIDUAL_2023,-5.0,population
+6017,CA,El Dorado County,GQ_ESTIMATES_2023,1216.0,population
+6017,CA,El Dorado County,R_BIRTH_2023,7.8,population
+6017,CA,El Dorado County,R_DEATH_2023,9.1,population
+6017,CA,El Dorado County,R_NATURAL_CHG_2023,-1.3,population
+6017,CA,El Dorado County,R_INTERNATIONAL_MIG_2023,1.1,population
+6017,CA,El Dorado County,R_DOMESTIC_MIG_2023,-2.8,population
+6017,CA,El Dorado County,R_NET_MIG_2023,-1.6,population
+6019,CA,Fresno County,Rural_Urban_Continuum_Code_2023,1.0,population
+6019,CA,Fresno County,POP_ESTIMATE_2023,1017162.0,population
+6019,CA,Fresno County,N_POP_CHG_2023,1803.0,population
+6019,CA,Fresno County,BIRTHS_2023,13879.0,population
+6019,CA,Fresno County,DEATHS_2023,8384.0,population
+6019,CA,Fresno County,NATURAL_CHG_2023,5495.0,population
+6019,CA,Fresno County,INTERNATIONAL_MIG_2023,2261.0,population
+6019,CA,Fresno County,DOMESTIC_MIG_2023,-6015.0,population
+6019,CA,Fresno County,NET_MIG_2023,-3754.0,population
+6019,CA,Fresno County,RESIDUAL_2023,62.0,population
+6019,CA,Fresno County,GQ_ESTIMATES_2023,18565.0,population
+6019,CA,Fresno County,R_BIRTH_2023,13.7,population
+6019,CA,Fresno County,R_DEATH_2023,8.2,population
+6019,CA,Fresno County,R_NATURAL_CHG_2023,5.4,population
+6019,CA,Fresno County,R_INTERNATIONAL_MIG_2023,2.2,population
+6019,CA,Fresno County,R_DOMESTIC_MIG_2023,-5.9,population
+6019,CA,Fresno County,R_NET_MIG_2023,-3.7,population
+6021,CA,Glenn County,Rural_Urban_Continuum_Code_2023,6.0,population
+6021,CA,Glenn County,POP_ESTIMATE_2023,28129.0,population
+6021,CA,Glenn County,N_POP_CHG_2023,-231.0,population
+6021,CA,Glenn County,BIRTHS_2023,354.0,population
+6021,CA,Glenn County,DEATHS_2023,327.0,population
+6021,CA,Glenn County,NATURAL_CHG_2023,27.0,population
+6021,CA,Glenn County,INTERNATIONAL_MIG_2023,28.0,population
+6021,CA,Glenn County,DOMESTIC_MIG_2023,-287.0,population
+6021,CA,Glenn County,NET_MIG_2023,-259.0,population
+6021,CA,Glenn County,RESIDUAL_2023,1.0,population
+6021,CA,Glenn County,GQ_ESTIMATES_2023,162.0,population
+6021,CA,Glenn County,R_BIRTH_2023,12.5,population
+6021,CA,Glenn County,R_DEATH_2023,11.6,population
+6021,CA,Glenn County,R_NATURAL_CHG_2023,1.0,population
+6021,CA,Glenn County,R_INTERNATIONAL_MIG_2023,1.0,population
+6021,CA,Glenn County,R_DOMESTIC_MIG_2023,-10.2,population
+6021,CA,Glenn County,R_NET_MIG_2023,-9.2,population
+6023,CA,Humboldt County,Rural_Urban_Continuum_Code_2023,5.0,population
+6023,CA,Humboldt County,POP_ESTIMATE_2023,133985.0,population
+6023,CA,Humboldt County,N_POP_CHG_2023,-959.0,population
+6023,CA,Humboldt County,BIRTHS_2023,1225.0,population
+6023,CA,Humboldt County,DEATHS_2023,1566.0,population
+6023,CA,Humboldt County,NATURAL_CHG_2023,-341.0,population
+6023,CA,Humboldt County,INTERNATIONAL_MIG_2023,131.0,population
+6023,CA,Humboldt County,DOMESTIC_MIG_2023,-744.0,population
+6023,CA,Humboldt County,NET_MIG_2023,-613.0,population
+6023,CA,Humboldt County,RESIDUAL_2023,-5.0,population
+6023,CA,Humboldt County,GQ_ESTIMATES_2023,4411.0,population
+6023,CA,Humboldt County,R_BIRTH_2023,9.1,population
+6023,CA,Humboldt County,R_DEATH_2023,11.6,population
+6023,CA,Humboldt County,R_NATURAL_CHG_2023,-2.5,population
+6023,CA,Humboldt County,R_INTERNATIONAL_MIG_2023,1.0,population
+6023,CA,Humboldt County,R_DOMESTIC_MIG_2023,-5.5,population
+6023,CA,Humboldt County,R_NET_MIG_2023,-4.6,population
+6025,CA,Imperial County,Rural_Urban_Continuum_Code_2023,3.0,population
+6025,CA,Imperial County,POP_ESTIMATE_2023,179057.0,population
+6025,CA,Imperial County,N_POP_CHG_2023,117.0,population
+6025,CA,Imperial County,BIRTHS_2023,2424.0,population
+6025,CA,Imperial County,DEATHS_2023,1403.0,population
+6025,CA,Imperial County,NATURAL_CHG_2023,1021.0,population
+6025,CA,Imperial County,INTERNATIONAL_MIG_2023,493.0,population
+6025,CA,Imperial County,DOMESTIC_MIG_2023,-1410.0,population
+6025,CA,Imperial County,NET_MIG_2023,-917.0,population
+6025,CA,Imperial County,RESIDUAL_2023,13.0,population
+6025,CA,Imperial County,GQ_ESTIMATES_2023,7571.0,population
+6025,CA,Imperial County,R_BIRTH_2023,13.5,population
+6025,CA,Imperial County,R_DEATH_2023,7.8,population
+6025,CA,Imperial County,R_NATURAL_CHG_2023,5.7,population
+6025,CA,Imperial County,R_INTERNATIONAL_MIG_2023,2.8,population
+6025,CA,Imperial County,R_DOMESTIC_MIG_2023,-7.9,population
+6025,CA,Imperial County,R_NET_MIG_2023,-5.1,population
+6027,CA,Inyo County,Rural_Urban_Continuum_Code_2023,6.0,population
+6027,CA,Inyo County,POP_ESTIMATE_2023,18527.0,population
+6027,CA,Inyo County,N_POP_CHG_2023,-215.0,population
+6027,CA,Inyo County,BIRTHS_2023,161.0,population
+6027,CA,Inyo County,DEATHS_2023,222.0,population
+6027,CA,Inyo County,NATURAL_CHG_2023,-61.0,population
+6027,CA,Inyo County,INTERNATIONAL_MIG_2023,1.0,population
+6027,CA,Inyo County,DOMESTIC_MIG_2023,-154.0,population
+6027,CA,Inyo County,NET_MIG_2023,-153.0,population
+6027,CA,Inyo County,RESIDUAL_2023,-1.0,population
+6027,CA,Inyo County,GQ_ESTIMATES_2023,553.0,population
+6027,CA,Inyo County,R_BIRTH_2023,8.6,population
+6027,CA,Inyo County,R_DEATH_2023,11.9,population
+6027,CA,Inyo County,R_NATURAL_CHG_2023,-3.3,population
+6027,CA,Inyo County,R_INTERNATIONAL_MIG_2023,0.1,population
+6027,CA,Inyo County,R_DOMESTIC_MIG_2023,-8.3,population
+6027,CA,Inyo County,R_NET_MIG_2023,-8.2,population
+6029,CA,Kern County,Rural_Urban_Continuum_Code_2023,2.0,population
+6029,CA,Kern County,POP_ESTIMATE_2023,913820.0,population
+6029,CA,Kern County,N_POP_CHG_2023,-2931.0,population
+6029,CA,Kern County,BIRTHS_2023,12077.0,population
+6029,CA,Kern County,DEATHS_2023,7622.0,population
+6029,CA,Kern County,NATURAL_CHG_2023,4455.0,population
+6029,CA,Kern County,INTERNATIONAL_MIG_2023,1659.0,population
+6029,CA,Kern County,DOMESTIC_MIG_2023,-9169.0,population
+6029,CA,Kern County,NET_MIG_2023,-7510.0,population
+6029,CA,Kern County,RESIDUAL_2023,124.0,population
+6029,CA,Kern County,GQ_ESTIMATES_2023,20400.0,population
+6029,CA,Kern County,R_BIRTH_2023,13.2,population
+6029,CA,Kern County,R_DEATH_2023,8.3,population
+6029,CA,Kern County,R_NATURAL_CHG_2023,4.9,population
+6029,CA,Kern County,R_INTERNATIONAL_MIG_2023,1.8,population
+6029,CA,Kern County,R_DOMESTIC_MIG_2023,-10.0,population
+6029,CA,Kern County,R_NET_MIG_2023,-8.2,population
+6031,CA,Kings County,Rural_Urban_Continuum_Code_2023,3.0,population
+6031,CA,Kings County,POP_ESTIMATE_2023,152682.0,population
+6031,CA,Kings County,N_POP_CHG_2023,-305.0,population
+6031,CA,Kings County,BIRTHS_2023,2084.0,population
+6031,CA,Kings County,DEATHS_2023,1116.0,population
+6031,CA,Kings County,NATURAL_CHG_2023,968.0,population
+6031,CA,Kings County,INTERNATIONAL_MIG_2023,188.0,population
+6031,CA,Kings County,DOMESTIC_MIG_2023,-1465.0,population
+6031,CA,Kings County,NET_MIG_2023,-1277.0,population
+6031,CA,Kings County,RESIDUAL_2023,4.0,population
+6031,CA,Kings County,GQ_ESTIMATES_2023,15626.0,population
+6031,CA,Kings County,R_BIRTH_2023,13.6,population
+6031,CA,Kings County,R_DEATH_2023,7.3,population
+6031,CA,Kings County,R_NATURAL_CHG_2023,6.3,population
+6031,CA,Kings County,R_INTERNATIONAL_MIG_2023,1.2,population
+6031,CA,Kings County,R_DOMESTIC_MIG_2023,-9.6,population
+6031,CA,Kings County,R_NET_MIG_2023,-8.4,population
+6033,CA,Lake County,Rural_Urban_Continuum_Code_2023,4.0,population
+6033,CA,Lake County,POP_ESTIMATE_2023,67878.0,population
+6033,CA,Lake County,N_POP_CHG_2023,-294.0,population
+6033,CA,Lake County,BIRTHS_2023,683.0,population
+6033,CA,Lake County,DEATHS_2023,972.0,population
+6033,CA,Lake County,NATURAL_CHG_2023,-289.0,population
+6033,CA,Lake County,INTERNATIONAL_MIG_2023,57.0,population
+6033,CA,Lake County,DOMESTIC_MIG_2023,-61.0,population
+6033,CA,Lake County,NET_MIG_2023,-4.0,population
+6033,CA,Lake County,RESIDUAL_2023,-1.0,population
+6033,CA,Lake County,GQ_ESTIMATES_2023,601.0,population
+6033,CA,Lake County,R_BIRTH_2023,10.0,population
+6033,CA,Lake County,R_DEATH_2023,14.3,population
+6033,CA,Lake County,R_NATURAL_CHG_2023,-4.2,population
+6033,CA,Lake County,R_INTERNATIONAL_MIG_2023,0.8,population
+6033,CA,Lake County,R_DOMESTIC_MIG_2023,-0.9,population
+6033,CA,Lake County,R_NET_MIG_2023,-0.1,population
+6035,CA,Lassen County,Rural_Urban_Continuum_Code_2023,7.0,population
+6035,CA,Lassen County,POP_ESTIMATE_2023,28861.0,population
+6035,CA,Lassen County,N_POP_CHG_2023,-1159.0,population
+6035,CA,Lassen County,BIRTHS_2023,264.0,population
+6035,CA,Lassen County,DEATHS_2023,287.0,population
+6035,CA,Lassen County,NATURAL_CHG_2023,-23.0,population
+6035,CA,Lassen County,INTERNATIONAL_MIG_2023,36.0,population
+6035,CA,Lassen County,DOMESTIC_MIG_2023,-1179.0,population
+6035,CA,Lassen County,NET_MIG_2023,-1143.0,population
+6035,CA,Lassen County,RESIDUAL_2023,7.0,population
+6035,CA,Lassen County,GQ_ESTIMATES_2023,5483.0,population
+6035,CA,Lassen County,R_BIRTH_2023,9.0,population
+6035,CA,Lassen County,R_DEATH_2023,9.7,population
+6035,CA,Lassen County,R_NATURAL_CHG_2023,-0.8,population
+6035,CA,Lassen County,R_INTERNATIONAL_MIG_2023,1.2,population
+6035,CA,Lassen County,R_DOMESTIC_MIG_2023,-40.0,population
+6035,CA,Lassen County,R_NET_MIG_2023,-38.8,population
+6037,CA,Los Angeles County,Rural_Urban_Continuum_Code_2023,1.0,population
+6037,CA,Los Angeles County,POP_ESTIMATE_2023,9663345.0,population
+6037,CA,Los Angeles County,N_POP_CHG_2023,-56420.0,population
+6037,CA,Los Angeles County,BIRTHS_2023,95354.0,population
+6037,CA,Los Angeles County,DEATHS_2023,73138.0,population
+6037,CA,Los Angeles County,NATURAL_CHG_2023,22216.0,population
+6037,CA,Los Angeles County,INTERNATIONAL_MIG_2023,40388.0,population
+6037,CA,Los Angeles County,DOMESTIC_MIG_2023,-119037.0,population
+6037,CA,Los Angeles County,NET_MIG_2023,-78649.0,population
+6037,CA,Los Angeles County,RESIDUAL_2023,13.0,population
+6037,CA,Los Angeles County,GQ_ESTIMATES_2023,207185.0,population
+6037,CA,Los Angeles County,R_BIRTH_2023,9.8,population
+6037,CA,Los Angeles County,R_DEATH_2023,7.5,population
+6037,CA,Los Angeles County,R_NATURAL_CHG_2023,2.3,population
+6037,CA,Los Angeles County,R_INTERNATIONAL_MIG_2023,4.2,population
+6037,CA,Los Angeles County,R_DOMESTIC_MIG_2023,-12.3,population
+6037,CA,Los Angeles County,R_NET_MIG_2023,-8.1,population
+6039,CA,Madera County,Rural_Urban_Continuum_Code_2023,1.0,population
+6039,CA,Madera County,POP_ESTIMATE_2023,162858.0,population
+6039,CA,Madera County,N_POP_CHG_2023,2529.0,population
+6039,CA,Madera County,BIRTHS_2023,2078.0,population
+6039,CA,Madera County,DEATHS_2023,1419.0,population
+6039,CA,Madera County,NATURAL_CHG_2023,659.0,population
+6039,CA,Madera County,INTERNATIONAL_MIG_2023,119.0,population
+6039,CA,Madera County,DOMESTIC_MIG_2023,1744.0,population
+6039,CA,Madera County,NET_MIG_2023,1863.0,population
+6039,CA,Madera County,RESIDUAL_2023,7.0,population
+6039,CA,Madera County,GQ_ESTIMATES_2023,6865.0,population
+6039,CA,Madera County,R_BIRTH_2023,12.9,population
+6039,CA,Madera County,R_DEATH_2023,8.8,population
+6039,CA,Madera County,R_NATURAL_CHG_2023,4.1,population
+6039,CA,Madera County,R_INTERNATIONAL_MIG_2023,0.7,population
+6039,CA,Madera County,R_DOMESTIC_MIG_2023,10.8,population
+6039,CA,Madera County,R_NET_MIG_2023,11.5,population
+6041,CA,Marin County,Rural_Urban_Continuum_Code_2023,1.0,population
+6041,CA,Marin County,POP_ESTIMATE_2023,254407.0,population
+6041,CA,Marin County,N_POP_CHG_2023,-1747.0,population
+6041,CA,Marin County,BIRTHS_2023,2255.0,population
+6041,CA,Marin County,DEATHS_2023,2088.0,population
+6041,CA,Marin County,NATURAL_CHG_2023,167.0,population
+6041,CA,Marin County,INTERNATIONAL_MIG_2023,1038.0,population
+6041,CA,Marin County,DOMESTIC_MIG_2023,-2953.0,population
+6041,CA,Marin County,NET_MIG_2023,-1915.0,population
+6041,CA,Marin County,RESIDUAL_2023,1.0,population
+6041,CA,Marin County,GQ_ESTIMATES_2023,7595.0,population
+6041,CA,Marin County,R_BIRTH_2023,8.8,population
+6041,CA,Marin County,R_DEATH_2023,8.2,population
+6041,CA,Marin County,R_NATURAL_CHG_2023,0.7,population
+6041,CA,Marin County,R_INTERNATIONAL_MIG_2023,4.1,population
+6041,CA,Marin County,R_DOMESTIC_MIG_2023,-11.6,population
+6041,CA,Marin County,R_NET_MIG_2023,-7.5,population
+6043,CA,Mariposa County,Rural_Urban_Continuum_Code_2023,8.0,population
+6043,CA,Mariposa County,POP_ESTIMATE_2023,16919.0,population
+6043,CA,Mariposa County,N_POP_CHG_2023,-134.0,population
+6043,CA,Mariposa County,BIRTHS_2023,145.0,population
+6043,CA,Mariposa County,DEATHS_2023,225.0,population
+6043,CA,Mariposa County,NATURAL_CHG_2023,-80.0,population
+6043,CA,Mariposa County,INTERNATIONAL_MIG_2023,54.0,population
+6043,CA,Mariposa County,DOMESTIC_MIG_2023,-106.0,population
+6043,CA,Mariposa County,NET_MIG_2023,-52.0,population
+6043,CA,Mariposa County,RESIDUAL_2023,-2.0,population
+6043,CA,Mariposa County,GQ_ESTIMATES_2023,190.0,population
+6043,CA,Mariposa County,R_BIRTH_2023,8.5,population
+6043,CA,Mariposa County,R_DEATH_2023,13.2,population
+6043,CA,Mariposa County,R_NATURAL_CHG_2023,-4.7,population
+6043,CA,Mariposa County,R_INTERNATIONAL_MIG_2023,3.2,population
+6043,CA,Mariposa County,R_DOMESTIC_MIG_2023,-6.2,population
+6043,CA,Mariposa County,R_NET_MIG_2023,-3.1,population
+6045,CA,Mendocino County,Rural_Urban_Continuum_Code_2023,4.0,population
+6045,CA,Mendocino County,POP_ESTIMATE_2023,89108.0,population
+6045,CA,Mendocino County,N_POP_CHG_2023,-899.0,population
+6045,CA,Mendocino County,BIRTHS_2023,856.0,population
+6045,CA,Mendocino County,DEATHS_2023,1013.0,population
+6045,CA,Mendocino County,NATURAL_CHG_2023,-157.0,population
+6045,CA,Mendocino County,INTERNATIONAL_MIG_2023,129.0,population
+6045,CA,Mendocino County,DOMESTIC_MIG_2023,-871.0,population
+6045,CA,Mendocino County,NET_MIG_2023,-742.0,population
+6045,CA,Mendocino County,RESIDUAL_2023,0.0,population
+6045,CA,Mendocino County,GQ_ESTIMATES_2023,1432.0,population
+6045,CA,Mendocino County,R_BIRTH_2023,9.6,population
+6045,CA,Mendocino County,R_DEATH_2023,11.3,population
+6045,CA,Mendocino County,R_NATURAL_CHG_2023,-1.8,population
+6045,CA,Mendocino County,R_INTERNATIONAL_MIG_2023,1.4,population
+6045,CA,Mendocino County,R_DOMESTIC_MIG_2023,-9.7,population
+6045,CA,Mendocino County,R_NET_MIG_2023,-8.3,population
+6047,CA,Merced County,Rural_Urban_Continuum_Code_2023,2.0,population
+6047,CA,Merced County,POP_ESTIMATE_2023,291920.0,population
+6047,CA,Merced County,N_POP_CHG_2023,1710.0,population
+6047,CA,Merced County,BIRTHS_2023,3787.0,population
+6047,CA,Merced County,DEATHS_2023,2169.0,population
+6047,CA,Merced County,NATURAL_CHG_2023,1618.0,population
+6047,CA,Merced County,INTERNATIONAL_MIG_2023,660.0,population
+6047,CA,Merced County,DOMESTIC_MIG_2023,-593.0,population
+6047,CA,Merced County,NET_MIG_2023,67.0,population
+6047,CA,Merced County,RESIDUAL_2023,25.0,population
+6047,CA,Merced County,GQ_ESTIMATES_2023,5806.0,population
+6047,CA,Merced County,R_BIRTH_2023,13.0,population
+6047,CA,Merced County,R_DEATH_2023,7.5,population
+6047,CA,Merced County,R_NATURAL_CHG_2023,5.6,population
+6047,CA,Merced County,R_INTERNATIONAL_MIG_2023,2.3,population
+6047,CA,Merced County,R_DOMESTIC_MIG_2023,-2.0,population
+6047,CA,Merced County,R_NET_MIG_2023,0.2,population
+6049,CA,Modoc County,Rural_Urban_Continuum_Code_2023,8.0,population
+6049,CA,Modoc County,POP_ESTIMATE_2023,8500.0,population
+6049,CA,Modoc County,N_POP_CHG_2023,-119.0,population
+6049,CA,Modoc County,BIRTHS_2023,34.0,population
+6049,CA,Modoc County,DEATHS_2023,115.0,population
+6049,CA,Modoc County,NATURAL_CHG_2023,-81.0,population
+6049,CA,Modoc County,INTERNATIONAL_MIG_2023,13.0,population
+6049,CA,Modoc County,DOMESTIC_MIG_2023,-50.0,population
+6049,CA,Modoc County,NET_MIG_2023,-37.0,population
+6049,CA,Modoc County,RESIDUAL_2023,-1.0,population
+6049,CA,Modoc County,GQ_ESTIMATES_2023,164.0,population
+6049,CA,Modoc County,R_BIRTH_2023,4.0,population
+6049,CA,Modoc County,R_DEATH_2023,13.4,population
+6049,CA,Modoc County,R_NATURAL_CHG_2023,-9.5,population
+6049,CA,Modoc County,R_INTERNATIONAL_MIG_2023,1.5,population
+6049,CA,Modoc County,R_DOMESTIC_MIG_2023,-5.8,population
+6049,CA,Modoc County,R_NET_MIG_2023,-4.3,population
+6051,CA,Mono County,Rural_Urban_Continuum_Code_2023,7.0,population
+6051,CA,Mono County,POP_ESTIMATE_2023,13066.0,population
+6051,CA,Mono County,N_POP_CHG_2023,64.0,population
+6051,CA,Mono County,BIRTHS_2023,114.0,population
+6051,CA,Mono County,DEATHS_2023,61.0,population
+6051,CA,Mono County,NATURAL_CHG_2023,53.0,population
+6051,CA,Mono County,INTERNATIONAL_MIG_2023,90.0,population
+6051,CA,Mono County,DOMESTIC_MIG_2023,-78.0,population
+6051,CA,Mono County,NET_MIG_2023,12.0,population
+6051,CA,Mono County,RESIDUAL_2023,-1.0,population
+6051,CA,Mono County,GQ_ESTIMATES_2023,292.0,population
+6051,CA,Mono County,R_BIRTH_2023,8.7,population
+6051,CA,Mono County,R_DEATH_2023,4.7,population
+6051,CA,Mono County,R_NATURAL_CHG_2023,4.1,population
+6051,CA,Mono County,R_INTERNATIONAL_MIG_2023,6.9,population
+6051,CA,Mono County,R_DOMESTIC_MIG_2023,-6.0,population
+6051,CA,Mono County,R_NET_MIG_2023,0.9,population
+6053,CA,Monterey County,Rural_Urban_Continuum_Code_2023,2.0,population
+6053,CA,Monterey County,POP_ESTIMATE_2023,430723.0,population
+6053,CA,Monterey County,N_POP_CHG_2023,-2161.0,population
+6053,CA,Monterey County,BIRTHS_2023,5548.0,population
+6053,CA,Monterey County,DEATHS_2023,2857.0,population
+6053,CA,Monterey County,NATURAL_CHG_2023,2691.0,population
+6053,CA,Monterey County,INTERNATIONAL_MIG_2023,1340.0,population
+6053,CA,Monterey County,DOMESTIC_MIG_2023,-6190.0,population
+6053,CA,Monterey County,NET_MIG_2023,-4850.0,population
+6053,CA,Monterey County,RESIDUAL_2023,-2.0,population
+6053,CA,Monterey County,GQ_ESTIMATES_2023,16757.0,population
+6053,CA,Monterey County,R_BIRTH_2023,12.8,population
+6053,CA,Monterey County,R_DEATH_2023,6.6,population
+6053,CA,Monterey County,R_NATURAL_CHG_2023,6.2,population
+6053,CA,Monterey County,R_INTERNATIONAL_MIG_2023,3.1,population
+6053,CA,Monterey County,R_DOMESTIC_MIG_2023,-14.3,population
+6053,CA,Monterey County,R_NET_MIG_2023,-11.2,population
+6055,CA,Napa County,Rural_Urban_Continuum_Code_2023,3.0,population
+6055,CA,Napa County,POP_ESTIMATE_2023,133216.0,population
+6055,CA,Napa County,N_POP_CHG_2023,-1154.0,population
+6055,CA,Napa County,BIRTHS_2023,1167.0,population
+6055,CA,Napa County,DEATHS_2023,1262.0,population
+6055,CA,Napa County,NATURAL_CHG_2023,-95.0,population
+6055,CA,Napa County,INTERNATIONAL_MIG_2023,279.0,population
+6055,CA,Napa County,DOMESTIC_MIG_2023,-1339.0,population
+6055,CA,Napa County,NET_MIG_2023,-1060.0,population
+6055,CA,Napa County,RESIDUAL_2023,1.0,population
+6055,CA,Napa County,GQ_ESTIMATES_2023,4969.0,population
+6055,CA,Napa County,R_BIRTH_2023,8.7,population
+6055,CA,Napa County,R_DEATH_2023,9.4,population
+6055,CA,Napa County,R_NATURAL_CHG_2023,-0.7,population
+6055,CA,Napa County,R_INTERNATIONAL_MIG_2023,2.1,population
+6055,CA,Napa County,R_DOMESTIC_MIG_2023,-10.0,population
+6055,CA,Napa County,R_NET_MIG_2023,-7.9,population
+6057,CA,Nevada County,Rural_Urban_Continuum_Code_2023,4.0,population
+6057,CA,Nevada County,POP_ESTIMATE_2023,102037.0,population
+6057,CA,Nevada County,N_POP_CHG_2023,-364.0,population
+6057,CA,Nevada County,BIRTHS_2023,741.0,population
+6057,CA,Nevada County,DEATHS_2023,1110.0,population
+6057,CA,Nevada County,NATURAL_CHG_2023,-369.0,population
+6057,CA,Nevada County,INTERNATIONAL_MIG_2023,50.0,population
+6057,CA,Nevada County,DOMESTIC_MIG_2023,-39.0,population
+6057,CA,Nevada County,NET_MIG_2023,11.0,population
+6057,CA,Nevada County,RESIDUAL_2023,-6.0,population
+6057,CA,Nevada County,GQ_ESTIMATES_2023,1891.0,population
+6057,CA,Nevada County,R_BIRTH_2023,7.2,population
+6057,CA,Nevada County,R_DEATH_2023,10.9,population
+6057,CA,Nevada County,R_NATURAL_CHG_2023,-3.6,population
+6057,CA,Nevada County,R_INTERNATIONAL_MIG_2023,0.5,population
+6057,CA,Nevada County,R_DOMESTIC_MIG_2023,-0.4,population
+6057,CA,Nevada County,R_NET_MIG_2023,0.1,population
+6059,CA,Orange County,Rural_Urban_Continuum_Code_2023,1.0,population
+6059,CA,Orange County,POP_ESTIMATE_2023,3135755.0,population
+6059,CA,Orange County,N_POP_CHG_2023,-14617.0,population
+6059,CA,Orange County,BIRTHS_2023,30677.0,population
+6059,CA,Orange County,DEATHS_2023,22619.0,population
+6059,CA,Orange County,NATURAL_CHG_2023,8058.0,population
+6059,CA,Orange County,INTERNATIONAL_MIG_2023,12859.0,population
+6059,CA,Orange County,DOMESTIC_MIG_2023,-35597.0,population
+6059,CA,Orange County,NET_MIG_2023,-22738.0,population
+6059,CA,Orange County,RESIDUAL_2023,63.0,population
+6059,CA,Orange County,GQ_ESTIMATES_2023,52887.0,population
+6059,CA,Orange County,R_BIRTH_2023,9.8,population
+6059,CA,Orange County,R_DEATH_2023,7.2,population
+6059,CA,Orange County,R_NATURAL_CHG_2023,2.6,population
+6059,CA,Orange County,R_INTERNATIONAL_MIG_2023,4.1,population
+6059,CA,Orange County,R_DOMESTIC_MIG_2023,-11.3,population
+6059,CA,Orange County,R_NET_MIG_2023,-7.2,population
+6061,CA,Placer County,Rural_Urban_Continuum_Code_2023,1.0,population
+6061,CA,Placer County,POP_ESTIMATE_2023,423561.0,population
+6061,CA,Placer County,N_POP_CHG_2023,5487.0,population
+6061,CA,Placer County,BIRTHS_2023,3607.0,population
+6061,CA,Placer County,DEATHS_2023,3803.0,population
+6061,CA,Placer County,NATURAL_CHG_2023,-196.0,population
+6061,CA,Placer County,INTERNATIONAL_MIG_2023,790.0,population
+6061,CA,Placer County,DOMESTIC_MIG_2023,4920.0,population
+6061,CA,Placer County,NET_MIG_2023,5710.0,population
+6061,CA,Placer County,RESIDUAL_2023,-27.0,population
+6061,CA,Placer County,GQ_ESTIMATES_2023,4485.0,population
+6061,CA,Placer County,R_BIRTH_2023,8.6,population
+6061,CA,Placer County,R_DEATH_2023,9.0,population
+6061,CA,Placer County,R_NATURAL_CHG_2023,-0.5,population
+6061,CA,Placer County,R_INTERNATIONAL_MIG_2023,1.9,population
+6061,CA,Placer County,R_DOMESTIC_MIG_2023,11.7,population
+6061,CA,Placer County,R_NET_MIG_2023,13.6,population
+6063,CA,Plumas County,Rural_Urban_Continuum_Code_2023,9.0,population
+6063,CA,Plumas County,POP_ESTIMATE_2023,19131.0,population
+6063,CA,Plumas County,N_POP_CHG_2023,-312.0,population
+6063,CA,Plumas County,BIRTHS_2023,145.0,population
+6063,CA,Plumas County,DEATHS_2023,216.0,population
+6063,CA,Plumas County,NATURAL_CHG_2023,-71.0,population
+6063,CA,Plumas County,INTERNATIONAL_MIG_2023,19.0,population
+6063,CA,Plumas County,DOMESTIC_MIG_2023,-257.0,population
+6063,CA,Plumas County,NET_MIG_2023,-238.0,population
+6063,CA,Plumas County,RESIDUAL_2023,-3.0,population
+6063,CA,Plumas County,GQ_ESTIMATES_2023,66.0,population
+6063,CA,Plumas County,R_BIRTH_2023,7.5,population
+6063,CA,Plumas County,R_DEATH_2023,11.2,population
+6063,CA,Plumas County,R_NATURAL_CHG_2023,-3.7,population
+6063,CA,Plumas County,R_INTERNATIONAL_MIG_2023,1.0,population
+6063,CA,Plumas County,R_DOMESTIC_MIG_2023,-13.3,population
+6063,CA,Plumas County,R_NET_MIG_2023,-12.3,population
+6065,CA,Riverside County,Rural_Urban_Continuum_Code_2023,1.0,population
+6065,CA,Riverside County,POP_ESTIMATE_2023,2492442.0,population
+6065,CA,Riverside County,N_POP_CHG_2023,18201.0,population
+6065,CA,Riverside County,BIRTHS_2023,27497.0,population
+6065,CA,Riverside County,DEATHS_2023,20536.0,population
+6065,CA,Riverside County,NATURAL_CHG_2023,6961.0,population
+6065,CA,Riverside County,INTERNATIONAL_MIG_2023,3378.0,population
+6065,CA,Riverside County,DOMESTIC_MIG_2023,7807.0,population
+6065,CA,Riverside County,NET_MIG_2023,11185.0,population
+6065,CA,Riverside County,RESIDUAL_2023,55.0,population
+6065,CA,Riverside County,GQ_ESTIMATES_2023,36120.0,population
+6065,CA,Riverside County,R_BIRTH_2023,11.1,population
+6065,CA,Riverside County,R_DEATH_2023,8.3,population
+6065,CA,Riverside County,R_NATURAL_CHG_2023,2.8,population
+6065,CA,Riverside County,R_INTERNATIONAL_MIG_2023,1.4,population
+6065,CA,Riverside County,R_DOMESTIC_MIG_2023,3.1,population
+6065,CA,Riverside County,R_NET_MIG_2023,4.5,population
+6067,CA,Sacramento County,Rural_Urban_Continuum_Code_2023,1.0,population
+6067,CA,Sacramento County,POP_ESTIMATE_2023,1584288.0,population
+6067,CA,Sacramento County,N_POP_CHG_2023,-92.0,population
+6067,CA,Sacramento County,BIRTHS_2023,17698.0,population
+6067,CA,Sacramento County,DEATHS_2023,13202.0,population
+6067,CA,Sacramento County,NATURAL_CHG_2023,4496.0,population
+6067,CA,Sacramento County,INTERNATIONAL_MIG_2023,7784.0,population
+6067,CA,Sacramento County,DOMESTIC_MIG_2023,-12390.0,population
+6067,CA,Sacramento County,NET_MIG_2023,-4606.0,population
+6067,CA,Sacramento County,RESIDUAL_2023,18.0,population
+6067,CA,Sacramento County,GQ_ESTIMATES_2023,33390.0,population
+6067,CA,Sacramento County,R_BIRTH_2023,11.2,population
+6067,CA,Sacramento County,R_DEATH_2023,8.3,population
+6067,CA,Sacramento County,R_NATURAL_CHG_2023,2.8,population
+6067,CA,Sacramento County,R_INTERNATIONAL_MIG_2023,4.9,population
+6067,CA,Sacramento County,R_DOMESTIC_MIG_2023,-7.8,population
+6067,CA,Sacramento County,R_NET_MIG_2023,-2.9,population
+6069,CA,San Benito County,Rural_Urban_Continuum_Code_2023,1.0,population
+6069,CA,San Benito County,POP_ESTIMATE_2023,68175.0,population
+6069,CA,San Benito County,N_POP_CHG_2023,532.0,population
+6069,CA,San Benito County,BIRTHS_2023,850.0,population
+6069,CA,San Benito County,DEATHS_2023,462.0,population
+6069,CA,San Benito County,NATURAL_CHG_2023,388.0,population
+6069,CA,San Benito County,INTERNATIONAL_MIG_2023,17.0,population
+6069,CA,San Benito County,DOMESTIC_MIG_2023,126.0,population
+6069,CA,San Benito County,NET_MIG_2023,143.0,population
+6069,CA,San Benito County,RESIDUAL_2023,1.0,population
+6069,CA,San Benito County,GQ_ESTIMATES_2023,445.0,population
+6069,CA,San Benito County,R_BIRTH_2023,12.5,population
+6069,CA,San Benito County,R_DEATH_2023,6.8,population
+6069,CA,San Benito County,R_NATURAL_CHG_2023,5.7,population
+6069,CA,San Benito County,R_INTERNATIONAL_MIG_2023,0.3,population
+6069,CA,San Benito County,R_DOMESTIC_MIG_2023,1.9,population
+6069,CA,San Benito County,R_NET_MIG_2023,2.1,population
+6071,CA,San Bernardino County,Rural_Urban_Continuum_Code_2023,1.0,population
+6071,CA,San Bernardino County,POP_ESTIMATE_2023,2195611.0,population
+6071,CA,San Bernardino County,N_POP_CHG_2023,703.0,population
+6071,CA,San Bernardino County,BIRTHS_2023,26188.0,population
+6071,CA,San Bernardino County,DEATHS_2023,17486.0,population
+6071,CA,San Bernardino County,NATURAL_CHG_2023,8702.0,population
+6071,CA,San Bernardino County,INTERNATIONAL_MIG_2023,3211.0,population
+6071,CA,San Bernardino County,DOMESTIC_MIG_2023,-11384.0,population
+6071,CA,San Bernardino County,NET_MIG_2023,-8173.0,population
+6071,CA,San Bernardino County,RESIDUAL_2023,174.0,population
+6071,CA,San Bernardino County,GQ_ESTIMATES_2023,40501.0,population
+6071,CA,San Bernardino County,R_BIRTH_2023,11.9,population
+6071,CA,San Bernardino County,R_DEATH_2023,8.0,population
+6071,CA,San Bernardino County,R_NATURAL_CHG_2023,4.0,population
+6071,CA,San Bernardino County,R_INTERNATIONAL_MIG_2023,1.5,population
+6071,CA,San Bernardino County,R_DOMESTIC_MIG_2023,-5.2,population
+6071,CA,San Bernardino County,R_NET_MIG_2023,-3.7,population
+6073,CA,San Diego County,Rural_Urban_Continuum_Code_2023,1.0,population
+6073,CA,San Diego County,POP_ESTIMATE_2023,3269973.0,population
+6073,CA,San Diego County,N_POP_CHG_2023,-7203.0,population
+6073,CA,San Diego County,BIRTHS_2023,37145.0,population
+6073,CA,San Diego County,DEATHS_2023,24263.0,population
+6073,CA,San Diego County,NATURAL_CHG_2023,12882.0,population
+6073,CA,San Diego County,INTERNATIONAL_MIG_2023,10767.0,population
+6073,CA,San Diego County,DOMESTIC_MIG_2023,-30745.0,population
+6073,CA,San Diego County,NET_MIG_2023,-19978.0,population
+6073,CA,San Diego County,RESIDUAL_2023,-107.0,population
+6073,CA,San Diego County,GQ_ESTIMATES_2023,112078.0,population
+6073,CA,San Diego County,R_BIRTH_2023,11.3,population
+6073,CA,San Diego County,R_DEATH_2023,7.4,population
+6073,CA,San Diego County,R_NATURAL_CHG_2023,3.9,population
+6073,CA,San Diego County,R_INTERNATIONAL_MIG_2023,3.3,population
+6073,CA,San Diego County,R_DOMESTIC_MIG_2023,-9.4,population
+6073,CA,San Diego County,R_NET_MIG_2023,-6.1,population
+6075,CA,San Francisco County,Rural_Urban_Continuum_Code_2023,1.0,population
+6075,CA,San Francisco County,POP_ESTIMATE_2023,808988.0,population
+6075,CA,San Francisco County,N_POP_CHG_2023,1214.0,population
+6075,CA,San Francisco County,BIRTHS_2023,7240.0,population
+6075,CA,San Francisco County,DEATHS_2023,6200.0,population
+6075,CA,San Francisco County,NATURAL_CHG_2023,1040.0,population
+6075,CA,San Francisco County,INTERNATIONAL_MIG_2023,6201.0,population
+6075,CA,San Francisco County,DOMESTIC_MIG_2023,-5925.0,population
+6075,CA,San Francisco County,NET_MIG_2023,276.0,population
+6075,CA,San Francisco County,RESIDUAL_2023,-102.0,population
+6075,CA,San Francisco County,GQ_ESTIMATES_2023,26584.0,population
+6075,CA,San Francisco County,R_BIRTH_2023,9.0,population
+6075,CA,San Francisco County,R_DEATH_2023,7.7,population
+6075,CA,San Francisco County,R_NATURAL_CHG_2023,1.3,population
+6075,CA,San Francisco County,R_INTERNATIONAL_MIG_2023,7.7,population
+6075,CA,San Francisco County,R_DOMESTIC_MIG_2023,-7.3,population
+6075,CA,San Francisco County,R_NET_MIG_2023,0.3,population
+6077,CA,San Joaquin County,Rural_Urban_Continuum_Code_2023,2.0,population
+6077,CA,San Joaquin County,POP_ESTIMATE_2023,800965.0,population
+6077,CA,San Joaquin County,N_POP_CHG_2023,6672.0,population
+6077,CA,San Joaquin County,BIRTHS_2023,9570.0,population
+6077,CA,San Joaquin County,DEATHS_2023,6313.0,population
+6077,CA,San Joaquin County,NATURAL_CHG_2023,3257.0,population
+6077,CA,San Joaquin County,INTERNATIONAL_MIG_2023,2983.0,population
+6077,CA,San Joaquin County,DOMESTIC_MIG_2023,386.0,population
+6077,CA,San Joaquin County,NET_MIG_2023,3369.0,population
+6077,CA,San Joaquin County,RESIDUAL_2023,46.0,population
+6077,CA,San Joaquin County,GQ_ESTIMATES_2023,14988.0,population
+6077,CA,San Joaquin County,R_BIRTH_2023,12.0,population
+6077,CA,San Joaquin County,R_DEATH_2023,7.9,population
+6077,CA,San Joaquin County,R_NATURAL_CHG_2023,4.1,population
+6077,CA,San Joaquin County,R_INTERNATIONAL_MIG_2023,3.7,population
+6077,CA,San Joaquin County,R_DOMESTIC_MIG_2023,0.5,population
+6077,CA,San Joaquin County,R_NET_MIG_2023,4.2,population
+6079,CA,San Luis Obispo County,Rural_Urban_Continuum_Code_2023,2.0,population
+6079,CA,San Luis Obispo County,POP_ESTIMATE_2023,281639.0,population
+6079,CA,San Luis Obispo County,N_POP_CHG_2023,-407.0,population
+6079,CA,San Luis Obispo County,BIRTHS_2023,2389.0,population
+6079,CA,San Luis Obispo County,DEATHS_2023,2563.0,population
+6079,CA,San Luis Obispo County,NATURAL_CHG_2023,-174.0,population
+6079,CA,San Luis Obispo County,INTERNATIONAL_MIG_2023,332.0,population
+6079,CA,San Luis Obispo County,DOMESTIC_MIG_2023,-568.0,population
+6079,CA,San Luis Obispo County,NET_MIG_2023,-236.0,population
+6079,CA,San Luis Obispo County,RESIDUAL_2023,3.0,population
+6079,CA,San Luis Obispo County,GQ_ESTIMATES_2023,15695.0,population
+6079,CA,San Luis Obispo County,R_BIRTH_2023,8.5,population
+6079,CA,San Luis Obispo County,R_DEATH_2023,9.1,population
+6079,CA,San Luis Obispo County,R_NATURAL_CHG_2023,-0.6,population
+6079,CA,San Luis Obispo County,R_INTERNATIONAL_MIG_2023,1.2,population
+6079,CA,San Luis Obispo County,R_DOMESTIC_MIG_2023,-2.0,population
+6079,CA,San Luis Obispo County,R_NET_MIG_2023,-0.8,population
+6081,CA,San Mateo County,Rural_Urban_Continuum_Code_2023,1.0,population
+6081,CA,San Mateo County,POP_ESTIMATE_2023,726353.0,population
+6081,CA,San Mateo County,N_POP_CHG_2023,-2576.0,population
+6081,CA,San Mateo County,BIRTHS_2023,7394.0,population
+6081,CA,San Mateo County,DEATHS_2023,4872.0,population
+6081,CA,San Mateo County,NATURAL_CHG_2023,2522.0,population
+6081,CA,San Mateo County,INTERNATIONAL_MIG_2023,5269.0,population
+6081,CA,San Mateo County,DOMESTIC_MIG_2023,-10335.0,population
+6081,CA,San Mateo County,NET_MIG_2023,-5066.0,population
+6081,CA,San Mateo County,RESIDUAL_2023,-32.0,population
+6081,CA,San Mateo County,GQ_ESTIMATES_2023,9331.0,population
+6081,CA,San Mateo County,R_BIRTH_2023,10.2,population
+6081,CA,San Mateo County,R_DEATH_2023,6.7,population
+6081,CA,San Mateo County,R_NATURAL_CHG_2023,3.5,population
+6081,CA,San Mateo County,R_INTERNATIONAL_MIG_2023,7.2,population
+6081,CA,San Mateo County,R_DOMESTIC_MIG_2023,-14.2,population
+6081,CA,San Mateo County,R_NET_MIG_2023,-7.0,population
+6083,CA,Santa Barbara County,Rural_Urban_Continuum_Code_2023,2.0,population
+6083,CA,Santa Barbara County,POP_ESTIMATE_2023,441257.0,population
+6083,CA,Santa Barbara County,N_POP_CHG_2023,-2658.0,population
+6083,CA,Santa Barbara County,BIRTHS_2023,5560.0,population
+6083,CA,Santa Barbara County,DEATHS_2023,3423.0,population
+6083,CA,Santa Barbara County,NATURAL_CHG_2023,2137.0,population
+6083,CA,Santa Barbara County,INTERNATIONAL_MIG_2023,1424.0,population
+6083,CA,Santa Barbara County,DOMESTIC_MIG_2023,-6246.0,population
+6083,CA,Santa Barbara County,NET_MIG_2023,-4822.0,population
+6083,CA,Santa Barbara County,RESIDUAL_2023,27.0,population
+6083,CA,Santa Barbara County,GQ_ESTIMATES_2023,20051.0,population
+6083,CA,Santa Barbara County,R_BIRTH_2023,12.6,population
+6083,CA,Santa Barbara County,R_DEATH_2023,7.7,population
+6083,CA,Santa Barbara County,R_NATURAL_CHG_2023,4.8,population
+6083,CA,Santa Barbara County,R_INTERNATIONAL_MIG_2023,3.2,population
+6083,CA,Santa Barbara County,R_DOMESTIC_MIG_2023,-14.1,population
+6083,CA,Santa Barbara County,R_NET_MIG_2023,-10.9,population
+6085,CA,Santa Clara County,Rural_Urban_Continuum_Code_2023,1.0,population
+6085,CA,Santa Clara County,POP_ESTIMATE_2023,1877592.0,population
+6085,CA,Santa Clara County,N_POP_CHG_2023,-743.0,population
+6085,CA,Santa Clara County,BIRTHS_2023,18707.0,population
+6085,CA,Santa Clara County,DEATHS_2023,10741.0,population
+6085,CA,Santa Clara County,NATURAL_CHG_2023,7966.0,population
+6085,CA,Santa Clara County,INTERNATIONAL_MIG_2023,20405.0,population
+6085,CA,Santa Clara County,DOMESTIC_MIG_2023,-29077.0,population
+6085,CA,Santa Clara County,NET_MIG_2023,-8672.0,population
+6085,CA,Santa Clara County,RESIDUAL_2023,-37.0,population
+6085,CA,Santa Clara County,GQ_ESTIMATES_2023,46758.0,population
+6085,CA,Santa Clara County,R_BIRTH_2023,10.0,population
+6085,CA,Santa Clara County,R_DEATH_2023,5.7,population
+6085,CA,Santa Clara County,R_NATURAL_CHG_2023,4.2,population
+6085,CA,Santa Clara County,R_INTERNATIONAL_MIG_2023,10.9,population
+6085,CA,Santa Clara County,R_DOMESTIC_MIG_2023,-15.5,population
+6085,CA,Santa Clara County,R_NET_MIG_2023,-4.6,population
+6087,CA,Santa Cruz County,Rural_Urban_Continuum_Code_2023,2.0,population
+6087,CA,Santa Cruz County,POP_ESTIMATE_2023,261547.0,population
+6087,CA,Santa Cruz County,N_POP_CHG_2023,-2693.0,population
+6087,CA,Santa Cruz County,BIRTHS_2023,2261.0,population
+6087,CA,Santa Cruz County,DEATHS_2023,1903.0,population
+6087,CA,Santa Cruz County,NATURAL_CHG_2023,358.0,population
+6087,CA,Santa Cruz County,INTERNATIONAL_MIG_2023,396.0,population
+6087,CA,Santa Cruz County,DOMESTIC_MIG_2023,-3455.0,population
+6087,CA,Santa Cruz County,NET_MIG_2023,-3059.0,population
+6087,CA,Santa Cruz County,RESIDUAL_2023,8.0,population
+6087,CA,Santa Cruz County,GQ_ESTIMATES_2023,14292.0,population
+6087,CA,Santa Cruz County,R_BIRTH_2023,8.6,population
+6087,CA,Santa Cruz County,R_DEATH_2023,7.2,population
+6087,CA,Santa Cruz County,R_NATURAL_CHG_2023,1.4,population
+6087,CA,Santa Cruz County,R_INTERNATIONAL_MIG_2023,1.5,population
+6087,CA,Santa Cruz County,R_DOMESTIC_MIG_2023,-13.1,population
+6087,CA,Santa Cruz County,R_NET_MIG_2023,-11.6,population
+6089,CA,Shasta County,Rural_Urban_Continuum_Code_2023,3.0,population
+6089,CA,Shasta County,POP_ESTIMATE_2023,180366.0,population
+6089,CA,Shasta County,N_POP_CHG_2023,-571.0,population
+6089,CA,Shasta County,BIRTHS_2023,1734.0,population
+6089,CA,Shasta County,DEATHS_2023,2543.0,population
+6089,CA,Shasta County,NATURAL_CHG_2023,-809.0,population
+6089,CA,Shasta County,INTERNATIONAL_MIG_2023,254.0,population
+6089,CA,Shasta County,DOMESTIC_MIG_2023,-15.0,population
+6089,CA,Shasta County,NET_MIG_2023,239.0,population
+6089,CA,Shasta County,RESIDUAL_2023,-1.0,population
+6089,CA,Shasta County,GQ_ESTIMATES_2023,2831.0,population
+6089,CA,Shasta County,R_BIRTH_2023,9.6,population
+6089,CA,Shasta County,R_DEATH_2023,14.1,population
+6089,CA,Shasta County,R_NATURAL_CHG_2023,-4.5,population
+6089,CA,Shasta County,R_INTERNATIONAL_MIG_2023,1.4,population
+6089,CA,Shasta County,R_DOMESTIC_MIG_2023,-0.1,population
+6089,CA,Shasta County,R_NET_MIG_2023,1.3,population
+6091,CA,Sierra County,Rural_Urban_Continuum_Code_2023,8.0,population
+6091,CA,Sierra County,POP_ESTIMATE_2023,3200.0,population
+6091,CA,Sierra County,N_POP_CHG_2023,-22.0,population
+6091,CA,Sierra County,BIRTHS_2023,23.0,population
+6091,CA,Sierra County,DEATHS_2023,34.0,population
+6091,CA,Sierra County,NATURAL_CHG_2023,-11.0,population
+6091,CA,Sierra County,INTERNATIONAL_MIG_2023,0.0,population
+6091,CA,Sierra County,DOMESTIC_MIG_2023,-11.0,population
+6091,CA,Sierra County,NET_MIG_2023,-11.0,population
+6091,CA,Sierra County,RESIDUAL_2023,0.0,population
+6091,CA,Sierra County,GQ_ESTIMATES_2023,29.0,population
+6091,CA,Sierra County,R_BIRTH_2023,7.2,population
+6091,CA,Sierra County,R_DEATH_2023,10.6,population
+6091,CA,Sierra County,R_NATURAL_CHG_2023,-3.4,population
+6091,CA,Sierra County,R_INTERNATIONAL_MIG_2023,0.0,population
+6091,CA,Sierra County,R_DOMESTIC_MIG_2023,-3.4,population
+6091,CA,Sierra County,R_NET_MIG_2023,-3.4,population
+6093,CA,Siskiyou County,Rural_Urban_Continuum_Code_2023,7.0,population
+6093,CA,Siskiyou County,POP_ESTIMATE_2023,42905.0,population
+6093,CA,Siskiyou County,N_POP_CHG_2023,-881.0,population
+6093,CA,Siskiyou County,BIRTHS_2023,323.0,population
+6093,CA,Siskiyou County,DEATHS_2023,644.0,population
+6093,CA,Siskiyou County,NATURAL_CHG_2023,-321.0,population
+6093,CA,Siskiyou County,INTERNATIONAL_MIG_2023,22.0,population
+6093,CA,Siskiyou County,DOMESTIC_MIG_2023,-579.0,population
+6093,CA,Siskiyou County,NET_MIG_2023,-557.0,population
+6093,CA,Siskiyou County,RESIDUAL_2023,-3.0,population
+6093,CA,Siskiyou County,GQ_ESTIMATES_2023,483.0,population
+6093,CA,Siskiyou County,R_BIRTH_2023,7.5,population
+6093,CA,Siskiyou County,R_DEATH_2023,14.9,population
+6093,CA,Siskiyou County,R_NATURAL_CHG_2023,-7.4,population
+6093,CA,Siskiyou County,R_INTERNATIONAL_MIG_2023,0.5,population
+6093,CA,Siskiyou County,R_DOMESTIC_MIG_2023,-13.4,population
+6093,CA,Siskiyou County,R_NET_MIG_2023,-12.9,population
+6095,CA,Solano County,Rural_Urban_Continuum_Code_2023,2.0,population
+6095,CA,Solano County,POP_ESTIMATE_2023,449218.0,population
+6095,CA,Solano County,N_POP_CHG_2023,333.0,population
+6095,CA,Solano County,BIRTHS_2023,4792.0,population
+6095,CA,Solano County,DEATHS_2023,3819.0,population
+6095,CA,Solano County,NATURAL_CHG_2023,973.0,population
+6095,CA,Solano County,INTERNATIONAL_MIG_2023,1312.0,population
+6095,CA,Solano County,DOMESTIC_MIG_2023,-1965.0,population
+6095,CA,Solano County,NET_MIG_2023,-653.0,population
+6095,CA,Solano County,RESIDUAL_2023,13.0,population
+6095,CA,Solano County,GQ_ESTIMATES_2023,9751.0,population
+6095,CA,Solano County,R_BIRTH_2023,10.7,population
+6095,CA,Solano County,R_DEATH_2023,8.5,population
+6095,CA,Solano County,R_NATURAL_CHG_2023,2.2,population
+6095,CA,Solano County,R_INTERNATIONAL_MIG_2023,2.9,population
+6095,CA,Solano County,R_DOMESTIC_MIG_2023,-4.4,population
+6095,CA,Solano County,R_NET_MIG_2023,-1.5,population
+6097,CA,Sonoma County,Rural_Urban_Continuum_Code_2023,2.0,population
+6097,CA,Sonoma County,POP_ESTIMATE_2023,481812.0,population
+6097,CA,Sonoma County,N_POP_CHG_2023,-857.0,population
+6097,CA,Sonoma County,BIRTHS_2023,4480.0,population
+6097,CA,Sonoma County,DEATHS_2023,4388.0,population
+6097,CA,Sonoma County,NATURAL_CHG_2023,92.0,population
+6097,CA,Sonoma County,INTERNATIONAL_MIG_2023,813.0,population
+6097,CA,Sonoma County,DOMESTIC_MIG_2023,-1765.0,population
+6097,CA,Sonoma County,NET_MIG_2023,-952.0,population
+6097,CA,Sonoma County,RESIDUAL_2023,3.0,population
+6097,CA,Sonoma County,GQ_ESTIMATES_2023,8311.0,population
+6097,CA,Sonoma County,R_BIRTH_2023,9.3,population
+6097,CA,Sonoma County,R_DEATH_2023,9.1,population
+6097,CA,Sonoma County,R_NATURAL_CHG_2023,0.2,population
+6097,CA,Sonoma County,R_INTERNATIONAL_MIG_2023,1.7,population
+6097,CA,Sonoma County,R_DOMESTIC_MIG_2023,-3.7,population
+6097,CA,Sonoma County,R_NET_MIG_2023,-2.0,population
+6099,CA,Stanislaus County,Rural_Urban_Continuum_Code_2023,2.0,population
+6099,CA,Stanislaus County,POP_ESTIMATE_2023,551430.0,population
+6099,CA,Stanislaus County,N_POP_CHG_2023,204.0,population
+6099,CA,Stanislaus County,BIRTHS_2023,7077.0,population
+6099,CA,Stanislaus County,DEATHS_2023,5013.0,population
+6099,CA,Stanislaus County,NATURAL_CHG_2023,2064.0,population
+6099,CA,Stanislaus County,INTERNATIONAL_MIG_2023,1229.0,population
+6099,CA,Stanislaus County,DOMESTIC_MIG_2023,-3144.0,population
+6099,CA,Stanislaus County,NET_MIG_2023,-1915.0,population
+6099,CA,Stanislaus County,RESIDUAL_2023,55.0,population
+6099,CA,Stanislaus County,GQ_ESTIMATES_2023,6478.0,population
+6099,CA,Stanislaus County,R_BIRTH_2023,12.8,population
+6099,CA,Stanislaus County,R_DEATH_2023,9.1,population
+6099,CA,Stanislaus County,R_NATURAL_CHG_2023,3.7,population
+6099,CA,Stanislaus County,R_INTERNATIONAL_MIG_2023,2.2,population
+6099,CA,Stanislaus County,R_DOMESTIC_MIG_2023,-5.7,population
+6099,CA,Stanislaus County,R_NET_MIG_2023,-3.5,population
+6101,CA,Sutter County,Rural_Urban_Continuum_Code_2023,3.0,population
+6101,CA,Sutter County,POP_ESTIMATE_2023,97948.0,population
+6101,CA,Sutter County,N_POP_CHG_2023,-621.0,population
+6101,CA,Sutter County,BIRTHS_2023,1181.0,population
+6101,CA,Sutter County,DEATHS_2023,945.0,population
+6101,CA,Sutter County,NATURAL_CHG_2023,236.0,population
+6101,CA,Sutter County,INTERNATIONAL_MIG_2023,307.0,population
+6101,CA,Sutter County,DOMESTIC_MIG_2023,-1167.0,population
+6101,CA,Sutter County,NET_MIG_2023,-860.0,population
+6101,CA,Sutter County,RESIDUAL_2023,3.0,population
+6101,CA,Sutter County,GQ_ESTIMATES_2023,931.0,population
+6101,CA,Sutter County,R_BIRTH_2023,12.0,population
+6101,CA,Sutter County,R_DEATH_2023,9.6,population
+6101,CA,Sutter County,R_NATURAL_CHG_2023,2.4,population
+6101,CA,Sutter County,R_INTERNATIONAL_MIG_2023,3.1,population
+6101,CA,Sutter County,R_DOMESTIC_MIG_2023,-11.9,population
+6101,CA,Sutter County,R_NET_MIG_2023,-8.8,population
+6103,CA,Tehama County,Rural_Urban_Continuum_Code_2023,4.0,population
+6103,CA,Tehama County,POP_ESTIMATE_2023,64896.0,population
+6103,CA,Tehama County,N_POP_CHG_2023,-403.0,population
+6103,CA,Tehama County,BIRTHS_2023,745.0,population
+6103,CA,Tehama County,DEATHS_2023,870.0,population
+6103,CA,Tehama County,NATURAL_CHG_2023,-125.0,population
+6103,CA,Tehama County,INTERNATIONAL_MIG_2023,-7.0,population
+6103,CA,Tehama County,DOMESTIC_MIG_2023,-274.0,population
+6103,CA,Tehama County,NET_MIG_2023,-281.0,population
+6103,CA,Tehama County,RESIDUAL_2023,3.0,population
+6103,CA,Tehama County,GQ_ESTIMATES_2023,764.0,population
+6103,CA,Tehama County,R_BIRTH_2023,11.4,population
+6103,CA,Tehama County,R_DEATH_2023,13.4,population
+6103,CA,Tehama County,R_NATURAL_CHG_2023,-1.9,population
+6103,CA,Tehama County,R_INTERNATIONAL_MIG_2023,-0.1,population
+6103,CA,Tehama County,R_DOMESTIC_MIG_2023,-4.2,population
+6103,CA,Tehama County,R_NET_MIG_2023,-4.3,population
+6105,CA,Trinity County,Rural_Urban_Continuum_Code_2023,8.0,population
+6105,CA,Trinity County,POP_ESTIMATE_2023,15670.0,population
+6105,CA,Trinity County,N_POP_CHG_2023,-108.0,population
+6105,CA,Trinity County,BIRTHS_2023,100.0,population
+6105,CA,Trinity County,DEATHS_2023,188.0,population
+6105,CA,Trinity County,NATURAL_CHG_2023,-88.0,population
+6105,CA,Trinity County,INTERNATIONAL_MIG_2023,-5.0,population
+6105,CA,Trinity County,DOMESTIC_MIG_2023,-14.0,population
+6105,CA,Trinity County,NET_MIG_2023,-19.0,population
+6105,CA,Trinity County,RESIDUAL_2023,-1.0,population
+6105,CA,Trinity County,GQ_ESTIMATES_2023,215.0,population
+6105,CA,Trinity County,R_BIRTH_2023,6.4,population
+6105,CA,Trinity County,R_DEATH_2023,12.0,population
+6105,CA,Trinity County,R_NATURAL_CHG_2023,-5.6,population
+6105,CA,Trinity County,R_INTERNATIONAL_MIG_2023,-0.3,population
+6105,CA,Trinity County,R_DOMESTIC_MIG_2023,-0.9,population
+6105,CA,Trinity County,R_NET_MIG_2023,-1.2,population
+6107,CA,Tulare County,Rural_Urban_Continuum_Code_2023,2.0,population
+6107,CA,Tulare County,POP_ESTIMATE_2023,479468.0,population
+6107,CA,Tulare County,N_POP_CHG_2023,1584.0,population
+6107,CA,Tulare County,BIRTHS_2023,6746.0,population
+6107,CA,Tulare County,DEATHS_2023,3712.0,population
+6107,CA,Tulare County,NATURAL_CHG_2023,3034.0,population
+6107,CA,Tulare County,INTERNATIONAL_MIG_2023,616.0,population
+6107,CA,Tulare County,DOMESTIC_MIG_2023,-2119.0,population
+6107,CA,Tulare County,NET_MIG_2023,-1503.0,population
+6107,CA,Tulare County,RESIDUAL_2023,53.0,population
+6107,CA,Tulare County,GQ_ESTIMATES_2023,4829.0,population
+6107,CA,Tulare County,R_BIRTH_2023,14.1,population
+6107,CA,Tulare County,R_DEATH_2023,7.8,population
+6107,CA,Tulare County,R_NATURAL_CHG_2023,6.3,population
+6107,CA,Tulare County,R_INTERNATIONAL_MIG_2023,1.3,population
+6107,CA,Tulare County,R_DOMESTIC_MIG_2023,-4.4,population
+6107,CA,Tulare County,R_NET_MIG_2023,-3.1,population
+6109,CA,Tuolumne County,Rural_Urban_Continuum_Code_2023,4.0,population
+6109,CA,Tuolumne County,POP_ESTIMATE_2023,54204.0,population
+6109,CA,Tuolumne County,N_POP_CHG_2023,-383.0,population
+6109,CA,Tuolumne County,BIRTHS_2023,437.0,population
+6109,CA,Tuolumne County,DEATHS_2023,791.0,population
+6109,CA,Tuolumne County,NATURAL_CHG_2023,-354.0,population
+6109,CA,Tuolumne County,INTERNATIONAL_MIG_2023,23.0,population
+6109,CA,Tuolumne County,DOMESTIC_MIG_2023,-50.0,population
+6109,CA,Tuolumne County,NET_MIG_2023,-27.0,population
+6109,CA,Tuolumne County,RESIDUAL_2023,-2.0,population
+6109,CA,Tuolumne County,GQ_ESTIMATES_2023,3186.0,population
+6109,CA,Tuolumne County,R_BIRTH_2023,8.0,population
+6109,CA,Tuolumne County,R_DEATH_2023,14.5,population
+6109,CA,Tuolumne County,R_NATURAL_CHG_2023,-6.5,population
+6109,CA,Tuolumne County,R_INTERNATIONAL_MIG_2023,0.4,population
+6109,CA,Tuolumne County,R_DOMESTIC_MIG_2023,-0.9,population
+6109,CA,Tuolumne County,R_NET_MIG_2023,-0.5,population
+6111,CA,Ventura County,Rural_Urban_Continuum_Code_2023,2.0,population
+6111,CA,Ventura County,POP_ESTIMATE_2023,829590.0,population
+6111,CA,Ventura County,N_POP_CHG_2023,-3281.0,population
+6111,CA,Ventura County,BIRTHS_2023,8581.0,population
+6111,CA,Ventura County,DEATHS_2023,6524.0,population
+6111,CA,Ventura County,NATURAL_CHG_2023,2057.0,population
+6111,CA,Ventura County,INTERNATIONAL_MIG_2023,1390.0,population
+6111,CA,Ventura County,DOMESTIC_MIG_2023,-6754.0,population
+6111,CA,Ventura County,NET_MIG_2023,-5364.0,population
+6111,CA,Ventura County,RESIDUAL_2023,26.0,population
+6111,CA,Ventura County,GQ_ESTIMATES_2023,11360.0,population
+6111,CA,Ventura County,R_BIRTH_2023,10.3,population
+6111,CA,Ventura County,R_DEATH_2023,7.8,population
+6111,CA,Ventura County,R_NATURAL_CHG_2023,2.5,population
+6111,CA,Ventura County,R_INTERNATIONAL_MIG_2023,1.7,population
+6111,CA,Ventura County,R_DOMESTIC_MIG_2023,-8.1,population
+6111,CA,Ventura County,R_NET_MIG_2023,-6.5,population
+6113,CA,Yolo County,Rural_Urban_Continuum_Code_2023,1.0,population
+6113,CA,Yolo County,POP_ESTIMATE_2023,220544.0,population
+6113,CA,Yolo County,N_POP_CHG_2023,-1474.0,population
+6113,CA,Yolo County,BIRTHS_2023,1900.0,population
+6113,CA,Yolo County,DEATHS_2023,1507.0,population
+6113,CA,Yolo County,NATURAL_CHG_2023,393.0,population
+6113,CA,Yolo County,INTERNATIONAL_MIG_2023,1523.0,population
+6113,CA,Yolo County,DOMESTIC_MIG_2023,-3414.0,population
+6113,CA,Yolo County,NET_MIG_2023,-1891.0,population
+6113,CA,Yolo County,RESIDUAL_2023,24.0,population
+6113,CA,Yolo County,GQ_ESTIMATES_2023,11795.0,population
+6113,CA,Yolo County,R_BIRTH_2023,8.6,population
+6113,CA,Yolo County,R_DEATH_2023,6.8,population
+6113,CA,Yolo County,R_NATURAL_CHG_2023,1.8,population
+6113,CA,Yolo County,R_INTERNATIONAL_MIG_2023,6.9,population
+6113,CA,Yolo County,R_DOMESTIC_MIG_2023,-15.4,population
+6113,CA,Yolo County,R_NET_MIG_2023,-8.5,population
+6115,CA,Yuba County,Rural_Urban_Continuum_Code_2023,3.0,population
+6115,CA,Yuba County,POP_ESTIMATE_2023,85722.0,population
+6115,CA,Yuba County,N_POP_CHG_2023,1369.0,population
+6115,CA,Yuba County,BIRTHS_2023,1177.0,population
+6115,CA,Yuba County,DEATHS_2023,746.0,population
+6115,CA,Yuba County,NATURAL_CHG_2023,431.0,population
+6115,CA,Yuba County,INTERNATIONAL_MIG_2023,130.0,population
+6115,CA,Yuba County,DOMESTIC_MIG_2023,805.0,population
+6115,CA,Yuba County,NET_MIG_2023,935.0,population
+6115,CA,Yuba County,RESIDUAL_2023,3.0,population
+6115,CA,Yuba County,GQ_ESTIMATES_2023,2339.0,population
+6115,CA,Yuba County,R_BIRTH_2023,13.8,population
+6115,CA,Yuba County,R_DEATH_2023,8.8,population
+6115,CA,Yuba County,R_NATURAL_CHG_2023,5.1,population
+6115,CA,Yuba County,R_INTERNATIONAL_MIG_2023,1.5,population
+6115,CA,Yuba County,R_DOMESTIC_MIG_2023,9.5,population
+6115,CA,Yuba County,R_NET_MIG_2023,11.0,population
