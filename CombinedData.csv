@@ -1,294 +1,1802 @@
 FIPS_Code,State,Area_Name,Attribute,Value,Dataset
 6001,CA,Alameda County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6001,CA,Alameda County,POVALL_2023,151872.0,poverty
+6001,CA,Alameda County,CI90LBALL_2023,138959.0,poverty
+6001,CA,Alameda County,CI90UBALL_2023,164785.0,poverty
 6001,CA,Alameda County,PCTPOVALL_2023,9.5,poverty
+6001,CA,Alameda County,CI90LBALLP_2023,8.7,poverty
+6001,CA,Alameda County,CI90UBALLP_2023,10.3,poverty
+6001,CA,Alameda County,POV017_2023,28117.0,poverty
+6001,CA,Alameda County,CI90LB017_2023,22066.0,poverty
+6001,CA,Alameda County,CI90UB017_2023,34168.0,poverty
+6001,CA,Alameda County,PCTPOV017_2023,9.0,poverty
+6001,CA,Alameda County,CI90LB017P_2023,7.1,poverty
+6001,CA,Alameda County,CI90UB017P_2023,10.9,poverty
+6001,CA,Alameda County,POV517_2023,21236.0,poverty
+6001,CA,Alameda County,CI90LB517_2023,16450.0,poverty
+6001,CA,Alameda County,CI90UB517_2023,26022.0,poverty
+6001,CA,Alameda County,PCTPOV517_2023,9.2,poverty
+6001,CA,Alameda County,CI90LB517P_2023,7.1,poverty
+6001,CA,Alameda County,CI90UB517P_2023,11.3,poverty
 6001,CA,Alameda County,MEDHHINC_2023,119230.0,poverty
+6001,CA,Alameda County,CI90LBINC_2023,115954.0,poverty
+6001,CA,Alameda County,CI90UBINC_2023,122506.0,poverty
 6003,CA,Alpine County,Rural_Urban_Continuum_Code_2023,8.0,poverty
 6003,CA,Alpine County,POVALL_2023,177.0,poverty
+6003,CA,Alpine County,CI90LBALL_2023,134.0,poverty
+6003,CA,Alpine County,CI90UBALL_2023,220.0,poverty
 6003,CA,Alpine County,PCTPOVALL_2023,15.6,poverty
+6003,CA,Alpine County,CI90LBALLP_2023,11.8,poverty
+6003,CA,Alpine County,CI90UBALLP_2023,19.4,poverty
+6003,CA,Alpine County,POV017_2023,49.0,poverty
+6003,CA,Alpine County,CI90LB017_2023,34.0,poverty
+6003,CA,Alpine County,CI90UB017_2023,64.0,poverty
+6003,CA,Alpine County,PCTPOV017_2023,26.8,poverty
+6003,CA,Alpine County,CI90LB017P_2023,18.5,poverty
+6003,CA,Alpine County,CI90UB017P_2023,35.1,poverty
+6003,CA,Alpine County,POV517_2023,32.0,poverty
+6003,CA,Alpine County,CI90LB517_2023,21.0,poverty
+6003,CA,Alpine County,CI90UB517_2023,43.0,poverty
+6003,CA,Alpine County,PCTPOV517_2023,22.4,poverty
+6003,CA,Alpine County,CI90LB517P_2023,14.9,poverty
+6003,CA,Alpine County,CI90UB517P_2023,29.9,poverty
 6003,CA,Alpine County,MEDHHINC_2023,83265.0,poverty
+6003,CA,Alpine County,CI90LBINC_2023,75129.0,poverty
+6003,CA,Alpine County,CI90UBINC_2023,91401.0,poverty
 6005,CA,Amador County,Rural_Urban_Continuum_Code_2023,6.0,poverty
 6005,CA,Amador County,POVALL_2023,4400.0,poverty
+6005,CA,Amador County,CI90LBALL_2023,3493.0,poverty
+6005,CA,Amador County,CI90UBALL_2023,5307.0,poverty
 6005,CA,Amador County,PCTPOVALL_2023,11.7,poverty
+6005,CA,Amador County,CI90LBALLP_2023,9.3,poverty
+6005,CA,Amador County,CI90UBALLP_2023,14.1,poverty
+6005,CA,Amador County,POV017_2023,886.0,poverty
+6005,CA,Amador County,CI90LB017_2023,613.0,poverty
+6005,CA,Amador County,CI90UB017_2023,1159.0,poverty
+6005,CA,Amador County,PCTPOV017_2023,13.9,poverty
+6005,CA,Amador County,CI90LB017P_2023,9.6,poverty
+6005,CA,Amador County,CI90UB017P_2023,18.2,poverty
+6005,CA,Amador County,POV517_2023,631.0,poverty
+6005,CA,Amador County,CI90LB517_2023,427.0,poverty
+6005,CA,Amador County,CI90UB517_2023,835.0,poverty
+6005,CA,Amador County,PCTPOV517_2023,13.5,poverty
+6005,CA,Amador County,CI90LB517P_2023,9.1,poverty
+6005,CA,Amador County,CI90UB517P_2023,17.9,poverty
 6005,CA,Amador County,MEDHHINC_2023,80767.0,poverty
+6005,CA,Amador County,CI90LBINC_2023,73729.0,poverty
+6005,CA,Amador County,CI90UBINC_2023,87805.0,poverty
 6007,CA,Butte County,Rural_Urban_Continuum_Code_2023,3.0,poverty
 6007,CA,Butte County,POVALL_2023,40532.0,poverty
+6007,CA,Butte County,CI90LBALL_2023,36792.0,poverty
+6007,CA,Butte County,CI90UBALL_2023,44272.0,poverty
 6007,CA,Butte County,PCTPOVALL_2023,19.9,poverty
+6007,CA,Butte County,CI90LBALLP_2023,18.1,poverty
+6007,CA,Butte County,CI90UBALLP_2023,21.7,poverty
+6007,CA,Butte County,POV017_2023,8618.0,poverty
+6007,CA,Butte County,CI90LB017_2023,7109.0,poverty
+6007,CA,Butte County,CI90UB017_2023,10127.0,poverty
+6007,CA,Butte County,PCTPOV017_2023,20.8,poverty
+6007,CA,Butte County,CI90LB017P_2023,17.2,poverty
+6007,CA,Butte County,CI90UB017P_2023,24.4,poverty
+6007,CA,Butte County,POV517_2023,5692.0,poverty
+6007,CA,Butte County,CI90LB517_2023,4485.0,poverty
+6007,CA,Butte County,CI90UB517_2023,6899.0,poverty
+6007,CA,Butte County,PCTPOV517_2023,18.4,poverty
+6007,CA,Butte County,CI90LB517P_2023,14.5,poverty
+6007,CA,Butte County,CI90UB517P_2023,22.3,poverty
 6007,CA,Butte County,MEDHHINC_2023,63084.0,poverty
+6007,CA,Butte County,CI90LBINC_2023,59966.0,poverty
+6007,CA,Butte County,CI90UBINC_2023,66202.0,poverty
 6009,CA,Calaveras County,Rural_Urban_Continuum_Code_2023,6.0,poverty
 6009,CA,Calaveras County,POVALL_2023,5639.0,poverty
+6009,CA,Calaveras County,CI90LBALL_2023,4559.0,poverty
+6009,CA,Calaveras County,CI90UBALL_2023,6719.0,poverty
 6009,CA,Calaveras County,PCTPOVALL_2023,12.2,poverty
+6009,CA,Calaveras County,CI90LBALLP_2023,9.9,poverty
+6009,CA,Calaveras County,CI90UBALLP_2023,14.5,poverty
+6009,CA,Calaveras County,POV017_2023,1228.0,poverty
+6009,CA,Calaveras County,CI90LB017_2023,873.0,poverty
+6009,CA,Calaveras County,CI90UB017_2023,1583.0,poverty
+6009,CA,Calaveras County,PCTPOV017_2023,15.5,poverty
+6009,CA,Calaveras County,CI90LB017P_2023,11.0,poverty
+6009,CA,Calaveras County,CI90UB017P_2023,20.0,poverty
+6009,CA,Calaveras County,POV517_2023,897.0,poverty
+6009,CA,Calaveras County,CI90LB517_2023,621.0,poverty
+6009,CA,Calaveras County,CI90UB517_2023,1173.0,poverty
+6009,CA,Calaveras County,PCTPOV517_2023,15.2,poverty
+6009,CA,Calaveras County,CI90LB517P_2023,10.5,poverty
+6009,CA,Calaveras County,CI90UB517P_2023,19.9,poverty
 6009,CA,Calaveras County,MEDHHINC_2023,77041.0,poverty
+6009,CA,Calaveras County,CI90LBINC_2023,69437.0,poverty
+6009,CA,Calaveras County,CI90UBINC_2023,84645.0,poverty
 6011,CA,Colusa County,Rural_Urban_Continuum_Code_2023,6.0,poverty
 6011,CA,Colusa County,POVALL_2023,2677.0,poverty
+6011,CA,Colusa County,CI90LBALL_2023,2093.0,poverty
+6011,CA,Colusa County,CI90UBALL_2023,3261.0,poverty
 6011,CA,Colusa County,PCTPOVALL_2023,12.3,poverty
+6011,CA,Colusa County,CI90LBALLP_2023,9.6,poverty
+6011,CA,Colusa County,CI90UBALLP_2023,15.0,poverty
+6011,CA,Colusa County,POV017_2023,833.0,poverty
+6011,CA,Colusa County,CI90LB017_2023,568.0,poverty
+6011,CA,Colusa County,CI90UB017_2023,1098.0,poverty
+6011,CA,Colusa County,PCTPOV017_2023,14.2,poverty
+6011,CA,Colusa County,CI90LB017P_2023,9.7,poverty
+6011,CA,Colusa County,CI90UB017P_2023,18.7,poverty
+6011,CA,Colusa County,POV517_2023,605.0,poverty
+6011,CA,Colusa County,CI90LB517_2023,402.0,poverty
+6011,CA,Colusa County,CI90UB517_2023,808.0,poverty
+6011,CA,Colusa County,PCTPOV517_2023,13.6,poverty
+6011,CA,Colusa County,CI90LB517P_2023,9.0,poverty
+6011,CA,Colusa County,CI90UB517P_2023,18.2,poverty
 6011,CA,Colusa County,MEDHHINC_2023,66675.0,poverty
+6011,CA,Colusa County,CI90LBINC_2023,58759.0,poverty
+6011,CA,Colusa County,CI90UBINC_2023,74591.0,poverty
 6013,CA,Contra Costa County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6013,CA,Contra Costa County,POVALL_2023,95369.0,poverty
+6013,CA,Contra Costa County,CI90LBALL_2023,86108.0,poverty
+6013,CA,Contra Costa County,CI90UBALL_2023,104630.0,poverty
 6013,CA,Contra Costa County,PCTPOVALL_2023,8.3,poverty
+6013,CA,Contra Costa County,CI90LBALLP_2023,7.5,poverty
+6013,CA,Contra Costa County,CI90UBALLP_2023,9.1,poverty
+6013,CA,Contra Costa County,POV017_2023,25049.0,poverty
+6013,CA,Contra Costa County,CI90LB017_2023,20927.0,poverty
+6013,CA,Contra Costa County,CI90UB017_2023,29171.0,poverty
+6013,CA,Contra Costa County,PCTPOV017_2023,10.1,poverty
+6013,CA,Contra Costa County,CI90LB017P_2023,8.4,poverty
+6013,CA,Contra Costa County,CI90UB017P_2023,11.8,poverty
+6013,CA,Contra Costa County,POV517_2023,17298.0,poverty
+6013,CA,Contra Costa County,CI90LB517_2023,14043.0,poverty
+6013,CA,Contra Costa County,CI90UB517_2023,20553.0,poverty
+6013,CA,Contra Costa County,PCTPOV517_2023,9.2,poverty
+6013,CA,Contra Costa County,CI90LB517P_2023,7.5,poverty
+6013,CA,Contra Costa County,CI90UB517P_2023,10.9,poverty
 6013,CA,Contra Costa County,MEDHHINC_2023,122000.0,poverty
+6013,CA,Contra Costa County,CI90LBINC_2023,117837.0,poverty
+6013,CA,Contra Costa County,CI90UBINC_2023,126163.0,poverty
 6015,CA,Del Norte County,Rural_Urban_Continuum_Code_2023,7.0,poverty
 6015,CA,Del Norte County,POVALL_2023,3408.0,poverty
+6015,CA,Del Norte County,CI90LBALL_2023,2432.0,poverty
+6015,CA,Del Norte County,CI90UBALL_2023,4384.0,poverty
 6015,CA,Del Norte County,PCTPOVALL_2023,13.8,poverty
+6015,CA,Del Norte County,CI90LBALLP_2023,9.8,poverty
+6015,CA,Del Norte County,CI90UBALLP_2023,17.8,poverty
+6015,CA,Del Norte County,POV017_2023,1138.0,poverty
+6015,CA,Del Norte County,CI90LB017_2023,740.0,poverty
+6015,CA,Del Norte County,CI90UB017_2023,1536.0,poverty
+6015,CA,Del Norte County,PCTPOV017_2023,21.0,poverty
+6015,CA,Del Norte County,CI90LB017P_2023,13.7,poverty
+6015,CA,Del Norte County,CI90UB017P_2023,28.3,poverty
+6015,CA,Del Norte County,POV517_2023,804.0,poverty
+6015,CA,Del Norte County,CI90LB517_2023,510.0,poverty
+6015,CA,Del Norte County,CI90UB517_2023,1098.0,poverty
+6015,CA,Del Norte County,PCTPOV517_2023,19.6,poverty
+6015,CA,Del Norte County,CI90LB517P_2023,12.4,poverty
+6015,CA,Del Norte County,CI90UB517P_2023,26.8,poverty
 6015,CA,Del Norte County,MEDHHINC_2023,70231.0,poverty
+6015,CA,Del Norte County,CI90LBINC_2023,65951.0,poverty
+6015,CA,Del Norte County,CI90UBINC_2023,74511.0,poverty
 6017,CA,El Dorado County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6017,CA,El Dorado County,POVALL_2023,13438.0,poverty
+6017,CA,El Dorado County,CI90LBALL_2023,11009.0,poverty
+6017,CA,El Dorado County,CI90UBALL_2023,15867.0,poverty
 6017,CA,El Dorado County,PCTPOVALL_2023,7.0,poverty
+6017,CA,El Dorado County,CI90LBALLP_2023,5.7,poverty
+6017,CA,El Dorado County,CI90UBALLP_2023,8.3,poverty
+6017,CA,El Dorado County,POV017_2023,2864.0,poverty
+6017,CA,El Dorado County,CI90LB017_2023,1967.0,poverty
+6017,CA,El Dorado County,CI90UB017_2023,3761.0,poverty
+6017,CA,El Dorado County,PCTPOV017_2023,7.8,poverty
+6017,CA,El Dorado County,CI90LB017P_2023,5.3,poverty
+6017,CA,El Dorado County,CI90UB017P_2023,10.3,poverty
+6017,CA,El Dorado County,POV517_2023,2064.0,poverty
+6017,CA,El Dorado County,CI90LB517_2023,1391.0,poverty
+6017,CA,El Dorado County,CI90UB517_2023,2737.0,poverty
+6017,CA,El Dorado County,PCTPOV517_2023,7.3,poverty
+6017,CA,El Dorado County,CI90LB517P_2023,4.9,poverty
+6017,CA,El Dorado County,CI90UB517P_2023,9.7,poverty
 6017,CA,El Dorado County,MEDHHINC_2023,107063.0,poverty
+6017,CA,El Dorado County,CI90LBINC_2023,102121.0,poverty
+6017,CA,El Dorado County,CI90UBINC_2023,112005.0,poverty
 6019,CA,Fresno County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6019,CA,Fresno County,POVALL_2023,177171.0,poverty
+6019,CA,Fresno County,CI90LBALL_2023,163569.0,poverty
+6019,CA,Fresno County,CI90UBALL_2023,190773.0,poverty
 6019,CA,Fresno County,PCTPOVALL_2023,17.7,poverty
+6019,CA,Fresno County,CI90LBALLP_2023,16.3,poverty
+6019,CA,Fresno County,CI90UBALLP_2023,19.1,poverty
+6019,CA,Fresno County,POV017_2023,64163.0,poverty
+6019,CA,Fresno County,CI90LB017_2023,57553.0,poverty
+6019,CA,Fresno County,CI90UB017_2023,70773.0,poverty
+6019,CA,Fresno County,PCTPOV017_2023,23.3,poverty
+6019,CA,Fresno County,CI90LB017P_2023,20.9,poverty
+6019,CA,Fresno County,CI90UB017P_2023,25.7,poverty
+6019,CA,Fresno County,POV517_2023,47686.0,poverty
+6019,CA,Fresno County,CI90LB517_2023,42714.0,poverty
+6019,CA,Fresno County,CI90UB517_2023,52658.0,poverty
+6019,CA,Fresno County,PCTPOV517_2023,23.0,poverty
+6019,CA,Fresno County,CI90LB517P_2023,20.6,poverty
+6019,CA,Fresno County,CI90UB517P_2023,25.4,poverty
 6019,CA,Fresno County,MEDHHINC_2023,71271.0,poverty
+6019,CA,Fresno County,CI90LBINC_2023,69560.0,poverty
+6019,CA,Fresno County,CI90UBINC_2023,72982.0,poverty
 6021,CA,Glenn County,Rural_Urban_Continuum_Code_2023,6.0,poverty
 6021,CA,Glenn County,POVALL_2023,3769.0,poverty
+6021,CA,Glenn County,CI90LBALL_2023,2938.0,poverty
+6021,CA,Glenn County,CI90UBALL_2023,4600.0,poverty
 6021,CA,Glenn County,PCTPOVALL_2023,13.5,poverty
+6021,CA,Glenn County,CI90LBALLP_2023,10.5,poverty
+6021,CA,Glenn County,CI90UBALLP_2023,16.5,poverty
+6021,CA,Glenn County,POV017_2023,1116.0,poverty
+6021,CA,Glenn County,CI90LB017_2023,718.0,poverty
+6021,CA,Glenn County,CI90UB017_2023,1514.0,poverty
+6021,CA,Glenn County,PCTPOV017_2023,15.1,poverty
+6021,CA,Glenn County,CI90LB017P_2023,9.7,poverty
+6021,CA,Glenn County,CI90UB017P_2023,20.5,poverty
+6021,CA,Glenn County,POV517_2023,944.0,poverty
+6021,CA,Glenn County,CI90LB517_2023,620.0,poverty
+6021,CA,Glenn County,CI90UB517_2023,1268.0,poverty
+6021,CA,Glenn County,PCTPOV517_2023,16.9,poverty
+6021,CA,Glenn County,CI90LB517P_2023,11.1,poverty
+6021,CA,Glenn County,CI90UB517P_2023,22.7,poverty
 6021,CA,Glenn County,MEDHHINC_2023,64197.0,poverty
+6021,CA,Glenn County,CI90LBINC_2023,57452.0,poverty
+6021,CA,Glenn County,CI90UBINC_2023,70942.0,poverty
 6023,CA,Humboldt County,Rural_Urban_Continuum_Code_2023,5.0,poverty
 6023,CA,Humboldt County,POVALL_2023,21856.0,poverty
+6023,CA,Humboldt County,CI90LBALL_2023,18748.0,poverty
+6023,CA,Humboldt County,CI90UBALL_2023,24964.0,poverty
 6023,CA,Humboldt County,PCTPOVALL_2023,16.7,poverty
+6023,CA,Humboldt County,CI90LBALLP_2023,14.3,poverty
+6023,CA,Humboldt County,CI90UBALLP_2023,19.1,poverty
+6023,CA,Humboldt County,POV017_2023,4502.0,poverty
+6023,CA,Humboldt County,CI90LB017_2023,3215.0,poverty
+6023,CA,Humboldt County,CI90UB017_2023,5789.0,poverty
+6023,CA,Humboldt County,PCTPOV017_2023,18.5,poverty
+6023,CA,Humboldt County,CI90LB017P_2023,13.2,poverty
+6023,CA,Humboldt County,CI90UB017P_2023,23.8,poverty
+6023,CA,Humboldt County,POV517_2023,3217.0,poverty
+6023,CA,Humboldt County,CI90LB517_2023,2239.0,poverty
+6023,CA,Humboldt County,CI90UB517_2023,4195.0,poverty
+6023,CA,Humboldt County,PCTPOV517_2023,17.8,poverty
+6023,CA,Humboldt County,CI90LB517P_2023,12.4,poverty
+6023,CA,Humboldt County,CI90UB517P_2023,23.2,poverty
 6023,CA,Humboldt County,MEDHHINC_2023,61307.0,poverty
+6023,CA,Humboldt County,CI90LBINC_2023,58736.0,poverty
+6023,CA,Humboldt County,CI90UBINC_2023,63878.0,poverty
 6025,CA,Imperial County,Rural_Urban_Continuum_Code_2023,3.0,poverty
 6025,CA,Imperial County,POVALL_2023,29810.0,poverty
+6025,CA,Imperial County,CI90LBALL_2023,25181.0,poverty
+6025,CA,Imperial County,CI90UBALL_2023,34439.0,poverty
 6025,CA,Imperial County,PCTPOVALL_2023,17.3,poverty
+6025,CA,Imperial County,CI90LBALLP_2023,14.6,poverty
+6025,CA,Imperial County,CI90UBALLP_2023,20.0,poverty
+6025,CA,Imperial County,POV017_2023,10997.0,poverty
+6025,CA,Imperial County,CI90LB017_2023,8301.0,poverty
+6025,CA,Imperial County,CI90UB017_2023,13693.0,poverty
+6025,CA,Imperial County,PCTPOV017_2023,22.1,poverty
+6025,CA,Imperial County,CI90LB017P_2023,16.7,poverty
+6025,CA,Imperial County,CI90UB017P_2023,27.5,poverty
+6025,CA,Imperial County,POV517_2023,7823.0,poverty
+6025,CA,Imperial County,CI90LB517_2023,5637.0,poverty
+6025,CA,Imperial County,CI90UB517_2023,10009.0,poverty
+6025,CA,Imperial County,PCTPOV517_2023,20.7,poverty
+6025,CA,Imperial County,CI90LB517P_2023,14.9,poverty
+6025,CA,Imperial County,CI90UB517P_2023,26.5,poverty
 6025,CA,Imperial County,MEDHHINC_2023,58768.0,poverty
+6025,CA,Imperial County,CI90LBINC_2023,55235.0,poverty
+6025,CA,Imperial County,CI90UBINC_2023,62301.0,poverty
 6027,CA,Inyo County,Rural_Urban_Continuum_Code_2023,6.0,poverty
 6027,CA,Inyo County,POVALL_2023,2169.0,poverty
+6027,CA,Inyo County,CI90LBALL_2023,1665.0,poverty
+6027,CA,Inyo County,CI90UBALL_2023,2673.0,poverty
 6027,CA,Inyo County,PCTPOVALL_2023,11.8,poverty
+6027,CA,Inyo County,CI90LBALLP_2023,9.1,poverty
+6027,CA,Inyo County,CI90UBALLP_2023,14.5,poverty
+6027,CA,Inyo County,POV017_2023,515.0,poverty
+6027,CA,Inyo County,CI90LB017_2023,352.0,poverty
+6027,CA,Inyo County,CI90UB017_2023,678.0,poverty
+6027,CA,Inyo County,PCTPOV017_2023,14.2,poverty
+6027,CA,Inyo County,CI90LB017P_2023,9.7,poverty
+6027,CA,Inyo County,CI90UB017P_2023,18.7,poverty
+6027,CA,Inyo County,POV517_2023,365.0,poverty
+6027,CA,Inyo County,CI90LB517_2023,244.0,poverty
+6027,CA,Inyo County,CI90UB517_2023,486.0,poverty
+6027,CA,Inyo County,PCTPOV517_2023,13.2,poverty
+6027,CA,Inyo County,CI90LB517P_2023,8.8,poverty
+6027,CA,Inyo County,CI90UB517P_2023,17.6,poverty
 6027,CA,Inyo County,MEDHHINC_2023,71656.0,poverty
+6027,CA,Inyo County,CI90LBINC_2023,63583.0,poverty
+6027,CA,Inyo County,CI90UBINC_2023,79729.0,poverty
 6029,CA,Kern County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6029,CA,Kern County,POVALL_2023,169857.0,poverty
+6029,CA,Kern County,CI90LBALL_2023,159305.0,poverty
+6029,CA,Kern County,CI90UBALL_2023,180409.0,poverty
 6029,CA,Kern County,PCTPOVALL_2023,19.0,poverty
+6029,CA,Kern County,CI90LBALLP_2023,17.8,poverty
+6029,CA,Kern County,CI90UBALLP_2023,20.2,poverty
+6029,CA,Kern County,POV017_2023,63566.0,poverty
+6029,CA,Kern County,CI90LB017_2023,57470.0,poverty
+6029,CA,Kern County,CI90UB017_2023,69662.0,poverty
+6029,CA,Kern County,PCTPOV017_2023,24.8,poverty
+6029,CA,Kern County,CI90LB017P_2023,22.4,poverty
+6029,CA,Kern County,CI90UB017P_2023,27.2,poverty
+6029,CA,Kern County,POV517_2023,45602.0,poverty
+6029,CA,Kern County,CI90LB517_2023,41215.0,poverty
+6029,CA,Kern County,CI90UB517_2023,49989.0,poverty
+6029,CA,Kern County,PCTPOV517_2023,23.6,poverty
+6029,CA,Kern County,CI90LB517P_2023,21.3,poverty
+6029,CA,Kern County,CI90UB517P_2023,25.9,poverty
 6029,CA,Kern County,MEDHHINC_2023,68436.0,poverty
+6029,CA,Kern County,CI90LBINC_2023,66141.0,poverty
+6029,CA,Kern County,CI90UBINC_2023,70731.0,poverty
 6031,CA,Kings County,Rural_Urban_Continuum_Code_2023,3.0,poverty
 6031,CA,Kings County,POVALL_2023,23950.0,poverty
+6031,CA,Kings County,CI90LBALL_2023,20025.0,poverty
+6031,CA,Kings County,CI90UBALL_2023,27875.0,poverty
 6031,CA,Kings County,PCTPOVALL_2023,17.5,poverty
+6031,CA,Kings County,CI90LBALLP_2023,14.6,poverty
+6031,CA,Kings County,CI90UBALLP_2023,20.4,poverty
+6031,CA,Kings County,POV017_2023,8148.0,poverty
+6031,CA,Kings County,CI90LB017_2023,6369.0,poverty
+6031,CA,Kings County,CI90UB017_2023,9927.0,poverty
+6031,CA,Kings County,PCTPOV017_2023,20.3,poverty
+6031,CA,Kings County,CI90LB017P_2023,15.9,poverty
+6031,CA,Kings County,CI90UB017P_2023,24.7,poverty
+6031,CA,Kings County,POV517_2023,5998.0,poverty
+6031,CA,Kings County,CI90LB517_2023,4657.0,poverty
+6031,CA,Kings County,CI90UB517_2023,7339.0,poverty
+6031,CA,Kings County,PCTPOV517_2023,20.2,poverty
+6031,CA,Kings County,CI90LB517P_2023,15.7,poverty
+6031,CA,Kings County,CI90UB517P_2023,24.7,poverty
 6031,CA,Kings County,MEDHHINC_2023,65768.0,poverty
+6031,CA,Kings County,CI90LBINC_2023,60607.0,poverty
+6031,CA,Kings County,CI90UBINC_2023,70929.0,poverty
 6033,CA,Lake County,Rural_Urban_Continuum_Code_2023,4.0,poverty
 6033,CA,Lake County,POVALL_2023,11790.0,poverty
+6033,CA,Lake County,CI90LBALL_2023,9746.0,poverty
+6033,CA,Lake County,CI90UBALL_2023,13834.0,poverty
 6033,CA,Lake County,PCTPOVALL_2023,17.6,poverty
+6033,CA,Lake County,CI90LBALLP_2023,14.6,poverty
+6033,CA,Lake County,CI90UBALLP_2023,20.6,poverty
+6033,CA,Lake County,POV017_2023,3148.0,poverty
+6033,CA,Lake County,CI90LB017_2023,2225.0,poverty
+6033,CA,Lake County,CI90UB017_2023,4071.0,poverty
+6033,CA,Lake County,PCTPOV017_2023,21.6,poverty
+6033,CA,Lake County,CI90LB017P_2023,15.3,poverty
+6033,CA,Lake County,CI90UB017P_2023,27.9,poverty
+6033,CA,Lake County,POV517_2023,2345.0,poverty
+6033,CA,Lake County,CI90LB517_2023,1649.0,poverty
+6033,CA,Lake County,CI90UB517_2023,3041.0,poverty
+6033,CA,Lake County,PCTPOV517_2023,21.6,poverty
+6033,CA,Lake County,CI90LB517P_2023,15.2,poverty
+6033,CA,Lake County,CI90UB517P_2023,28.0,poverty
 6033,CA,Lake County,MEDHHINC_2023,57945.0,poverty
+6033,CA,Lake County,CI90LBINC_2023,53681.0,poverty
+6033,CA,Lake County,CI90UBINC_2023,62209.0,poverty
 6035,CA,Lassen County,Rural_Urban_Continuum_Code_2023,7.0,poverty
 6035,CA,Lassen County,POVALL_2023,3992.0,poverty
+6035,CA,Lassen County,CI90LBALL_2023,3055.0,poverty
+6035,CA,Lassen County,CI90UBALL_2023,4929.0,poverty
 6035,CA,Lassen County,PCTPOVALL_2023,17.1,poverty
+6035,CA,Lassen County,CI90LBALLP_2023,13.1,poverty
+6035,CA,Lassen County,CI90UBALLP_2023,21.1,poverty
+6035,CA,Lassen County,POV017_2023,914.0,poverty
+6035,CA,Lassen County,CI90LB017_2023,643.0,poverty
+6035,CA,Lassen County,CI90UB017_2023,1185.0,poverty
+6035,CA,Lassen County,PCTPOV017_2023,17.2,poverty
+6035,CA,Lassen County,CI90LB017P_2023,12.1,poverty
+6035,CA,Lassen County,CI90UB017P_2023,22.3,poverty
+6035,CA,Lassen County,POV517_2023,648.0,poverty
+6035,CA,Lassen County,CI90LB517_2023,448.0,poverty
+6035,CA,Lassen County,CI90UB517_2023,848.0,poverty
+6035,CA,Lassen County,PCTPOV517_2023,16.6,poverty
+6035,CA,Lassen County,CI90LB517P_2023,11.5,poverty
+6035,CA,Lassen County,CI90UB517P_2023,21.7,poverty
 6035,CA,Lassen County,MEDHHINC_2023,77743.0,poverty
+6035,CA,Lassen County,CI90LBINC_2023,73515.0,poverty
+6035,CA,Lassen County,CI90UBINC_2023,81971.0,poverty
 6037,CA,Los Angeles County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6037,CA,Los Angeles County,POVALL_2023,1299957.0,poverty
+6037,CA,Los Angeles County,CI90LBALL_2023,1260625.0,poverty
+6037,CA,Los Angeles County,CI90UBALL_2023,1339289.0,poverty
 6037,CA,Los Angeles County,PCTPOVALL_2023,13.7,poverty
+6037,CA,Los Angeles County,CI90LBALLP_2023,13.3,poverty
+6037,CA,Los Angeles County,CI90UBALLP_2023,14.1,poverty
+6037,CA,Los Angeles County,POV017_2023,337451.0,poverty
+6037,CA,Los Angeles County,CI90LB017_2023,319685.0,poverty
+6037,CA,Los Angeles County,CI90UB017_2023,355217.0,poverty
+6037,CA,Los Angeles County,PCTPOV017_2023,17.6,poverty
+6037,CA,Los Angeles County,CI90LB017P_2023,16.7,poverty
+6037,CA,Los Angeles County,CI90UB017P_2023,18.5,poverty
+6037,CA,Los Angeles County,POV517_2023,253494.0,poverty
+6037,CA,Los Angeles County,CI90LB517_2023,238990.0,poverty
+6037,CA,Los Angeles County,CI90UB517_2023,267998.0,poverty
+6037,CA,Los Angeles County,PCTPOV517_2023,17.5,poverty
+6037,CA,Los Angeles County,CI90LB517P_2023,16.5,poverty
+6037,CA,Los Angeles County,CI90UB517P_2023,18.5,poverty
 6037,CA,Los Angeles County,MEDHHINC_2023,86499.0,poverty
+6037,CA,Los Angeles County,CI90LBINC_2023,85733.0,poverty
+6037,CA,Los Angeles County,CI90UBINC_2023,87265.0,poverty
 6039,CA,Madera County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6039,CA,Madera County,POVALL_2023,28046.0,poverty
+6039,CA,Madera County,CI90LBALL_2023,23870.0,poverty
+6039,CA,Madera County,CI90UBALL_2023,32222.0,poverty
 6039,CA,Madera County,PCTPOVALL_2023,18.0,poverty
+6039,CA,Madera County,CI90LBALLP_2023,15.3,poverty
+6039,CA,Madera County,CI90UBALLP_2023,20.7,poverty
+6039,CA,Madera County,POV017_2023,10423.0,poverty
+6039,CA,Madera County,CI90LB017_2023,8522.0,poverty
+6039,CA,Madera County,CI90UB017_2023,12324.0,poverty
+6039,CA,Madera County,PCTPOV017_2023,24.2,poverty
+6039,CA,Madera County,CI90LB017P_2023,19.8,poverty
+6039,CA,Madera County,CI90UB017P_2023,28.6,poverty
+6039,CA,Madera County,POV517_2023,7650.0,poverty
+6039,CA,Madera County,CI90LB517_2023,6203.0,poverty
+6039,CA,Madera County,CI90UB517_2023,9097.0,poverty
+6039,CA,Madera County,PCTPOV517_2023,23.6,poverty
+6039,CA,Madera County,CI90LB517P_2023,19.1,poverty
+6039,CA,Madera County,CI90UB517P_2023,28.1,poverty
 6039,CA,Madera County,MEDHHINC_2023,66084.0,poverty
+6039,CA,Madera County,CI90LBINC_2023,61331.0,poverty
+6039,CA,Madera County,CI90UBINC_2023,70837.0,poverty
 6041,CA,Marin County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6041,CA,Marin County,POVALL_2023,21535.0,poverty
+6041,CA,Marin County,CI90LBALL_2023,18388.0,poverty
+6041,CA,Marin County,CI90UBALL_2023,24682.0,poverty
 6041,CA,Marin County,PCTPOVALL_2023,8.7,poverty
+6041,CA,Marin County,CI90LBALLP_2023,7.4,poverty
+6041,CA,Marin County,CI90UBALLP_2023,10.0,poverty
+6041,CA,Marin County,POV017_2023,3840.0,poverty
+6041,CA,Marin County,CI90LB017_2023,2909.0,poverty
+6041,CA,Marin County,CI90UB017_2023,4771.0,poverty
+6041,CA,Marin County,PCTPOV017_2023,8.1,poverty
+6041,CA,Marin County,CI90LB017P_2023,6.1,poverty
+6041,CA,Marin County,CI90UB017P_2023,10.1,poverty
+6041,CA,Marin County,POV517_2023,2868.0,poverty
+6041,CA,Marin County,CI90LB517_2023,2166.0,poverty
+6041,CA,Marin County,CI90UB517_2023,3570.0,poverty
+6041,CA,Marin County,PCTPOV517_2023,7.8,poverty
+6041,CA,Marin County,CI90LB517P_2023,5.9,poverty
+6041,CA,Marin County,CI90UB517P_2023,9.7,poverty
 6041,CA,Marin County,MEDHHINC_2023,139197.0,poverty
+6041,CA,Marin County,CI90LBINC_2023,132371.0,poverty
+6041,CA,Marin County,CI90UBINC_2023,146023.0,poverty
 6043,CA,Mariposa County,Rural_Urban_Continuum_Code_2023,8.0,poverty
 6043,CA,Mariposa County,POVALL_2023,2899.0,poverty
+6043,CA,Mariposa County,CI90LBALL_2023,2371.0,poverty
+6043,CA,Mariposa County,CI90UBALL_2023,3427.0,poverty
 6043,CA,Mariposa County,PCTPOVALL_2023,17.3,poverty
+6043,CA,Mariposa County,CI90LBALLP_2023,14.2,poverty
+6043,CA,Mariposa County,CI90UBALLP_2023,20.4,poverty
+6043,CA,Mariposa County,POV017_2023,654.0,poverty
+6043,CA,Mariposa County,CI90LB017_2023,477.0,poverty
+6043,CA,Mariposa County,CI90UB017_2023,831.0,poverty
+6043,CA,Mariposa County,PCTPOV017_2023,21.9,poverty
+6043,CA,Mariposa County,CI90LB017P_2023,16.0,poverty
+6043,CA,Mariposa County,CI90UB017P_2023,27.8,poverty
+6043,CA,Mariposa County,POV517_2023,491.0,poverty
+6043,CA,Mariposa County,CI90LB517_2023,355.0,poverty
+6043,CA,Mariposa County,CI90UB517_2023,627.0,poverty
+6043,CA,Mariposa County,PCTPOV517_2023,22.2,poverty
+6043,CA,Mariposa County,CI90LB517P_2023,16.1,poverty
+6043,CA,Mariposa County,CI90UB517P_2023,28.3,poverty
 6043,CA,Mariposa County,MEDHHINC_2023,64352.0,poverty
+6043,CA,Mariposa County,CI90LBINC_2023,55914.0,poverty
+6043,CA,Mariposa County,CI90UBINC_2023,72790.0,poverty
 6045,CA,Mendocino County,Rural_Urban_Continuum_Code_2023,4.0,poverty
 6045,CA,Mendocino County,POVALL_2023,12295.0,poverty
+6045,CA,Mendocino County,CI90LBALL_2023,9918.0,poverty
+6045,CA,Mendocino County,CI90UBALL_2023,14672.0,poverty
 6045,CA,Mendocino County,PCTPOVALL_2023,13.9,poverty
+6045,CA,Mendocino County,CI90LBALLP_2023,11.2,poverty
+6045,CA,Mendocino County,CI90UBALLP_2023,16.6,poverty
+6045,CA,Mendocino County,POV017_2023,3420.0,poverty
+6045,CA,Mendocino County,CI90LB017_2023,2360.0,poverty
+6045,CA,Mendocino County,CI90UB017_2023,4480.0,poverty
+6045,CA,Mendocino County,PCTPOV017_2023,18.8,poverty
+6045,CA,Mendocino County,CI90LB017P_2023,13.0,poverty
+6045,CA,Mendocino County,CI90UB017P_2023,24.6,poverty
+6045,CA,Mendocino County,POV517_2023,2533.0,poverty
+6045,CA,Mendocino County,CI90LB517_2023,1685.0,poverty
+6045,CA,Mendocino County,CI90UB517_2023,3381.0,poverty
+6045,CA,Mendocino County,PCTPOV517_2023,18.7,poverty
+6045,CA,Mendocino County,CI90LB517P_2023,12.4,poverty
+6045,CA,Mendocino County,CI90UB517P_2023,25.0,poverty
 6045,CA,Mendocino County,MEDHHINC_2023,65891.0,poverty
+6045,CA,Mendocino County,CI90LBINC_2023,60908.0,poverty
+6045,CA,Mendocino County,CI90UBINC_2023,70874.0,poverty
 6047,CA,Merced County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6047,CA,Merced County,POVALL_2023,53192.0,poverty
+6047,CA,Merced County,CI90LBALL_2023,47372.0,poverty
+6047,CA,Merced County,CI90UBALL_2023,59012.0,poverty
 6047,CA,Merced County,PCTPOVALL_2023,18.6,poverty
+6047,CA,Merced County,CI90LBALLP_2023,16.6,poverty
+6047,CA,Merced County,CI90UBALLP_2023,20.6,poverty
+6047,CA,Merced County,POV017_2023,18537.0,poverty
+6047,CA,Merced County,CI90LB017_2023,15435.0,poverty
+6047,CA,Merced County,CI90UB017_2023,21639.0,poverty
+6047,CA,Merced County,PCTPOV017_2023,22.7,poverty
+6047,CA,Merced County,CI90LB017P_2023,18.9,poverty
+6047,CA,Merced County,CI90UB017P_2023,26.5,poverty
+6047,CA,Merced County,POV517_2023,14133.0,poverty
+6047,CA,Merced County,CI90LB517_2023,11698.0,poverty
+6047,CA,Merced County,CI90UB517_2023,16568.0,poverty
+6047,CA,Merced County,PCTPOV517_2023,22.8,poverty
+6047,CA,Merced County,CI90LB517P_2023,18.9,poverty
+6047,CA,Merced County,CI90UB517P_2023,26.7,poverty
 6047,CA,Merced County,MEDHHINC_2023,58962.0,poverty
+6047,CA,Merced County,CI90LBINC_2023,55072.0,poverty
+6047,CA,Merced County,CI90UBINC_2023,62852.0,poverty
 6049,CA,Modoc County,Rural_Urban_Continuum_Code_2023,8.0,poverty
 6049,CA,Modoc County,POVALL_2023,1690.0,poverty
+6049,CA,Modoc County,CI90LBALL_2023,1325.0,poverty
+6049,CA,Modoc County,CI90UBALL_2023,2055.0,poverty
 6049,CA,Modoc County,PCTPOVALL_2023,20.1,poverty
+6049,CA,Modoc County,CI90LBALLP_2023,15.8,poverty
+6049,CA,Modoc County,CI90UBALLP_2023,24.4,poverty
+6049,CA,Modoc County,POV017_2023,440.0,poverty
+6049,CA,Modoc County,CI90LB017_2023,311.0,poverty
+6049,CA,Modoc County,CI90UB017_2023,569.0,poverty
+6049,CA,Modoc County,PCTPOV017_2023,28.2,poverty
+6049,CA,Modoc County,CI90LB017P_2023,19.9,poverty
+6049,CA,Modoc County,CI90UB017P_2023,36.5,poverty
+6049,CA,Modoc County,POV517_2023,321.0,poverty
+6049,CA,Modoc County,CI90LB517_2023,220.0,poverty
+6049,CA,Modoc County,CI90UB517_2023,422.0,poverty
+6049,CA,Modoc County,PCTPOV517_2023,26.7,poverty
+6049,CA,Modoc County,CI90LB517P_2023,18.3,poverty
+6049,CA,Modoc County,CI90UB517P_2023,35.1,poverty
 6049,CA,Modoc County,MEDHHINC_2023,51996.0,poverty
+6049,CA,Modoc County,CI90LBINC_2023,45471.0,poverty
+6049,CA,Modoc County,CI90UBINC_2023,58521.0,poverty
 6051,CA,Mono County,Rural_Urban_Continuum_Code_2023,7.0,poverty
 6051,CA,Mono County,POVALL_2023,1013.0,poverty
+6051,CA,Mono County,CI90LBALL_2023,744.0,poverty
+6051,CA,Mono County,CI90UBALL_2023,1282.0,poverty
 6051,CA,Mono County,PCTPOVALL_2023,7.8,poverty
+6051,CA,Mono County,CI90LBALLP_2023,5.7,poverty
+6051,CA,Mono County,CI90UBALLP_2023,9.9,poverty
+6051,CA,Mono County,POV017_2023,240.0,poverty
+6051,CA,Mono County,CI90LB017_2023,166.0,poverty
+6051,CA,Mono County,CI90UB017_2023,314.0,poverty
+6051,CA,Mono County,PCTPOV017_2023,10.7,poverty
+6051,CA,Mono County,CI90LB017P_2023,7.4,poverty
+6051,CA,Mono County,CI90UB017P_2023,14.0,poverty
+6051,CA,Mono County,POV517_2023,174.0,poverty
+6051,CA,Mono County,CI90LB517_2023,117.0,poverty
+6051,CA,Mono County,CI90UB517_2023,231.0,poverty
+6051,CA,Mono County,PCTPOV517_2023,10.5,poverty
+6051,CA,Mono County,CI90LB517P_2023,7.0,poverty
+6051,CA,Mono County,CI90UB517P_2023,14.0,poverty
 6051,CA,Mono County,MEDHHINC_2023,82973.0,poverty
+6051,CA,Mono County,CI90LBINC_2023,72523.0,poverty
+6051,CA,Mono County,CI90UBINC_2023,93423.0,poverty
 6053,CA,Monterey County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6053,CA,Monterey County,POVALL_2023,58136.0,poverty
+6053,CA,Monterey County,CI90LBALL_2023,52310.0,poverty
+6053,CA,Monterey County,CI90UBALL_2023,63962.0,poverty
 6053,CA,Monterey County,PCTPOVALL_2023,14.0,poverty
+6053,CA,Monterey County,CI90LBALLP_2023,12.6,poverty
+6053,CA,Monterey County,CI90UBALLP_2023,15.4,poverty
+6053,CA,Monterey County,POV017_2023,21963.0,poverty
+6053,CA,Monterey County,CI90LB017_2023,19087.0,poverty
+6053,CA,Monterey County,CI90UB017_2023,24839.0,poverty
+6053,CA,Monterey County,PCTPOV017_2023,20.4,poverty
+6053,CA,Monterey County,CI90LB017P_2023,17.7,poverty
+6053,CA,Monterey County,CI90UB017P_2023,23.1,poverty
+6053,CA,Monterey County,POV517_2023,15672.0,poverty
+6053,CA,Monterey County,CI90LB517_2023,13508.0,poverty
+6053,CA,Monterey County,CI90UB517_2023,17836.0,poverty
+6053,CA,Monterey County,PCTPOV517_2023,19.6,poverty
+6053,CA,Monterey County,CI90LB517P_2023,16.9,poverty
+6053,CA,Monterey County,CI90UB517P_2023,22.3,poverty
 6053,CA,Monterey County,MEDHHINC_2023,86809.0,poverty
+6053,CA,Monterey County,CI90LBINC_2023,83139.0,poverty
+6053,CA,Monterey County,CI90UBINC_2023,90479.0,poverty
 6055,CA,Napa County,Rural_Urban_Continuum_Code_2023,3.0,poverty
 6055,CA,Napa County,POVALL_2023,11581.0,poverty
+6055,CA,Napa County,CI90LBALL_2023,9547.0,poverty
+6055,CA,Napa County,CI90UBALL_2023,13615.0,poverty
 6055,CA,Napa County,PCTPOVALL_2023,8.9,poverty
+6055,CA,Napa County,CI90LBALLP_2023,7.3,poverty
+6055,CA,Napa County,CI90UBALLP_2023,10.5,poverty
+6055,CA,Napa County,POV017_2023,2325.0,poverty
+6055,CA,Napa County,CI90LB017_2023,1671.0,poverty
+6055,CA,Napa County,CI90UB017_2023,2979.0,poverty
+6055,CA,Napa County,PCTPOV017_2023,9.3,poverty
+6055,CA,Napa County,CI90LB017P_2023,6.7,poverty
+6055,CA,Napa County,CI90UB017P_2023,11.9,poverty
+6055,CA,Napa County,POV517_2023,1557.0,poverty
+6055,CA,Napa County,CI90LB517_2023,1055.0,poverty
+6055,CA,Napa County,CI90UB517_2023,2059.0,poverty
+6055,CA,Napa County,PCTPOV517_2023,8.2,poverty
+6055,CA,Napa County,CI90LB517P_2023,5.6,poverty
+6055,CA,Napa County,CI90UB517P_2023,10.8,poverty
 6055,CA,Napa County,MEDHHINC_2023,100469.0,poverty
+6055,CA,Napa County,CI90LBINC_2023,92506.0,poverty
+6055,CA,Napa County,CI90UBINC_2023,108432.0,poverty
 6057,CA,Nevada County,Rural_Urban_Continuum_Code_2023,4.0,poverty
 6057,CA,Nevada County,POVALL_2023,10990.0,poverty
+6057,CA,Nevada County,CI90LBALL_2023,9288.0,poverty
+6057,CA,Nevada County,CI90UBALL_2023,12692.0,poverty
 6057,CA,Nevada County,PCTPOVALL_2023,10.9,poverty
+6057,CA,Nevada County,CI90LBALLP_2023,9.2,poverty
+6057,CA,Nevada County,CI90UBALLP_2023,12.6,poverty
+6057,CA,Nevada County,POV017_2023,2154.0,poverty
+6057,CA,Nevada County,CI90LB017_2023,1550.0,poverty
+6057,CA,Nevada County,CI90UB017_2023,2758.0,poverty
+6057,CA,Nevada County,PCTPOV017_2023,12.8,poverty
+6057,CA,Nevada County,CI90LB017P_2023,9.2,poverty
+6057,CA,Nevada County,CI90UB017P_2023,16.4,poverty
+6057,CA,Nevada County,POV517_2023,1587.0,poverty
+6057,CA,Nevada County,CI90LB517_2023,1112.0,poverty
+6057,CA,Nevada County,CI90UB517_2023,2062.0,poverty
+6057,CA,Nevada County,PCTPOV517_2023,12.5,poverty
+6057,CA,Nevada County,CI90LB517P_2023,8.8,poverty
+6057,CA,Nevada County,CI90UB517P_2023,16.2,poverty
 6057,CA,Nevada County,MEDHHINC_2023,87142.0,poverty
+6057,CA,Nevada County,CI90LBINC_2023,82265.0,poverty
+6057,CA,Nevada County,CI90UBINC_2023,92019.0,poverty
 6059,CA,Orange County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6059,CA,Orange County,POVALL_2023,284696.0,poverty
+6059,CA,Orange County,CI90LBALL_2023,261283.0,poverty
+6059,CA,Orange County,CI90UBALL_2023,308109.0,poverty
 6059,CA,Orange County,PCTPOVALL_2023,9.2,poverty
+6059,CA,Orange County,CI90LBALLP_2023,8.4,poverty
+6059,CA,Orange County,CI90UBALLP_2023,10.0,poverty
+6059,CA,Orange County,POV017_2023,69728.0,poverty
+6059,CA,Orange County,CI90LB017_2023,59969.0,poverty
+6059,CA,Orange County,CI90UB017_2023,79487.0,poverty
+6059,CA,Orange County,PCTPOV017_2023,11.0,poverty
+6059,CA,Orange County,CI90LB017P_2023,9.5,poverty
+6059,CA,Orange County,CI90UB017P_2023,12.5,poverty
+6059,CA,Orange County,POV517_2023,51064.0,poverty
+6059,CA,Orange County,CI90LB517_2023,43854.0,poverty
+6059,CA,Orange County,CI90UB517_2023,58274.0,poverty
+6059,CA,Orange County,PCTPOV517_2023,10.7,poverty
+6059,CA,Orange County,CI90LB517P_2023,9.2,poverty
+6059,CA,Orange County,CI90UB517P_2023,12.2,poverty
 6059,CA,Orange County,MEDHHINC_2023,109768.0,poverty
+6059,CA,Orange County,CI90LBINC_2023,108016.0,poverty
+6059,CA,Orange County,CI90UBINC_2023,111520.0,poverty
 6061,CA,Placer County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6061,CA,Placer County,POVALL_2023,27088.0,poverty
+6061,CA,Placer County,CI90LBALL_2023,23397.0,poverty
+6061,CA,Placer County,CI90UBALL_2023,30779.0,poverty
 6061,CA,Placer County,PCTPOVALL_2023,6.5,poverty
+6061,CA,Placer County,CI90LBALLP_2023,5.6,poverty
+6061,CA,Placer County,CI90UBALLP_2023,7.4,poverty
+6061,CA,Placer County,POV017_2023,5464.0,poverty
+6061,CA,Placer County,CI90LB017_2023,3993.0,poverty
+6061,CA,Placer County,CI90UB017_2023,6935.0,poverty
+6061,CA,Placer County,PCTPOV017_2023,6.1,poverty
+6061,CA,Placer County,CI90LB017P_2023,4.5,poverty
+6061,CA,Placer County,CI90UB017P_2023,7.7,poverty
+6061,CA,Placer County,POV517_2023,3725.0,poverty
+6061,CA,Placer County,CI90LB517_2023,2568.0,poverty
+6061,CA,Placer County,CI90UB517_2023,4882.0,poverty
+6061,CA,Placer County,PCTPOV517_2023,5.4,poverty
+6061,CA,Placer County,CI90LB517P_2023,3.7,poverty
+6061,CA,Placer County,CI90UB517P_2023,7.1,poverty
 6061,CA,Placer County,MEDHHINC_2023,110020.0,poverty
+6061,CA,Placer County,CI90LBINC_2023,105620.0,poverty
+6061,CA,Placer County,CI90UBINC_2023,114420.0,poverty
 6063,CA,Plumas County,Rural_Urban_Continuum_Code_2023,9.0,poverty
 6063,CA,Plumas County,POVALL_2023,2418.0,poverty
+6063,CA,Plumas County,CI90LBALL_2023,1839.0,poverty
+6063,CA,Plumas County,CI90UBALL_2023,2997.0,poverty
 6063,CA,Plumas County,PCTPOVALL_2023,12.7,poverty
+6063,CA,Plumas County,CI90LBALLP_2023,9.7,poverty
+6063,CA,Plumas County,CI90UBALLP_2023,15.7,poverty
+6063,CA,Plumas County,POV017_2023,575.0,poverty
+6063,CA,Plumas County,CI90LB017_2023,394.0,poverty
+6063,CA,Plumas County,CI90UB017_2023,756.0,poverty
+6063,CA,Plumas County,PCTPOV017_2023,18.2,poverty
+6063,CA,Plumas County,CI90LB017P_2023,12.5,poverty
+6063,CA,Plumas County,CI90UB017P_2023,23.9,poverty
+6063,CA,Plumas County,POV517_2023,407.0,poverty
+6063,CA,Plumas County,CI90LB517_2023,270.0,poverty
+6063,CA,Plumas County,CI90UB517_2023,544.0,poverty
+6063,CA,Plumas County,PCTPOV517_2023,17.0,poverty
+6063,CA,Plumas County,CI90LB517P_2023,11.3,poverty
+6063,CA,Plumas County,CI90UB517P_2023,22.7,poverty
 6063,CA,Plumas County,MEDHHINC_2023,64121.0,poverty
+6063,CA,Plumas County,CI90LBINC_2023,57185.0,poverty
+6063,CA,Plumas County,CI90UBINC_2023,71057.0,poverty
 6065,CA,Riverside County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6065,CA,Riverside County,POVALL_2023,278442.0,poverty
+6065,CA,Riverside County,CI90LBALL_2023,257914.0,poverty
+6065,CA,Riverside County,CI90UBALL_2023,298970.0,poverty
 6065,CA,Riverside County,PCTPOVALL_2023,11.3,poverty
+6065,CA,Riverside County,CI90LBALLP_2023,10.5,poverty
+6065,CA,Riverside County,CI90UBALLP_2023,12.1,poverty
+6065,CA,Riverside County,POV017_2023,82278.0,poverty
+6065,CA,Riverside County,CI90LB017_2023,73787.0,poverty
+6065,CA,Riverside County,CI90UB017_2023,90769.0,poverty
+6065,CA,Riverside County,PCTPOV017_2023,14.1,poverty
+6065,CA,Riverside County,CI90LB017P_2023,12.6,poverty
+6065,CA,Riverside County,CI90UB017P_2023,15.6,poverty
+6065,CA,Riverside County,POV517_2023,57766.0,poverty
+6065,CA,Riverside County,CI90LB517_2023,50663.0,poverty
+6065,CA,Riverside County,CI90UB517_2023,64869.0,poverty
+6065,CA,Riverside County,PCTPOV517_2023,13.1,poverty
+6065,CA,Riverside County,CI90LB517P_2023,11.5,poverty
+6065,CA,Riverside County,CI90UB517P_2023,14.7,poverty
 6065,CA,Riverside County,MEDHHINC_2023,90251.0,poverty
+6065,CA,Riverside County,CI90LBINC_2023,88878.0,poverty
+6065,CA,Riverside County,CI90UBINC_2023,91624.0,poverty
 6067,CA,Sacramento County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6067,CA,Sacramento County,POVALL_2023,185867.0,poverty
+6067,CA,Sacramento County,CI90LBALL_2023,171128.0,poverty
+6067,CA,Sacramento County,CI90UBALL_2023,200606.0,poverty
 6067,CA,Sacramento County,PCTPOVALL_2023,11.9,poverty
+6067,CA,Sacramento County,CI90LBALLP_2023,11.0,poverty
+6067,CA,Sacramento County,CI90UBALLP_2023,12.8,poverty
+6067,CA,Sacramento County,POV017_2023,48449.0,poverty
+6067,CA,Sacramento County,CI90LB017_2023,41111.0,poverty
+6067,CA,Sacramento County,CI90UB017_2023,55787.0,poverty
+6067,CA,Sacramento County,PCTPOV017_2023,13.7,poverty
+6067,CA,Sacramento County,CI90LB017P_2023,11.6,poverty
+6067,CA,Sacramento County,CI90UB017P_2023,15.8,poverty
+6067,CA,Sacramento County,POV517_2023,36066.0,poverty
+6067,CA,Sacramento County,CI90LB517_2023,30125.0,poverty
+6067,CA,Sacramento County,CI90UB517_2023,42007.0,poverty
+6067,CA,Sacramento County,PCTPOV517_2023,13.8,poverty
+6067,CA,Sacramento County,CI90LB517P_2023,11.5,poverty
+6067,CA,Sacramento County,CI90UB517P_2023,16.1,poverty
 6067,CA,Sacramento County,MEDHHINC_2023,89984.0,poverty
+6067,CA,Sacramento County,CI90LBINC_2023,88375.0,poverty
+6067,CA,Sacramento County,CI90UBINC_2023,91593.0,poverty
 6069,CA,San Benito County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6069,CA,San Benito County,POVALL_2023,6204.0,poverty
+6069,CA,San Benito County,CI90LBALL_2023,4900.0,poverty
+6069,CA,San Benito County,CI90UBALL_2023,7508.0,poverty
 6069,CA,San Benito County,PCTPOVALL_2023,9.1,poverty
+6069,CA,San Benito County,CI90LBALLP_2023,7.2,poverty
+6069,CA,San Benito County,CI90UBALLP_2023,11.0,poverty
+6069,CA,San Benito County,POV017_2023,1816.0,poverty
+6069,CA,San Benito County,CI90LB017_2023,1316.0,poverty
+6069,CA,San Benito County,CI90UB017_2023,2316.0,poverty
+6069,CA,San Benito County,PCTPOV017_2023,10.8,poverty
+6069,CA,San Benito County,CI90LB017P_2023,7.8,poverty
+6069,CA,San Benito County,CI90UB017P_2023,13.8,poverty
+6069,CA,San Benito County,POV517_2023,1302.0,poverty
+6069,CA,San Benito County,CI90LB517_2023,912.0,poverty
+6069,CA,San Benito County,CI90UB517_2023,1692.0,poverty
+6069,CA,San Benito County,PCTPOV517_2023,10.4,poverty
+6069,CA,San Benito County,CI90LB517P_2023,7.3,poverty
+6069,CA,San Benito County,CI90UB517P_2023,13.5,poverty
 6069,CA,San Benito County,MEDHHINC_2023,105112.0,poverty
+6069,CA,San Benito County,CI90LBINC_2023,98796.0,poverty
+6069,CA,San Benito County,CI90UBINC_2023,111428.0,poverty
 6071,CA,San Bernardino County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6071,CA,San Bernardino County,POVALL_2023,284772.0,poverty
+6071,CA,San Bernardino County,CI90LBALL_2023,264520.0,poverty
+6071,CA,San Bernardino County,CI90UBALL_2023,305024.0,poverty
 6071,CA,San Bernardino County,PCTPOVALL_2023,13.2,poverty
+6071,CA,San Bernardino County,CI90LBALLP_2023,12.3,poverty
+6071,CA,San Bernardino County,CI90UBALLP_2023,14.1,poverty
+6071,CA,San Bernardino County,POV017_2023,94927.0,poverty
+6071,CA,San Bernardino County,CI90LB017_2023,85276.0,poverty
+6071,CA,San Bernardino County,CI90UB017_2023,104578.0,poverty
+6071,CA,San Bernardino County,PCTPOV017_2023,17.4,poverty
+6071,CA,San Bernardino County,CI90LB017P_2023,15.6,poverty
+6071,CA,San Bernardino County,CI90UB017P_2023,19.2,poverty
+6071,CA,San Bernardino County,POV517_2023,72506.0,poverty
+6071,CA,San Bernardino County,CI90LB517_2023,64836.0,poverty
+6071,CA,San Bernardino County,CI90UB517_2023,80176.0,poverty
+6071,CA,San Bernardino County,PCTPOV517_2023,17.7,poverty
+6071,CA,San Bernardino County,CI90LB517P_2023,15.8,poverty
+6071,CA,San Bernardino County,CI90UB517P_2023,19.6,poverty
 6071,CA,San Bernardino County,MEDHHINC_2023,84576.0,poverty
+6071,CA,San Bernardino County,CI90LBINC_2023,82853.0,poverty
+6071,CA,San Bernardino County,CI90UBINC_2023,86299.0,poverty
 6073,CA,San Diego County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6073,CA,San Diego County,POVALL_2023,319714.0,poverty
+6073,CA,San Diego County,CI90LBALL_2023,299720.0,poverty
+6073,CA,San Diego County,CI90UBALL_2023,339708.0,poverty
 6073,CA,San Diego County,PCTPOVALL_2023,10.1,poverty
+6073,CA,San Diego County,CI90LBALLP_2023,9.5,poverty
+6073,CA,San Diego County,CI90UBALLP_2023,10.7,poverty
+6073,CA,San Diego County,POV017_2023,77080.0,poverty
+6073,CA,San Diego County,CI90LB017_2023,67101.0,poverty
+6073,CA,San Diego County,CI90UB017_2023,87059.0,poverty
+6073,CA,San Diego County,PCTPOV017_2023,11.6,poverty
+6073,CA,San Diego County,CI90LB017P_2023,10.1,poverty
+6073,CA,San Diego County,CI90UB017P_2023,13.1,poverty
+6073,CA,San Diego County,POV517_2023,55763.0,poverty
+6073,CA,San Diego County,CI90LB517_2023,47792.0,poverty
+6073,CA,San Diego County,CI90UB517_2023,63734.0,poverty
+6073,CA,San Diego County,PCTPOV517_2023,11.4,poverty
+6073,CA,San Diego County,CI90LB517P_2023,9.8,poverty
+6073,CA,San Diego County,CI90UB517P_2023,13.0,poverty
 6073,CA,San Diego County,MEDHHINC_2023,103476.0,poverty
+6073,CA,San Diego County,CI90LBINC_2023,102355.0,poverty
+6073,CA,San Diego County,CI90UBINC_2023,104597.0,poverty
 6075,CA,San Francisco County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6075,CA,San Francisco County,POVALL_2023,95298.0,poverty
+6075,CA,San Francisco County,CI90LBALL_2023,88859.0,poverty
+6075,CA,San Francisco County,CI90UBALL_2023,101737.0,poverty
 6075,CA,San Francisco County,PCTPOVALL_2023,11.9,poverty
+6075,CA,San Francisco County,CI90LBALLP_2023,11.1,poverty
+6075,CA,San Francisco County,CI90UBALLP_2023,12.7,poverty
+6075,CA,San Francisco County,POV017_2023,11654.0,poverty
+6075,CA,San Francisco County,CI90LB017_2023,8793.0,poverty
+6075,CA,San Francisco County,CI90UB017_2023,14515.0,poverty
+6075,CA,San Francisco County,PCTPOV017_2023,10.8,poverty
+6075,CA,San Francisco County,CI90LB017P_2023,8.2,poverty
+6075,CA,San Francisco County,CI90UB017P_2023,13.4,poverty
+6075,CA,San Francisco County,POV517_2023,8236.0,poverty
+6075,CA,San Francisco County,CI90LB517_2023,5988.0,poverty
+6075,CA,San Francisco County,CI90UB517_2023,10484.0,poverty
+6075,CA,San Francisco County,PCTPOV517_2023,10.9,poverty
+6075,CA,San Francisco County,CI90LB517P_2023,7.9,poverty
+6075,CA,San Francisco County,CI90UB517P_2023,13.9,poverty
 6075,CA,San Francisco County,MEDHHINC_2023,125456.0,poverty
+6075,CA,San Francisco County,CI90LBINC_2023,120601.0,poverty
+6075,CA,San Francisco County,CI90UBINC_2023,130311.0,poverty
 6077,CA,San Joaquin County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6077,CA,San Joaquin County,POVALL_2023,99266.0,poverty
+6077,CA,San Joaquin County,CI90LBALL_2023,87984.0,poverty
+6077,CA,San Joaquin County,CI90UBALL_2023,110548.0,poverty
 6077,CA,San Joaquin County,PCTPOVALL_2023,12.6,poverty
+6077,CA,San Joaquin County,CI90LBALLP_2023,11.2,poverty
+6077,CA,San Joaquin County,CI90UBALLP_2023,14.0,poverty
+6077,CA,San Joaquin County,POV017_2023,33153.0,poverty
+6077,CA,San Joaquin County,CI90LB017_2023,28209.0,poverty
+6077,CA,San Joaquin County,CI90UB017_2023,38097.0,poverty
+6077,CA,San Joaquin County,PCTPOV017_2023,16.2,poverty
+6077,CA,San Joaquin County,CI90LB017P_2023,13.8,poverty
+6077,CA,San Joaquin County,CI90UB017P_2023,18.6,poverty
+6077,CA,San Joaquin County,POV517_2023,23855.0,poverty
+6077,CA,San Joaquin County,CI90LB517_2023,19904.0,poverty
+6077,CA,San Joaquin County,CI90UB517_2023,27806.0,poverty
+6077,CA,San Joaquin County,PCTPOV517_2023,15.5,poverty
+6077,CA,San Joaquin County,CI90LB517P_2023,12.9,poverty
+6077,CA,San Joaquin County,CI90UB517P_2023,18.1,poverty
 6077,CA,San Joaquin County,MEDHHINC_2023,86211.0,poverty
+6077,CA,San Joaquin County,CI90LBINC_2023,83151.0,poverty
+6077,CA,San Joaquin County,CI90UBINC_2023,89271.0,poverty
 6079,CA,San Luis Obispo County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6079,CA,San Luis Obispo County,POVALL_2023,34227.0,poverty
+6079,CA,San Luis Obispo County,CI90LBALL_2023,30191.0,poverty
+6079,CA,San Luis Obispo County,CI90UBALL_2023,38263.0,poverty
 6079,CA,San Luis Obispo County,PCTPOVALL_2023,12.8,poverty
+6079,CA,San Luis Obispo County,CI90LBALLP_2023,11.3,poverty
+6079,CA,San Luis Obispo County,CI90UBALLP_2023,14.3,poverty
+6079,CA,San Luis Obispo County,POV017_2023,5643.0,poverty
+6079,CA,San Luis Obispo County,CI90LB017_2023,4319.0,poverty
+6079,CA,San Luis Obispo County,CI90UB017_2023,6967.0,poverty
+6079,CA,San Luis Obispo County,PCTPOV017_2023,11.8,poverty
+6079,CA,San Luis Obispo County,CI90LB017P_2023,9.0,poverty
+6079,CA,San Luis Obispo County,CI90UB017P_2023,14.6,poverty
+6079,CA,San Luis Obispo County,POV517_2023,4000.0,poverty
+6079,CA,San Luis Obispo County,CI90LB517_2023,3021.0,poverty
+6079,CA,San Luis Obispo County,CI90UB517_2023,4979.0,poverty
+6079,CA,San Luis Obispo County,PCTPOV517_2023,11.2,poverty
+6079,CA,San Luis Obispo County,CI90LB517P_2023,8.5,poverty
+6079,CA,San Luis Obispo County,CI90UB517P_2023,13.9,poverty
 6079,CA,San Luis Obispo County,MEDHHINC_2023,89809.0,poverty
+6079,CA,San Luis Obispo County,CI90LBINC_2023,85787.0,poverty
+6079,CA,San Luis Obispo County,CI90UBINC_2023,93831.0,poverty
 6081,CA,San Mateo County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6081,CA,San Mateo County,POVALL_2023,52747.0,poverty
+6081,CA,San Mateo County,CI90LBALL_2023,47763.0,poverty
+6081,CA,San Mateo County,CI90UBALL_2023,57731.0,poverty
 6081,CA,San Mateo County,PCTPOVALL_2023,7.3,poverty
+6081,CA,San Mateo County,CI90LBALLP_2023,6.6,poverty
+6081,CA,San Mateo County,CI90UBALLP_2023,8.0,poverty
+6081,CA,San Mateo County,POV017_2023,9726.0,poverty
+6081,CA,San Mateo County,CI90LB017_2023,7826.0,poverty
+6081,CA,San Mateo County,CI90UB017_2023,11626.0,poverty
+6081,CA,San Mateo County,PCTPOV017_2023,7.1,poverty
+6081,CA,San Mateo County,CI90LB017P_2023,5.7,poverty
+6081,CA,San Mateo County,CI90UB017P_2023,8.5,poverty
+6081,CA,San Mateo County,POV517_2023,7275.0,poverty
+6081,CA,San Mateo County,CI90LB517_2023,5764.0,poverty
+6081,CA,San Mateo County,CI90UB517_2023,8786.0,poverty
+6081,CA,San Mateo County,PCTPOV517_2023,7.2,poverty
+6081,CA,San Mateo County,CI90LB517P_2023,5.7,poverty
+6081,CA,San Mateo County,CI90UB517P_2023,8.7,poverty
 6081,CA,San Mateo County,MEDHHINC_2023,151004.0,poverty
+6081,CA,San Mateo County,CI90LBINC_2023,147822.0,poverty
+6081,CA,San Mateo County,CI90UBINC_2023,154186.0,poverty
 6083,CA,Santa Barbara County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6083,CA,Santa Barbara County,POVALL_2023,62891.0,poverty
+6083,CA,Santa Barbara County,CI90LBALL_2023,56668.0,poverty
+6083,CA,Santa Barbara County,CI90UBALL_2023,69114.0,poverty
 6083,CA,Santa Barbara County,PCTPOVALL_2023,14.9,poverty
+6083,CA,Santa Barbara County,CI90LBALLP_2023,13.4,poverty
+6083,CA,Santa Barbara County,CI90UBALLP_2023,16.4,poverty
+6083,CA,Santa Barbara County,POV017_2023,16281.0,poverty
+6083,CA,Santa Barbara County,CI90LB017_2023,13533.0,poverty
+6083,CA,Santa Barbara County,CI90UB017_2023,19029.0,poverty
+6083,CA,Santa Barbara County,PCTPOV017_2023,17.0,poverty
+6083,CA,Santa Barbara County,CI90LB017P_2023,14.1,poverty
+6083,CA,Santa Barbara County,CI90UB017P_2023,19.9,poverty
+6083,CA,Santa Barbara County,POV517_2023,12351.0,poverty
+6083,CA,Santa Barbara County,CI90LB517_2023,10262.0,poverty
+6083,CA,Santa Barbara County,CI90UB517_2023,14440.0,poverty
+6083,CA,Santa Barbara County,PCTPOV517_2023,17.7,poverty
+6083,CA,Santa Barbara County,CI90LB517P_2023,14.7,poverty
+6083,CA,Santa Barbara County,CI90UB517P_2023,20.7,poverty
 6083,CA,Santa Barbara County,MEDHHINC_2023,90155.0,poverty
+6083,CA,Santa Barbara County,CI90LBINC_2023,86590.0,poverty
+6083,CA,Santa Barbara County,CI90UBINC_2023,93720.0,poverty
 6085,CA,Santa Clara County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6085,CA,Santa Clara County,POVALL_2023,139084.0,poverty
+6085,CA,Santa Clara County,CI90LBALL_2023,125533.0,poverty
+6085,CA,Santa Clara County,CI90UBALL_2023,152635.0,poverty
 6085,CA,Santa Clara County,PCTPOVALL_2023,7.6,poverty
+6085,CA,Santa Clara County,CI90LBALLP_2023,6.9,poverty
+6085,CA,Santa Clara County,CI90UBALLP_2023,8.3,poverty
+6085,CA,Santa Clara County,POV017_2023,27203.0,poverty
+6085,CA,Santa Clara County,CI90LB017_2023,22494.0,poverty
+6085,CA,Santa Clara County,CI90UB017_2023,31912.0,poverty
+6085,CA,Santa Clara County,PCTPOV017_2023,7.4,poverty
+6085,CA,Santa Clara County,CI90LB017P_2023,6.1,poverty
+6085,CA,Santa Clara County,CI90UB017P_2023,8.7,poverty
+6085,CA,Santa Clara County,POV517_2023,19319.0,poverty
+6085,CA,Santa Clara County,CI90LB517_2023,15651.0,poverty
+6085,CA,Santa Clara County,CI90UB517_2023,22987.0,poverty
+6085,CA,Santa Clara County,PCTPOV517_2023,7.0,poverty
+6085,CA,Santa Clara County,CI90LB517P_2023,5.7,poverty
+6085,CA,Santa Clara County,CI90UB517P_2023,8.3,poverty
 6085,CA,Santa Clara County,MEDHHINC_2023,154573.0,poverty
+6085,CA,Santa Clara County,CI90LBINC_2023,151645.0,poverty
+6085,CA,Santa Clara County,CI90UBINC_2023,157501.0,poverty
 6087,CA,Santa Cruz County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6087,CA,Santa Cruz County,POVALL_2023,31840.0,poverty
+6087,CA,Santa Cruz County,CI90LBALL_2023,27748.0,poverty
+6087,CA,Santa Cruz County,CI90UBALL_2023,35932.0,poverty
 6087,CA,Santa Cruz County,PCTPOVALL_2023,12.6,poverty
+6087,CA,Santa Cruz County,CI90LBALLP_2023,11.0,poverty
+6087,CA,Santa Cruz County,CI90UBALLP_2023,14.2,poverty
+6087,CA,Santa Cruz County,POV017_2023,6466.0,poverty
+6087,CA,Santa Cruz County,CI90LB017_2023,5069.0,poverty
+6087,CA,Santa Cruz County,CI90UB017_2023,7863.0,poverty
+6087,CA,Santa Cruz County,PCTPOV017_2023,14.0,poverty
+6087,CA,Santa Cruz County,CI90LB017P_2023,11.0,poverty
+6087,CA,Santa Cruz County,CI90UB017P_2023,17.0,poverty
+6087,CA,Santa Cruz County,POV517_2023,5013.0,poverty
+6087,CA,Santa Cruz County,CI90LB517_2023,3971.0,poverty
+6087,CA,Santa Cruz County,CI90UB517_2023,6055.0,poverty
+6087,CA,Santa Cruz County,PCTPOV517_2023,14.3,poverty
+6087,CA,Santa Cruz County,CI90LB517P_2023,11.3,poverty
+6087,CA,Santa Cruz County,CI90UB517P_2023,17.3,poverty
 6087,CA,Santa Cruz County,MEDHHINC_2023,102723.0,poverty
+6087,CA,Santa Cruz County,CI90LBINC_2023,96853.0,poverty
+6087,CA,Santa Cruz County,CI90UBINC_2023,108593.0,poverty
 6089,CA,Shasta County,Rural_Urban_Continuum_Code_2023,3.0,poverty
 6089,CA,Shasta County,POVALL_2023,23527.0,poverty
+6089,CA,Shasta County,CI90LBALL_2023,19847.0,poverty
+6089,CA,Shasta County,CI90UBALL_2023,27207.0,poverty
 6089,CA,Shasta County,PCTPOVALL_2023,13.2,poverty
+6089,CA,Shasta County,CI90LBALLP_2023,11.1,poverty
+6089,CA,Shasta County,CI90UBALLP_2023,15.3,poverty
+6089,CA,Shasta County,POV017_2023,6049.0,poverty
+6089,CA,Shasta County,CI90LB017_2023,4415.0,poverty
+6089,CA,Shasta County,CI90UB017_2023,7683.0,poverty
+6089,CA,Shasta County,PCTPOV017_2023,16.0,poverty
+6089,CA,Shasta County,CI90LB017P_2023,11.7,poverty
+6089,CA,Shasta County,CI90UB017P_2023,20.3,poverty
+6089,CA,Shasta County,POV517_2023,4147.0,poverty
+6089,CA,Shasta County,CI90LB517_2023,2918.0,poverty
+6089,CA,Shasta County,CI90UB517_2023,5376.0,poverty
+6089,CA,Shasta County,PCTPOV517_2023,14.5,poverty
+6089,CA,Shasta County,CI90LB517P_2023,10.2,poverty
+6089,CA,Shasta County,CI90UB517P_2023,18.8,poverty
 6089,CA,Shasta County,MEDHHINC_2023,71935.0,poverty
+6089,CA,Shasta County,CI90LBINC_2023,67289.0,poverty
+6089,CA,Shasta County,CI90UBINC_2023,76581.0,poverty
 6091,CA,Sierra County,Rural_Urban_Continuum_Code_2023,8.0,poverty
 6091,CA,Sierra County,POVALL_2023,397.0,poverty
+6091,CA,Sierra County,CI90LBALL_2023,300.0,poverty
+6091,CA,Sierra County,CI90UBALL_2023,494.0,poverty
 6091,CA,Sierra County,PCTPOVALL_2023,12.6,poverty
+6091,CA,Sierra County,CI90LBALLP_2023,9.5,poverty
+6091,CA,Sierra County,CI90UBALLP_2023,15.7,poverty
+6091,CA,Sierra County,POV017_2023,77.0,poverty
+6091,CA,Sierra County,CI90LB017_2023,53.0,poverty
+6091,CA,Sierra County,CI90UB017_2023,101.0,poverty
+6091,CA,Sierra County,PCTPOV017_2023,14.8,poverty
+6091,CA,Sierra County,CI90LB017P_2023,10.2,poverty
+6091,CA,Sierra County,CI90UB017P_2023,19.4,poverty
+6091,CA,Sierra County,POV517_2023,55.0,poverty
+6091,CA,Sierra County,CI90LB517_2023,37.0,poverty
+6091,CA,Sierra County,CI90UB517_2023,73.0,poverty
+6091,CA,Sierra County,PCTPOV517_2023,13.9,poverty
+6091,CA,Sierra County,CI90LB517P_2023,9.3,poverty
+6091,CA,Sierra County,CI90UB517P_2023,18.5,poverty
 6091,CA,Sierra County,MEDHHINC_2023,67675.0,poverty
+6091,CA,Sierra County,CI90LBINC_2023,58751.0,poverty
+6091,CA,Sierra County,CI90UBINC_2023,76599.0,poverty
 6093,CA,Siskiyou County,Rural_Urban_Continuum_Code_2023,7.0,poverty
 6093,CA,Siskiyou County,POVALL_2023,7273.0,poverty
+6093,CA,Siskiyou County,CI90LBALL_2023,6093.0,poverty
+6093,CA,Siskiyou County,CI90UBALL_2023,8453.0,poverty
 6093,CA,Siskiyou County,PCTPOVALL_2023,17.1,poverty
+6093,CA,Siskiyou County,CI90LBALLP_2023,14.3,poverty
+6093,CA,Siskiyou County,CI90UBALLP_2023,19.9,poverty
+6093,CA,Siskiyou County,POV017_2023,1796.0,poverty
+6093,CA,Siskiyou County,CI90LB017_2023,1322.0,poverty
+6093,CA,Siskiyou County,CI90UB017_2023,2270.0,poverty
+6093,CA,Siskiyou County,PCTPOV017_2023,21.6,poverty
+6093,CA,Siskiyou County,CI90LB017P_2023,15.9,poverty
+6093,CA,Siskiyou County,CI90UB017P_2023,27.3,poverty
+6093,CA,Siskiyou County,POV517_2023,1286.0,poverty
+6093,CA,Siskiyou County,CI90LB517_2023,927.0,poverty
+6093,CA,Siskiyou County,CI90UB517_2023,1645.0,poverty
+6093,CA,Siskiyou County,PCTPOV517_2023,20.0,poverty
+6093,CA,Siskiyou County,CI90LB517P_2023,14.4,poverty
+6093,CA,Siskiyou County,CI90UB517P_2023,25.6,poverty
 6093,CA,Siskiyou County,MEDHHINC_2023,58975.0,poverty
+6093,CA,Siskiyou County,CI90LBINC_2023,53910.0,poverty
+6093,CA,Siskiyou County,CI90UBINC_2023,64040.0,poverty
 6095,CA,Solano County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6095,CA,Solano County,POVALL_2023,45402.0,poverty
+6095,CA,Solano County,CI90LBALL_2023,40249.0,poverty
+6095,CA,Solano County,CI90UBALL_2023,50555.0,poverty
 6095,CA,Solano County,PCTPOVALL_2023,10.3,poverty
+6095,CA,Solano County,CI90LBALLP_2023,9.1,poverty
+6095,CA,Solano County,CI90UBALLP_2023,11.5,poverty
+6095,CA,Solano County,POV017_2023,11313.0,poverty
+6095,CA,Solano County,CI90LB017_2023,8975.0,poverty
+6095,CA,Solano County,CI90UB017_2023,13651.0,poverty
+6095,CA,Solano County,PCTPOV017_2023,11.8,poverty
+6095,CA,Solano County,CI90LB017P_2023,9.4,poverty
+6095,CA,Solano County,CI90UB017P_2023,14.2,poverty
+6095,CA,Solano County,POV517_2023,7686.0,poverty
+6095,CA,Solano County,CI90LB517_2023,5797.0,poverty
+6095,CA,Solano County,CI90UB517_2023,9575.0,poverty
+6095,CA,Solano County,PCTPOV517_2023,10.8,poverty
+6095,CA,Solano County,CI90LB517P_2023,8.2,poverty
+6095,CA,Solano County,CI90UB517P_2023,13.4,poverty
 6095,CA,Solano County,MEDHHINC_2023,99117.0,poverty
+6095,CA,Solano County,CI90LBINC_2023,95455.0,poverty
+6095,CA,Solano County,CI90UBINC_2023,102779.0,poverty
 6097,CA,Sonoma County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6097,CA,Sonoma County,POVALL_2023,43143.0,poverty
+6097,CA,Sonoma County,CI90LBALL_2023,37393.0,poverty
+6097,CA,Sonoma County,CI90UBALL_2023,48893.0,poverty
 6097,CA,Sonoma County,PCTPOVALL_2023,9.1,poverty
+6097,CA,Sonoma County,CI90LBALLP_2023,7.9,poverty
+6097,CA,Sonoma County,CI90UBALLP_2023,10.3,poverty
+6097,CA,Sonoma County,POV017_2023,8454.0,poverty
+6097,CA,Sonoma County,CI90LB017_2023,6218.0,poverty
+6097,CA,Sonoma County,CI90UB017_2023,10690.0,poverty
+6097,CA,Sonoma County,PCTPOV017_2023,9.5,poverty
+6097,CA,Sonoma County,CI90LB017P_2023,7.0,poverty
+6097,CA,Sonoma County,CI90UB017P_2023,12.0,poverty
+6097,CA,Sonoma County,POV517_2023,5696.0,poverty
+6097,CA,Sonoma County,CI90LB517_2023,3993.0,poverty
+6097,CA,Sonoma County,CI90UB517_2023,7399.0,poverty
+6097,CA,Sonoma County,PCTPOV517_2023,8.6,poverty
+6097,CA,Sonoma County,CI90LB517P_2023,6.0,poverty
+6097,CA,Sonoma County,CI90UB517P_2023,11.2,poverty
 6097,CA,Sonoma County,MEDHHINC_2023,100157.0,poverty
+6097,CA,Sonoma County,CI90LBINC_2023,97064.0,poverty
+6097,CA,Sonoma County,CI90UBINC_2023,103250.0,poverty
 6099,CA,Stanislaus County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6099,CA,Stanislaus County,POVALL_2023,68761.0,poverty
+6099,CA,Stanislaus County,CI90LBALL_2023,60352.0,poverty
+6099,CA,Stanislaus County,CI90UBALL_2023,77170.0,poverty
 6099,CA,Stanislaus County,PCTPOVALL_2023,12.6,poverty
+6099,CA,Stanislaus County,CI90LBALLP_2023,11.1,poverty
+6099,CA,Stanislaus County,CI90UBALLP_2023,14.1,poverty
+6099,CA,Stanislaus County,POV017_2023,22898.0,poverty
+6099,CA,Stanislaus County,CI90LB017_2023,18828.0,poverty
+6099,CA,Stanislaus County,CI90UB017_2023,26968.0,poverty
+6099,CA,Stanislaus County,PCTPOV017_2023,15.9,poverty
+6099,CA,Stanislaus County,CI90LB017P_2023,13.1,poverty
+6099,CA,Stanislaus County,CI90UB017P_2023,18.7,poverty
+6099,CA,Stanislaus County,POV517_2023,15797.0,poverty
+6099,CA,Stanislaus County,CI90LB517_2023,12433.0,poverty
+6099,CA,Stanislaus County,CI90UB517_2023,19161.0,poverty
+6099,CA,Stanislaus County,PCTPOV517_2023,14.7,poverty
+6099,CA,Stanislaus County,CI90LB517P_2023,11.6,poverty
+6099,CA,Stanislaus County,CI90UB517P_2023,17.8,poverty
 6099,CA,Stanislaus County,MEDHHINC_2023,81582.0,poverty
+6099,CA,Stanislaus County,CI90LBINC_2023,78802.0,poverty
+6099,CA,Stanislaus County,CI90UBINC_2023,84362.0,poverty
 6101,CA,Sutter County,Rural_Urban_Continuum_Code_2023,3.0,poverty
 6101,CA,Sutter County,POVALL_2023,14849.0,poverty
+6101,CA,Sutter County,CI90LBALL_2023,12576.0,poverty
+6101,CA,Sutter County,CI90UBALL_2023,17122.0,poverty
 6101,CA,Sutter County,PCTPOVALL_2023,15.3,poverty
+6101,CA,Sutter County,CI90LBALLP_2023,13.0,poverty
+6101,CA,Sutter County,CI90UBALLP_2023,17.6,poverty
+6101,CA,Sutter County,POV017_2023,4589.0,poverty
+6101,CA,Sutter County,CI90LB017_2023,3550.0,poverty
+6101,CA,Sutter County,CI90UB017_2023,5628.0,poverty
+6101,CA,Sutter County,PCTPOV017_2023,19.2,poverty
+6101,CA,Sutter County,CI90LB017P_2023,14.9,poverty
+6101,CA,Sutter County,CI90UB017P_2023,23.5,poverty
+6101,CA,Sutter County,POV517_2023,3165.0,poverty
+6101,CA,Sutter County,CI90LB517_2023,2286.0,poverty
+6101,CA,Sutter County,CI90UB517_2023,4044.0,poverty
+6101,CA,Sutter County,PCTPOV517_2023,17.6,poverty
+6101,CA,Sutter County,CI90LB517P_2023,12.7,poverty
+6101,CA,Sutter County,CI90UB517P_2023,22.5,poverty
 6101,CA,Sutter County,MEDHHINC_2023,71968.0,poverty
+6101,CA,Sutter County,CI90LBINC_2023,66402.0,poverty
+6101,CA,Sutter County,CI90UBINC_2023,77534.0,poverty
 6103,CA,Tehama County,Rural_Urban_Continuum_Code_2023,4.0,poverty
 6103,CA,Tehama County,POVALL_2023,9633.0,poverty
+6103,CA,Tehama County,CI90LBALL_2023,7797.0,poverty
+6103,CA,Tehama County,CI90UBALL_2023,11469.0,poverty
 6103,CA,Tehama County,PCTPOVALL_2023,15.0,poverty
+6103,CA,Tehama County,CI90LBALLP_2023,12.1,poverty
+6103,CA,Tehama County,CI90UBALLP_2023,17.9,poverty
+6103,CA,Tehama County,POV017_2023,3166.0,poverty
+6103,CA,Tehama County,CI90LB017_2023,2330.0,poverty
+6103,CA,Tehama County,CI90UB017_2023,4002.0,poverty
+6103,CA,Tehama County,PCTPOV017_2023,20.7,poverty
+6103,CA,Tehama County,CI90LB017P_2023,15.2,poverty
+6103,CA,Tehama County,CI90UB017P_2023,26.2,poverty
+6103,CA,Tehama County,POV517_2023,2101.0,poverty
+6103,CA,Tehama County,CI90LB517_2023,1428.0,poverty
+6103,CA,Tehama County,CI90UB517_2023,2774.0,poverty
+6103,CA,Tehama County,PCTPOV517_2023,18.4,poverty
+6103,CA,Tehama County,CI90LB517P_2023,12.5,poverty
+6103,CA,Tehama County,CI90UB517P_2023,24.3,poverty
 6103,CA,Tehama County,MEDHHINC_2023,58333.0,poverty
+6103,CA,Tehama County,CI90LBINC_2023,52122.0,poverty
+6103,CA,Tehama County,CI90UBINC_2023,64544.0,poverty
 6105,CA,Trinity County,Rural_Urban_Continuum_Code_2023,8.0,poverty
 6105,CA,Trinity County,POVALL_2023,3223.0,poverty
+6105,CA,Trinity County,CI90LBALL_2023,2428.0,poverty
+6105,CA,Trinity County,CI90UBALL_2023,4018.0,poverty
 6105,CA,Trinity County,PCTPOVALL_2023,20.8,poverty
+6105,CA,Trinity County,CI90LBALLP_2023,15.7,poverty
+6105,CA,Trinity County,CI90UBALLP_2023,25.9,poverty
+6105,CA,Trinity County,POV017_2023,787.0,poverty
+6105,CA,Trinity County,CI90LB017_2023,537.0,poverty
+6105,CA,Trinity County,CI90UB017_2023,1037.0,poverty
+6105,CA,Trinity County,PCTPOV017_2023,29.5,poverty
+6105,CA,Trinity County,CI90LB017P_2023,20.1,poverty
+6105,CA,Trinity County,CI90UB017P_2023,38.9,poverty
+6105,CA,Trinity County,POV517_2023,528.0,poverty
+6105,CA,Trinity County,CI90LB517_2023,354.0,poverty
+6105,CA,Trinity County,CI90UB517_2023,702.0,poverty
+6105,CA,Trinity County,PCTPOV517_2023,25.7,poverty
+6105,CA,Trinity County,CI90LB517P_2023,17.2,poverty
+6105,CA,Trinity County,CI90UB517P_2023,34.2,poverty
 6105,CA,Trinity County,MEDHHINC_2023,52079.0,poverty
+6105,CA,Trinity County,CI90LBINC_2023,45459.0,poverty
+6105,CA,Trinity County,CI90UBINC_2023,58699.0,poverty
 6107,CA,Tulare County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6107,CA,Tulare County,POVALL_2023,83050.0,poverty
+6107,CA,Tulare County,CI90LBALL_2023,74656.0,poverty
+6107,CA,Tulare County,CI90UBALL_2023,91444.0,poverty
 6107,CA,Tulare County,PCTPOVALL_2023,17.5,poverty
+6107,CA,Tulare County,CI90LBALLP_2023,15.7,poverty
+6107,CA,Tulare County,CI90UBALLP_2023,19.3,poverty
+6107,CA,Tulare County,POV017_2023,32284.0,poverty
+6107,CA,Tulare County,CI90LB017_2023,27930.0,poverty
+6107,CA,Tulare County,CI90UB017_2023,36638.0,poverty
+6107,CA,Tulare County,PCTPOV017_2023,23.2,poverty
+6107,CA,Tulare County,CI90LB017P_2023,20.1,poverty
+6107,CA,Tulare County,CI90UB017P_2023,26.3,poverty
+6107,CA,Tulare County,POV517_2023,23506.0,poverty
+6107,CA,Tulare County,CI90LB517_2023,20188.0,poverty
+6107,CA,Tulare County,CI90UB517_2023,26824.0,poverty
+6107,CA,Tulare County,PCTPOV517_2023,22.3,poverty
+6107,CA,Tulare County,CI90LB517P_2023,19.1,poverty
+6107,CA,Tulare County,CI90UB517P_2023,25.5,poverty
 6107,CA,Tulare County,MEDHHINC_2023,71368.0,poverty
+6107,CA,Tulare County,CI90LBINC_2023,68543.0,poverty
+6107,CA,Tulare County,CI90UBINC_2023,74193.0,poverty
 6109,CA,Tuolumne County,Rural_Urban_Continuum_Code_2023,4.0,poverty
 6109,CA,Tuolumne County,POVALL_2023,5390.0,poverty
+6109,CA,Tuolumne County,CI90LBALL_2023,4070.0,poverty
+6109,CA,Tuolumne County,CI90UBALL_2023,6710.0,poverty
 6109,CA,Tuolumne County,PCTPOVALL_2023,10.5,poverty
+6109,CA,Tuolumne County,CI90LBALLP_2023,7.9,poverty
+6109,CA,Tuolumne County,CI90UBALLP_2023,13.1,poverty
+6109,CA,Tuolumne County,POV017_2023,1245.0,poverty
+6109,CA,Tuolumne County,CI90LB017_2023,844.0,poverty
+6109,CA,Tuolumne County,CI90UB017_2023,1646.0,poverty
+6109,CA,Tuolumne County,PCTPOV017_2023,13.6,poverty
+6109,CA,Tuolumne County,CI90LB017P_2023,9.2,poverty
+6109,CA,Tuolumne County,CI90UB017P_2023,18.0,poverty
+6109,CA,Tuolumne County,POV517_2023,911.0,poverty
+6109,CA,Tuolumne County,CI90LB517_2023,607.0,poverty
+6109,CA,Tuolumne County,CI90UB517_2023,1215.0,poverty
+6109,CA,Tuolumne County,PCTPOV517_2023,13.4,poverty
+6109,CA,Tuolumne County,CI90LB517P_2023,8.9,poverty
+6109,CA,Tuolumne County,CI90UB517P_2023,17.9,poverty
 6109,CA,Tuolumne County,MEDHHINC_2023,72329.0,poverty
+6109,CA,Tuolumne County,CI90LBINC_2023,64719.0,poverty
+6109,CA,Tuolumne County,CI90UBINC_2023,79939.0,poverty
 6111,CA,Ventura County,Rural_Urban_Continuum_Code_2023,2.0,poverty
 6111,CA,Ventura County,POVALL_2023,80427.0,poverty
+6111,CA,Ventura County,CI90LBALL_2023,70943.0,poverty
+6111,CA,Ventura County,CI90UBALL_2023,89911.0,poverty
 6111,CA,Ventura County,PCTPOVALL_2023,9.8,poverty
+6111,CA,Ventura County,CI90LBALLP_2023,8.6,poverty
+6111,CA,Ventura County,CI90UBALLP_2023,11.0,poverty
+6111,CA,Ventura County,POV017_2023,22395.0,poverty
+6111,CA,Ventura County,CI90LB017_2023,18781.0,poverty
+6111,CA,Ventura County,CI90UB017_2023,26009.0,poverty
+6111,CA,Ventura County,PCTPOV017_2023,12.8,poverty
+6111,CA,Ventura County,CI90LB017P_2023,10.7,poverty
+6111,CA,Ventura County,CI90UB017P_2023,14.9,poverty
+6111,CA,Ventura County,POV517_2023,16243.0,poverty
+6111,CA,Ventura County,CI90LB517_2023,13518.0,poverty
+6111,CA,Ventura County,CI90UB517_2023,18968.0,poverty
+6111,CA,Ventura County,PCTPOV517_2023,12.3,poverty
+6111,CA,Ventura County,CI90LB517P_2023,10.2,poverty
+6111,CA,Ventura County,CI90UB517P_2023,14.4,poverty
 6111,CA,Ventura County,MEDHHINC_2023,106526.0,poverty
+6111,CA,Ventura County,CI90LBINC_2023,102615.0,poverty
+6111,CA,Ventura County,CI90UBINC_2023,110437.0,poverty
 6113,CA,Yolo County,Rural_Urban_Continuum_Code_2023,1.0,poverty
 6113,CA,Yolo County,POVALL_2023,31960.0,poverty
+6113,CA,Yolo County,CI90LBALL_2023,28389.0,poverty
+6113,CA,Yolo County,CI90UBALL_2023,35531.0,poverty
 6113,CA,Yolo County,PCTPOVALL_2023,15.3,poverty
+6113,CA,Yolo County,CI90LBALLP_2023,13.6,poverty
+6113,CA,Yolo County,CI90UBALLP_2023,17.0,poverty
+6113,CA,Yolo County,POV017_2023,4936.0,poverty
+6113,CA,Yolo County,CI90LB017_2023,3613.0,poverty
+6113,CA,Yolo County,CI90UB017_2023,6259.0,poverty
+6113,CA,Yolo County,PCTPOV017_2023,11.6,poverty
+6113,CA,Yolo County,CI90LB017P_2023,8.5,poverty
+6113,CA,Yolo County,CI90UB017P_2023,14.7,poverty
+6113,CA,Yolo County,POV517_2023,3416.0,poverty
+6113,CA,Yolo County,CI90LB517_2023,2339.0,poverty
+6113,CA,Yolo County,CI90UB517_2023,4493.0,poverty
+6113,CA,Yolo County,PCTPOV517_2023,10.4,poverty
+6113,CA,Yolo County,CI90LB517P_2023,7.1,poverty
+6113,CA,Yolo County,CI90UB517P_2023,13.7,poverty
 6113,CA,Yolo County,MEDHHINC_2023,91192.0,poverty
+6113,CA,Yolo County,CI90LBINC_2023,86864.0,poverty
+6113,CA,Yolo County,CI90UBINC_2023,95520.0,poverty
 6115,CA,Yuba County,Rural_Urban_Continuum_Code_2023,3.0,poverty
 6115,CA,Yuba County,POVALL_2023,12935.0,poverty
+6115,CA,Yuba County,CI90LBALL_2023,10637.0,poverty
+6115,CA,Yuba County,CI90UBALL_2023,15233.0,poverty
 6115,CA,Yuba County,PCTPOVALL_2023,15.4,poverty
+6115,CA,Yuba County,CI90LBALLP_2023,12.7,poverty
+6115,CA,Yuba County,CI90UBALLP_2023,18.1,poverty
+6115,CA,Yuba County,POV017_2023,4572.0,poverty
+6115,CA,Yuba County,CI90LB017_2023,3516.0,poverty
+6115,CA,Yuba County,CI90UB017_2023,5628.0,poverty
+6115,CA,Yuba County,PCTPOV017_2023,20.0,poverty
+6115,CA,Yuba County,CI90LB017P_2023,15.4,poverty
+6115,CA,Yuba County,CI90UB017P_2023,24.6,poverty
+6115,CA,Yuba County,POV517_2023,3424.0,poverty
+6115,CA,Yuba County,CI90LB517_2023,2630.0,poverty
+6115,CA,Yuba County,CI90UB517_2023,4218.0,poverty
+6115,CA,Yuba County,PCTPOV517_2023,20.5,poverty
+6115,CA,Yuba County,CI90LB517P_2023,15.7,poverty
+6115,CA,Yuba County,CI90UB517P_2023,25.3,poverty
 6115,CA,Yuba County,MEDHHINC_2023,71493.0,poverty
+6115,CA,Yuba County,CI90LBINC_2023,65895.0,poverty
+6115,CA,Yuba County,CI90UBINC_2023,77091.0,poverty
 6001,CA,Alameda County,2023 Rural-urban Continuum Code,1.0,education
+6001,CA,Alameda County,"Less than high school graduate, 2019-23",132081.0,education
+6001,CA,Alameda County,"High school graduate (or equivalency), 2019-23",188746.0,education
+6001,CA,Alameda County,"Some college or associate degree, 2019-23",256640.0,education
+6001,CA,Alameda County,"Bachelor's degree or higher, 2019-23",612435.0,education
+6001,CA,Alameda County,"Percent of adults who are not high school graduates, 2019-23",11.10015783,education
+6001,CA,Alameda County,"Percent of adults who are high school graduates (or equivalent), 2019-23",15.86231471,education
+6001,CA,Alameda County,"Percent of adults completing some college or associate degree, 2019-23",21.56816276,education
+6001,CA,Alameda County,"Percent of adults with a bachelor's degree or higher, 2019-23",51.4693647,education
 6003,CA,Alpine County,2023 Rural-urban Continuum Code,8.0,education
+6003,CA,Alpine County,"Less than high school graduate, 2019-23",44.0,education
+6003,CA,Alpine County,"High school graduate (or equivalency), 2019-23",218.0,education
+6003,CA,Alpine County,"Some college or associate degree, 2019-23",420.0,education
+6003,CA,Alpine County,"Bachelor's degree or higher, 2019-23",496.0,education
+6003,CA,Alpine County,"Percent of adults who are not high school graduates, 2019-23",3.735144312,education
+6003,CA,Alpine County,"Percent of adults who are high school graduates (or equivalent), 2019-23",18.50594228,education
+6003,CA,Alpine County,"Percent of adults completing some college or associate degree, 2019-23",35.65365025,education
+6003,CA,Alpine County,"Percent of adults with a bachelor's degree or higher, 2019-23",42.10526316,education
 6005,CA,Amador County,2023 Rural-urban Continuum Code,6.0,education
+6005,CA,Amador County,"Less than high school graduate, 2019-23",2936.0,education
+6005,CA,Amador County,"High school graduate (or equivalency), 2019-23",8604.0,education
+6005,CA,Amador County,"Some college or associate degree, 2019-23",13669.0,education
+6005,CA,Amador County,"Bachelor's degree or higher, 2019-23",7295.0,education
+6005,CA,Amador County,"Percent of adults who are not high school graduates, 2019-23",9.032734433,education
+6005,CA,Amador County,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.47058824,education
+6005,CA,Amador County,"Percent of adults completing some college or associate degree, 2019-23",42.05328575,education
+6005,CA,Amador County,"Percent of adults with a bachelor's degree or higher, 2019-23",22.44339158,education
 6007,CA,Butte County,2023 Rural-urban Continuum Code,3.0,education
+6007,CA,Butte County,"Less than high school graduate, 2019-23",13179.0,education
+6007,CA,Butte County,"High school graduate (or equivalency), 2019-23",30325.0,education
+6007,CA,Butte County,"Some college or associate degree, 2019-23",49524.0,education
+6007,CA,Butte County,"Bachelor's degree or higher, 2019-23",43218.0,education
+6007,CA,Butte County,"Percent of adults who are not high school graduates, 2019-23",9.672944527,education
+6007,CA,Butte County,"Percent of adults who are high school graduates (or equivalent), 2019-23",22.25753417,education
+6007,CA,Butte County,"Percent of adults completing some college or associate degree, 2019-23",36.34895703,education
+6007,CA,Butte County,"Percent of adults with a bachelor's degree or higher, 2019-23",31.72056427,education
 6009,CA,Calaveras County,2023 Rural-urban Continuum Code,6.0,education
+6009,CA,Calaveras County,"Less than high school graduate, 2019-23",2375.0,education
+6009,CA,Calaveras County,"High school graduate (or equivalency), 2019-23",11387.0,education
+6009,CA,Calaveras County,"Some college or associate degree, 2019-23",14013.0,education
+6009,CA,Calaveras County,"Bachelor's degree or higher, 2019-23",7919.0,education
+6009,CA,Calaveras County,"Percent of adults who are not high school graduates, 2019-23",6.653779347,education
+6009,CA,Calaveras County,"Percent of adults who are high school graduates (or equivalent), 2019-23",31.90172018,education
+6009,CA,Calaveras County,"Percent of adults completing some college or associate degree, 2019-23",39.25869894,education
+6009,CA,Calaveras County,"Percent of adults with a bachelor's degree or higher, 2019-23",22.18580154,education
 6011,CA,Colusa County,2023 Rural-urban Continuum Code,6.0,education
+6011,CA,Colusa County,"Less than high school graduate, 2019-23",3745.0,education
+6011,CA,Colusa County,"High school graduate (or equivalency), 2019-23",4138.0,education
+6011,CA,Colusa County,"Some college or associate degree, 2019-23",4058.0,education
+6011,CA,Colusa County,"Bachelor's degree or higher, 2019-23",2029.0,education
+6011,CA,Colusa County,"Percent of adults who are not high school graduates, 2019-23",26.80744452,education
+6011,CA,Colusa County,"Percent of adults who are high school graduates (or equivalent), 2019-23",29.6206156,education
+6011,CA,Colusa County,"Percent of adults completing some college or associate degree, 2019-23",29.04795991,education
+6011,CA,Colusa County,"Percent of adults with a bachelor's degree or higher, 2019-23",14.52397996,education
 6013,CA,Contra Costa County,2023 Rural-urban Continuum Code,1.0,education
+6013,CA,Contra Costa County,"Less than high school graduate, 2019-23",84241.0,education
+6013,CA,Contra Costa County,"High school graduate (or equivalency), 2019-23",143600.0,education
+6013,CA,Contra Costa County,"Some college or associate degree, 2019-23",218931.0,education
+6013,CA,Contra Costa County,"Bachelor's degree or higher, 2019-23",364216.0,education
+6013,CA,Contra Costa County,"Percent of adults who are not high school graduates, 2019-23",10.38745333,education
+6013,CA,Contra Costa County,"Percent of adults who are high school graduates (or equivalent), 2019-23",17.70679714,education
+6013,CA,Contra Costa County,"Percent of adults completing some college or associate degree, 2019-23",26.99559056,education
+6013,CA,Contra Costa County,"Percent of adults with a bachelor's degree or higher, 2019-23",44.91015897,education
 6015,CA,Del Norte County,2023 Rural-urban Continuum Code,7.0,education
+6015,CA,Del Norte County,"Less than high school graduate, 2019-23",2870.0,education
+6015,CA,Del Norte County,"High school graduate (or equivalency), 2019-23",5078.0,education
+6015,CA,Del Norte County,"Some college or associate degree, 2019-23",7741.0,education
+6015,CA,Del Norte County,"Bachelor's degree or higher, 2019-23",4164.0,education
+6015,CA,Del Norte County,"Percent of adults who are not high school graduates, 2019-23",14.45625346,education
+6015,CA,Del Norte County,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.57799829,education
+6015,CA,Del Norte County,"Percent of adults completing some college or associate degree, 2019-23",38.99158817,education
+6015,CA,Del Norte County,"Percent of adults with a bachelor's degree or higher, 2019-23",20.97416008,education
 6017,CA,El Dorado County,2023 Rural-urban Continuum Code,1.0,education
+6017,CA,El Dorado County,"Less than high school graduate, 2019-23",7210.0,education
+6017,CA,El Dorado County,"High school graduate (or equivalency), 2019-23",29405.0,education
+6017,CA,El Dorado County,"Some college or associate degree, 2019-23",50152.0,education
+6017,CA,El Dorado County,"Bachelor's degree or higher, 2019-23",55065.0,education
+6017,CA,El Dorado County,"Percent of adults who are not high school graduates, 2019-23",5.083479046,education
+6017,CA,El Dorado County,"Percent of adults who are high school graduates (or equivalent), 2019-23",20.7322748,education
+6017,CA,El Dorado County,"Percent of adults completing some college or associate degree, 2019-23",35.3601444,education
+6017,CA,El Dorado County,"Percent of adults with a bachelor's degree or higher, 2019-23",38.82410175,education
 6019,CA,Fresno County,2023 Rural-urban Continuum Code,1.0,education
+6019,CA,Fresno County,"Less than high school graduate, 2019-23",135093.0,education
+6019,CA,Fresno County,"High school graduate (or equivalency), 2019-23",145274.0,education
+6019,CA,Fresno County,"Some college or associate degree, 2019-23",200252.0,education
+6019,CA,Fresno County,"Bachelor's degree or higher, 2019-23",150566.0,education
+6019,CA,Fresno County,"Percent of adults who are not high school graduates, 2019-23",21.40307517,education
+6019,CA,Fresno County,"Percent of adults who are high school graduates (or equivalent), 2019-23",23.01607294,education
+6019,CA,Fresno County,"Percent of adults completing some college or associate degree, 2019-23",31.72635598,education
+6019,CA,Fresno County,"Percent of adults with a bachelor's degree or higher, 2019-23",23.85449591,education
 6021,CA,Glenn County,2023 Rural-urban Continuum Code,6.0,education
+6021,CA,Glenn County,"Less than high school graduate, 2019-23",3665.0,education
+6021,CA,Glenn County,"High school graduate (or equivalency), 2019-23",5853.0,education
+6021,CA,Glenn County,"Some college or associate degree, 2019-23",6038.0,education
+6021,CA,Glenn County,"Bachelor's degree or higher, 2019-23",3070.0,education
+6021,CA,Glenn County,"Percent of adults who are not high school graduates, 2019-23",19.67679588,education
+6021,CA,Glenn County,"Percent of adults who are high school graduates (or equivalent), 2019-23",31.42381617,education
+6021,CA,Glenn County,"Percent of adults completing some college or associate degree, 2019-23",32.41705143,education
+6021,CA,Glenn County,"Percent of adults with a bachelor's degree or higher, 2019-23",16.48233652,education
 6023,CA,Humboldt County,2023 Rural-urban Continuum Code,5.0,education
+6023,CA,Humboldt County,"Less than high school graduate, 2019-23",7930.0,education
+6023,CA,Humboldt County,"High school graduate (or equivalency), 2019-23",21726.0,education
+6023,CA,Humboldt County,"Some college or associate degree, 2019-23",33841.0,education
+6023,CA,Humboldt County,"Bachelor's degree or higher, 2019-23",29998.0,education
+6023,CA,Humboldt County,"Percent of adults who are not high school graduates, 2019-23",8.481736991,education
+6023,CA,Humboldt County,"Percent of adults who are high school graduates (or equivalent), 2019-23",23.23760629,education
+6023,CA,Humboldt County,"Percent of adults completing some college or associate degree, 2019-23",36.19551848,education
+6023,CA,Humboldt County,"Percent of adults with a bachelor's degree or higher, 2019-23",32.08513824,education
 6025,CA,Imperial County,2023 Rural-urban Continuum Code,3.0,education
+6025,CA,Imperial County,"Less than high school graduate, 2019-23",31132.0,education
+6025,CA,Imperial County,"High school graduate (or equivalency), 2019-23",28625.0,education
+6025,CA,Imperial County,"Some college or associate degree, 2019-23",33021.0,education
+6025,CA,Imperial County,"Bachelor's degree or higher, 2019-23",17804.0,education
+6025,CA,Imperial County,"Percent of adults who are not high school graduates, 2019-23",28.15286394,education
+6025,CA,Imperial County,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.88576803,education
+6025,CA,Imperial County,"Percent of adults completing some college or associate degree, 2019-23",29.86109855,education
+6025,CA,Imperial County,"Percent of adults with a bachelor's degree or higher, 2019-23",16.10026948,education
 6027,CA,Inyo County,2023 Rural-urban Continuum Code,6.0,education
+6027,CA,Inyo County,"Less than high school graduate, 2019-23",1000.0,education
+6027,CA,Inyo County,"High school graduate (or equivalency), 2019-23",3809.0,education
+6027,CA,Inyo County,"Some college or associate degree, 2019-23",4666.0,education
+6027,CA,Inyo County,"Bachelor's degree or higher, 2019-23",4422.0,education
+6027,CA,Inyo County,"Percent of adults who are not high school graduates, 2019-23",7.195797654,education
+6027,CA,Inyo County,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.40879326,education
+6027,CA,Inyo County,"Percent of adults completing some college or associate degree, 2019-23",33.57559185,education
+6027,CA,Inyo County,"Percent of adults with a bachelor's degree or higher, 2019-23",31.81981723,education
 6029,CA,Kern County,2023 Rural-urban Continuum Code,2.0,education
+6029,CA,Kern County,"Less than high school graduate, 2019-23",127772.0,education
+6029,CA,Kern County,"High school graduate (or equivalency), 2019-23",154648.0,education
+6029,CA,Kern County,"Some college or associate degree, 2019-23",172599.0,education
+6029,CA,Kern County,"Bachelor's degree or higher, 2019-23",103791.0,education
+6029,CA,Kern County,"Percent of adults who are not high school graduates, 2019-23",22.86501673,education
+6029,CA,Kern County,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.67452265,education
+6029,CA,Kern County,"Percent of adults completing some college or associate degree, 2019-23",30.88688463,education
+6029,CA,Kern County,"Percent of adults with a bachelor's degree or higher, 2019-23",18.57357599,education
 6031,CA,Kings County,2023 Rural-urban Continuum Code,3.0,education
+6031,CA,Kings County,"Less than high school graduate, 2019-23",24617.0,education
+6031,CA,Kings County,"High school graduate (or equivalency), 2019-23",26837.0,education
+6031,CA,Kings County,"Some college or associate degree, 2019-23",30792.0,education
+6031,CA,Kings County,"Bachelor's degree or higher, 2019-23",13299.0,education
+6031,CA,Kings County,"Percent of adults who are not high school graduates, 2019-23",25.76482286,education
+6031,CA,Kings County,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.08833534,education
+6031,CA,Kings County,"Percent of adults completing some college or associate degree, 2019-23",32.22774609,education
+6031,CA,Kings County,"Percent of adults with a bachelor's degree or higher, 2019-23",13.91909571,education
 6033,CA,Lake County,2023 Rural-urban Continuum Code,4.0,education
+6033,CA,Lake County,"Less than high school graduate, 2019-23",6320.0,education
+6033,CA,Lake County,"High school graduate (or equivalency), 2019-23",14112.0,education
+6033,CA,Lake County,"Some college or associate degree, 2019-23",19820.0,education
+6033,CA,Lake County,"Bachelor's degree or higher, 2019-23",8683.0,education
+6033,CA,Lake County,"Percent of adults who are not high school graduates, 2019-23",12.91509145,education
+6033,CA,Lake County,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.83825483,education
+6033,CA,Lake County,"Percent of adults completing some college or associate degree, 2019-23",40.50270767,education
+6033,CA,Lake County,"Percent of adults with a bachelor's degree or higher, 2019-23",17.74394605,education
 6035,CA,Lassen County,2023 Rural-urban Continuum Code,7.0,education
+6035,CA,Lassen County,"Less than high school graduate, 2019-23",4865.0,education
+6035,CA,Lassen County,"High school graduate (or equivalency), 2019-23",7067.0,education
+6035,CA,Lassen County,"Some college or associate degree, 2019-23",8312.0,education
+6035,CA,Lassen County,"Bachelor's degree or higher, 2019-23",3082.0,education
+6035,CA,Lassen County,"Percent of adults who are not high school graduates, 2019-23",20.85655492,education
+6035,CA,Lassen County,"Percent of adults who are high school graduates (or equivalent), 2019-23",30.29666467,education
+6035,CA,Lassen County,"Percent of adults completing some college or associate degree, 2019-23",35.63405642,education
+6035,CA,Lassen County,"Percent of adults with a bachelor's degree or higher, 2019-23",13.212724,education
 6037,CA,Los Angeles County,2023 Rural-urban Continuum Code,1.0,education
+6037,CA,Los Angeles County,"Less than high school graduate, 2019-23",1336557.0,education
+6037,CA,Los Angeles County,"High school graduate (or equivalency), 2019-23",1402989.0,education
+6037,CA,Los Angeles County,"Some college or associate degree, 2019-23",1720679.0,education
+6037,CA,Los Angeles County,"Bachelor's degree or higher, 2019-23",2451744.0,education
+6037,CA,Los Angeles County,"Percent of adults who are not high school graduates, 2019-23",19.33684888,education
+6037,CA,Los Angeles County,"Percent of adults who are high school graduates (or equivalent), 2019-23",20.2979643,education
+6037,CA,Los Angeles County,"Percent of adults completing some college or associate degree, 2019-23",24.8941944,education
+6037,CA,Los Angeles County,"Percent of adults with a bachelor's degree or higher, 2019-23",35.47099242,education
 6039,CA,Madera County,2023 Rural-urban Continuum Code,1.0,education
+6039,CA,Madera County,"Less than high school graduate, 2019-23",27033.0,education
+6039,CA,Madera County,"High school graduate (or equivalency), 2019-23",23966.0,education
+6039,CA,Madera County,"Some college or associate degree, 2019-23",32120.0,education
+6039,CA,Madera County,"Bachelor's degree or higher, 2019-23",17180.0,education
+6039,CA,Madera County,"Percent of adults who are not high school graduates, 2019-23",26.95241229,education
+6039,CA,Madera County,"Percent of adults who are high school graduates (or equivalent), 2019-23",23.89455528,education
+6039,CA,Madera County,"Percent of adults completing some college or associate degree, 2019-23",32.0242475,education
+6039,CA,Madera County,"Percent of adults with a bachelor's degree or higher, 2019-23",17.12878493,education
 6041,CA,Marin County,2023 Rural-urban Continuum Code,1.0,education
+6041,CA,Marin County,"Less than high school graduate, 2019-23",13801.0,education
+6041,CA,Marin County,"High school graduate (or equivalency), 2019-23",20478.0,education
+6041,CA,Marin County,"Some college or associate degree, 2019-23",40830.0,education
+6041,CA,Marin County,"Bachelor's degree or higher, 2019-23",114844.0,education
+6041,CA,Marin County,"Percent of adults who are not high school graduates, 2019-23",7.265481461,education
+6041,CA,Marin County,"Percent of adults who are high school graduates (or equivalent), 2019-23",10.78056151,education
+6041,CA,Marin County,"Percent of adults completing some college or associate degree, 2019-23",21.49479082,education
+6041,CA,Marin County,"Percent of adults with a bachelor's degree or higher, 2019-23",60.45916621,education
 6043,CA,Mariposa County,2023 Rural-urban Continuum Code,8.0,education
+6043,CA,Mariposa County,"Less than high school graduate, 2019-23",1276.0,education
+6043,CA,Mariposa County,"High school graduate (or equivalency), 2019-23",2839.0,education
+6043,CA,Mariposa County,"Some college or associate degree, 2019-23",5144.0,education
+6043,CA,Mariposa County,"Bachelor's degree or higher, 2019-23",4133.0,education
+6043,CA,Mariposa County,"Percent of adults who are not high school graduates, 2019-23",9.528076464,education
+6043,CA,Mariposa County,"Percent of adults who are high school graduates (or equivalent), 2019-23",21.19922342,education
+6043,CA,Mariposa County,"Percent of adults completing some college or associate degree, 2019-23",38.41099164,education
+6043,CA,Mariposa County,"Percent of adults with a bachelor's degree or higher, 2019-23",30.86170848,education
 6045,CA,Mendocino County,2023 Rural-urban Continuum Code,4.0,education
+6045,CA,Mendocino County,"Less than high school graduate, 2019-23",9021.0,education
+6045,CA,Mendocino County,"High school graduate (or equivalency), 2019-23",17033.0,education
+6045,CA,Mendocino County,"Some college or associate degree, 2019-23",22889.0,education
+6045,CA,Mendocino County,"Bachelor's degree or higher, 2019-23",16248.0,education
+6045,CA,Mendocino County,"Percent of adults who are not high school graduates, 2019-23",13.8377997,education
+6045,CA,Mendocino County,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.12783973,education
+6045,CA,Mendocino County,"Percent of adults completing some college or associate degree, 2019-23",35.11067479,education
+6045,CA,Mendocino County,"Percent of adults with a bachelor's degree or higher, 2019-23",24.92368578,education
 6047,CA,Merced County,2023 Rural-urban Continuum Code,2.0,education
+6047,CA,Merced County,"Less than high school graduate, 2019-23",48206.0,education
+6047,CA,Merced County,"High school graduate (or equivalency), 2019-23",49187.0,education
+6047,CA,Merced County,"Some college or associate degree, 2019-23",48747.0,education
+6047,CA,Merced County,"Bachelor's degree or higher, 2019-23",25346.0,education
+6047,CA,Merced County,"Percent of adults who are not high school graduates, 2019-23",28.11074957,education
+6047,CA,Merced County,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.68280793,education
+6047,CA,Merced County,"Percent of adults completing some college or associate degree, 2019-23",28.42622721,education
+6047,CA,Merced County,"Percent of adults with a bachelor's degree or higher, 2019-23",14.78021529,education
 6049,CA,Modoc County,2023 Rural-urban Continuum Code,8.0,education
+6049,CA,Modoc County,"Less than high school graduate, 2019-23",776.0,education
+6049,CA,Modoc County,"High school graduate (or equivalency), 2019-23",1772.0,education
+6049,CA,Modoc County,"Some college or associate degree, 2019-23",2409.0,education
+6049,CA,Modoc County,"Bachelor's degree or higher, 2019-23",1481.0,education
+6049,CA,Modoc County,"Percent of adults who are not high school graduates, 2019-23",12.05343274,education
+6049,CA,Modoc County,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.5240758,education
+6049,CA,Modoc County,"Percent of adults completing some college or associate degree, 2019-23",37.41845294,education
+6049,CA,Modoc County,"Percent of adults with a bachelor's degree or higher, 2019-23",23.00403852,education
 6051,CA,Mono County,2023 Rural-urban Continuum Code,7.0,education
+6051,CA,Mono County,"Less than high school graduate, 2019-23",1008.0,education
+6051,CA,Mono County,"High school graduate (or equivalency), 2019-23",1699.0,education
+6051,CA,Mono County,"Some college or associate degree, 2019-23",3631.0,education
+6051,CA,Mono County,"Bachelor's degree or higher, 2019-23",3312.0,education
+6051,CA,Mono County,"Percent of adults who are not high school graduates, 2019-23",10.44559585,education
+6051,CA,Mono County,"Percent of adults who are high school graduates (or equivalent), 2019-23",17.60621762,education
+6051,CA,Mono County,"Percent of adults completing some college or associate degree, 2019-23",37.62694301,education
+6051,CA,Mono County,"Percent of adults with a bachelor's degree or higher, 2019-23",34.32124352,education
 6053,CA,Monterey County,2023 Rural-urban Continuum Code,2.0,education
+6053,CA,Monterey County,"Less than high school graduate, 2019-23",74469.0,education
+6053,CA,Monterey County,"High school graduate (or equivalency), 2019-23",57630.0,education
+6053,CA,Monterey County,"Some college or associate degree, 2019-23",69303.0,education
+6053,CA,Monterey County,"Bachelor's degree or higher, 2019-23",77872.0,education
+6053,CA,Monterey County,"Percent of adults who are not high school graduates, 2019-23",26.66521051,education
+6053,CA,Monterey County,"Percent of adults who are high school graduates (or equivalent), 2019-23",20.63564814,education
+6053,CA,Monterey County,"Percent of adults completing some college or associate degree, 2019-23",24.81541425,education
+6053,CA,Monterey County,"Percent of adults with a bachelor's degree or higher, 2019-23",27.88372709,education
 6055,CA,Napa County,2023 Rural-urban Continuum Code,3.0,education
+6055,CA,Napa County,"Less than high school graduate, 2019-23",14962.0,education
+6055,CA,Napa County,"High school graduate (or equivalency), 2019-23",17073.0,education
+6055,CA,Napa County,"Some college or associate degree, 2019-23",28118.0,education
+6055,CA,Napa County,"Bachelor's degree or higher, 2019-23",37684.0,education
+6055,CA,Napa County,"Percent of adults who are not high school graduates, 2019-23",15.29278289,education
+6055,CA,Napa County,"Percent of adults who are high school graduates (or equivalent), 2019-23",17.4504533,education
+6055,CA,Napa County,"Percent of adults completing some college or associate degree, 2019-23",28.73963838,education
+6055,CA,Napa County,"Percent of adults with a bachelor's degree or higher, 2019-23",38.51712542,education
 6057,CA,Nevada County,2023 Rural-urban Continuum Code,4.0,education
+6057,CA,Nevada County,"Less than high school graduate, 2019-23",3907.0,education
+6057,CA,Nevada County,"High school graduate (or equivalency), 2019-23",16217.0,education
+6057,CA,Nevada County,"Some college or associate degree, 2019-23",27840.0,education
+6057,CA,Nevada County,"Bachelor's degree or higher, 2019-23",31263.0,education
+6057,CA,Nevada County,"Percent of adults who are not high school graduates, 2019-23",4.931399649,education
+6057,CA,Nevada County,"Percent of adults who are high school graduates (or equivalent), 2019-23",20.46903202,education
+6057,CA,Nevada County,"Percent of adults completing some college or associate degree, 2019-23",35.13953576,education
+6057,CA,Nevada County,"Percent of adults with a bachelor's degree or higher, 2019-23",39.46003256,education
 6059,CA,Orange County,2023 Rural-urban Continuum Code,1.0,education
+6059,CA,Orange County,"Less than high school graduate, 2019-23",287900.0,education
+6059,CA,Orange County,"High school graduate (or equivalency), 2019-23",379386.0,education
+6059,CA,Orange County,"Some college or associate degree, 2019-23",580793.0,education
+6059,CA,Orange County,"Bachelor's degree or higher, 2019-23",957048.0,education
+6059,CA,Orange County,"Percent of adults who are not high school graduates, 2019-23",13.05593737,education
+6059,CA,Orange County,"Percent of adults who are high school graduates (or equivalent), 2019-23",17.20472336,education
+6059,CA,Orange County,"Percent of adults completing some college or associate degree, 2019-23",26.3383016,education
+6059,CA,Orange County,"Percent of adults with a bachelor's degree or higher, 2019-23",43.40103767,education
 6061,CA,Placer County,2023 Rural-urban Continuum Code,1.0,education
+6061,CA,Placer County,"Less than high school graduate, 2019-23",14825.0,education
+6061,CA,Placer County,"High school graduate (or equivalency), 2019-23",50097.0,education
+6061,CA,Placer County,"Some college or associate degree, 2019-23",101895.0,education
+6061,CA,Placer County,"Bachelor's degree or higher, 2019-23",125284.0,education
+6061,CA,Placer County,"Percent of adults who are not high school graduates, 2019-23",5.075299297,education
+6061,CA,Placer County,"Percent of adults who are high school graduates (or equivalent), 2019-23",17.15057463,education
+6061,CA,Placer County,"Percent of adults completing some college or associate degree, 2019-23",34.88348208,education
+6061,CA,Placer County,"Percent of adults with a bachelor's degree or higher, 2019-23",42.89064399,education
 6063,CA,Plumas County,2023 Rural-urban Continuum Code,9.0,education
+6063,CA,Plumas County,"Less than high school graduate, 2019-23",915.0,education
+6063,CA,Plumas County,"High school graduate (or equivalency), 2019-23",4313.0,education
+6063,CA,Plumas County,"Some college or associate degree, 2019-23",6868.0,education
+6063,CA,Plumas County,"Bachelor's degree or higher, 2019-23",3112.0,education
+6063,CA,Plumas County,"Percent of adults who are not high school graduates, 2019-23",6.016570226,education
+6063,CA,Plumas County,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.36007365,education
+6063,CA,Plumas County,"Percent of adults completing some college or associate degree, 2019-23",45.16044187,education
+6063,CA,Plumas County,"Percent of adults with a bachelor's degree or higher, 2019-23",20.46291426,education
 6065,CA,Riverside County,2023 Rural-urban Continuum Code,1.0,education
+6065,CA,Riverside County,"Less than high school graduate, 2019-23",270971.0,education
+6065,CA,Riverside County,"High school graduate (or equivalency), 2019-23",427314.0,education
+6065,CA,Riverside County,"Some college or associate degree, 2019-23",517283.0,education
+6065,CA,Riverside County,"Bachelor's degree or higher, 2019-23",407007.0,education
+6065,CA,Riverside County,"Percent of adults who are not high school graduates, 2019-23",16.70006009,education
+6065,CA,Riverside County,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.33554689,education
+6065,CA,Riverside County,"Percent of adults completing some college or associate degree, 2019-23",31.88037533,education
+6065,CA,Riverside County,"Percent of adults with a bachelor's degree or higher, 2019-23",25.08401769,education
 6067,CA,Sacramento County,2023 Rural-urban Continuum Code,1.0,education
+6067,CA,Sacramento County,"Less than high school graduate, 2019-23",126456.0,education
+6067,CA,Sacramento County,"High school graduate (or equivalency), 2019-23",238395.0,education
+6067,CA,Sacramento County,"Some college or associate degree, 2019-23",360417.0,education
+6067,CA,Sacramento County,"Bachelor's degree or higher, 2019-23",361826.0,education
+6067,CA,Sacramento County,"Percent of adults who are not high school graduates, 2019-23",11.63248072,education
+6067,CA,Sacramento County,"Percent of adults who are high school graduates (or equivalent), 2019-23",21.92956635,education
+6067,CA,Sacramento County,"Percent of adults completing some college or associate degree, 2019-23",33.15417066,education
+6067,CA,Sacramento County,"Percent of adults with a bachelor's degree or higher, 2019-23",33.28378227,education
 6069,CA,San Benito County,2023 Rural-urban Continuum Code,1.0,education
+6069,CA,San Benito County,"Less than high school graduate, 2019-23",7283.0,education
+6069,CA,San Benito County,"High school graduate (or equivalency), 2019-23",11429.0,education
+6069,CA,San Benito County,"Some college or associate degree, 2019-23",15011.0,education
+6069,CA,San Benito County,"Bachelor's degree or higher, 2019-23",9727.0,education
+6069,CA,San Benito County,"Percent of adults who are not high school graduates, 2019-23",16.76179517,education
+6069,CA,San Benito County,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.30379747,education
+6069,CA,San Benito County,"Percent of adults completing some college or associate degree, 2019-23",34.54775604,education
+6069,CA,San Benito County,"Percent of adults with a bachelor's degree or higher, 2019-23",22.38665132,education
 6071,CA,San Bernardino County,2023 Rural-urban Continuum Code,1.0,education
+6071,CA,San Bernardino County,"Less than high school graduate, 2019-23",251976.0,education
+6071,CA,San Bernardino County,"High school graduate (or equivalency), 2019-23",391633.0,education
+6071,CA,San Bernardino County,"Some college or associate degree, 2019-23",441352.0,education
+6071,CA,San Bernardino County,"Bachelor's degree or higher, 2019-23",322278.0,education
+6071,CA,San Bernardino County,"Percent of adults who are not high school graduates, 2019-23",17.90570045,education
+6071,CA,San Bernardino County,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.82988533,education
+6071,CA,San Bernardino County,"Percent of adults completing some college or associate degree, 2019-23",31.36297388,education
+6071,CA,San Bernardino County,"Percent of adults with a bachelor's degree or higher, 2019-23",22.90144034,education
 6073,CA,San Diego County,2023 Rural-urban Continuum Code,1.0,education
+6073,CA,San Diego County,"Less than high school graduate, 2019-23",249203.0,education
+6073,CA,San Diego County,"High school graduate (or equivalency), 2019-23",407232.0,education
+6073,CA,San Diego County,"Some college or associate degree, 2019-23",657624.0,education
+6073,CA,San Diego County,"Bachelor's degree or higher, 2019-23",955076.0,education
+6073,CA,San Diego County,"Percent of adults who are not high school graduates, 2019-23",10.98229061,education
+6073,CA,San Diego County,"Percent of adults who are high school graduates (or equivalent), 2019-23",17.94657436,education
+6073,CA,San Diego County,"Percent of adults completing some college or associate degree, 2019-23",28.98126379,education
+6073,CA,San Diego County,"Percent of adults with a bachelor's degree or higher, 2019-23",42.08987125,education
 6075,CA,San Francisco County,2023 Rural-urban Continuum Code,1.0,education
+6075,CA,San Francisco County,"Less than high school graduate, 2019-23",74971.0,education
+6075,CA,San Francisco County,"High school graduate (or equivalency), 2019-23",75776.0,education
+6075,CA,San Francisco County,"Some college or associate degree, 2019-23",116140.0,education
+6075,CA,San Francisco County,"Bachelor's degree or higher, 2019-23",402351.0,education
+6075,CA,San Francisco County,"Percent of adults who are not high school graduates, 2019-23",11.20244218,education
+6075,CA,San Francisco County,"Percent of adults who are high school graduates (or equivalent), 2019-23",11.32272824,education
+6075,CA,San Francisco County,"Percent of adults completing some college or associate degree, 2019-23",17.35406537,education
+6075,CA,San Francisco County,"Percent of adults with a bachelor's degree or higher, 2019-23",60.12076421,education
 6077,CA,San Joaquin County,2023 Rural-urban Continuum Code,2.0,education
+6077,CA,San Joaquin County,"Less than high school graduate, 2019-23",98795.0,education
+6077,CA,San Joaquin County,"High school graduate (or equivalency), 2019-23",140117.0,education
+6077,CA,San Joaquin County,"Some college or associate degree, 2019-23",157023.0,education
+6077,CA,San Joaquin County,"Bachelor's degree or higher, 2019-23",108910.0,education
+6077,CA,San Joaquin County,"Percent of adults who are not high school graduates, 2019-23",19.56937278,education
+6077,CA,San Joaquin County,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.75445929,education
+6077,CA,San Joaquin County,"Percent of adults completing some college or associate degree, 2019-23",31.1032099,education
+6077,CA,San Joaquin County,"Percent of adults with a bachelor's degree or higher, 2019-23",21.57295804,education
 6079,CA,San Luis Obispo County,2023 Rural-urban Continuum Code,2.0,education
+6079,CA,San Luis Obispo County,"Less than high school graduate, 2019-23",15656.0,education
+6079,CA,San Luis Obispo County,"High school graduate (or equivalency), 2019-23",34582.0,education
+6079,CA,San Luis Obispo County,"Some college or associate degree, 2019-23",65421.0,education
+6079,CA,San Luis Obispo County,"Bachelor's degree or higher, 2019-23",74574.0,education
+6079,CA,San Luis Obispo County,"Percent of adults who are not high school graduates, 2019-23",8.229907534,education
+6079,CA,San Luis Obispo County,"Percent of adults who are high school graduates (or equivalent), 2019-23",18.17875973,education
+6079,CA,San Luis Obispo County,"Percent of adults completing some college or associate degree, 2019-23",34.38993235,education
+6079,CA,San Luis Obispo County,"Percent of adults with a bachelor's degree or higher, 2019-23",39.20140039,education
 6081,CA,San Mateo County,2023 Rural-urban Continuum Code,1.0,education
+6081,CA,San Mateo County,"Less than high school graduate, 2019-23",52659.0,education
+6081,CA,San Mateo County,"High school graduate (or equivalency), 2019-23",80468.0,education
+6081,CA,San Mateo County,"Some college or associate degree, 2019-23",121768.0,education
+6081,CA,San Mateo County,"Bachelor's degree or higher, 2019-23",288258.0,education
+6081,CA,San Mateo County,"Percent of adults who are not high school graduates, 2019-23",9.695058298,education
+6081,CA,San Mateo County,"Percent of adults who are high school graduates (or equivalent), 2019-23",14.81497847,education
+6081,CA,San Mateo County,"Percent of adults completing some college or associate degree, 2019-23",22.41872916,education
+6081,CA,San Mateo County,"Percent of adults with a bachelor's degree or higher, 2019-23",53.07123407,education
 6083,CA,Santa Barbara County,2023 Rural-urban Continuum Code,2.0,education
+6083,CA,Santa Barbara County,"Less than high school graduate, 2019-23",49743.0,education
+6083,CA,Santa Barbara County,"High school graduate (or equivalency), 2019-23",47074.0,education
+6083,CA,Santa Barbara County,"Some college or associate degree, 2019-23",81757.0,education
+6083,CA,Santa Barbara County,"Bachelor's degree or higher, 2019-23",99882.0,education
+6083,CA,Santa Barbara County,"Percent of adults who are not high school graduates, 2019-23",17.86386359,education
+6083,CA,Santa Barbara County,"Percent of adults who are high school graduates (or equivalent), 2019-23",16.90536386,education
+6083,CA,Santa Barbara County,"Percent of adults completing some college or associate degree, 2019-23",29.36083259,education
+6083,CA,Santa Barbara County,"Percent of adults with a bachelor's degree or higher, 2019-23",35.86993995,education
 6085,CA,Santa Clara County,2023 Rural-urban Continuum Code,1.0,education
+6085,CA,Santa Clara County,"Less than high school graduate, 2019-23",142839.0,education
+6085,CA,Santa Clara County,"High school graduate (or equivalency), 2019-23",180768.0,education
+6085,CA,Santa Clara County,"Some college or associate degree, 2019-23",266993.0,education
+6085,CA,Santa Clara County,"Bachelor's degree or higher, 2019-23",747586.0,education
+6085,CA,Santa Clara County,"Percent of adults who are not high school graduates, 2019-23",10.6740767,education
+6085,CA,Santa Clara County,"Percent of adults who are high school graduates (or equivalent), 2019-23",13.50843605,education
+6085,CA,Santa Clara County,"Percent of adults completing some college or associate degree, 2019-23",19.9518602,education
+6085,CA,Santa Clara County,"Percent of adults with a bachelor's degree or higher, 2019-23",55.86562705,education
 6087,CA,Santa Cruz County,2023 Rural-urban Continuum Code,2.0,education
+6087,CA,Santa Cruz County,"Less than high school graduate, 2019-23",20676.0,education
+6087,CA,Santa Cruz County,"High school graduate (or equivalency), 2019-23",27325.0,education
+6087,CA,Santa Cruz County,"Some college or associate degree, 2019-23",53418.0,education
+6087,CA,Santa Cruz County,"Bachelor's degree or higher, 2019-23",78268.0,education
+6087,CA,Santa Cruz County,"Percent of adults who are not high school graduates, 2019-23",11.5066755,education
+6087,CA,Santa Cruz County,"Percent of adults who are high school graduates (or equivalent), 2019-23",15.20699884,education
+6087,CA,Santa Cruz County,"Percent of adults completing some college or associate degree, 2019-23",29.72836098,education
+6087,CA,Santa Cruz County,"Percent of adults with a bachelor's degree or higher, 2019-23",43.55796468,education
 6089,CA,Shasta County,2023 Rural-urban Continuum Code,3.0,education
+6089,CA,Shasta County,"Less than high school graduate, 2019-23",10229.0,education
+6089,CA,Shasta County,"High school graduate (or equivalency), 2019-23",34012.0,education
+6089,CA,Shasta County,"Some college or associate degree, 2019-23",54735.0,education
+6089,CA,Shasta County,"Bachelor's degree or higher, 2019-23",30011.0,education
+6089,CA,Shasta County,"Percent of adults who are not high school graduates, 2019-23",7.930256537,education
+6089,CA,Shasta County,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.36854877,education
+6089,CA,Shasta County,"Percent of adults completing some college or associate degree, 2019-23",42.4345089,education
+6089,CA,Shasta County,"Percent of adults with a bachelor's degree or higher, 2019-23",23.26668579,education
 6091,CA,Sierra County,2023 Rural-urban Continuum Code,8.0,education
+6091,CA,Sierra County,"Less than high school graduate, 2019-23",188.0,education
+6091,CA,Sierra County,"High school graduate (or equivalency), 2019-23",740.0,education
+6091,CA,Sierra County,"Some college or associate degree, 2019-23",723.0,education
+6091,CA,Sierra County,"Bachelor's degree or higher, 2019-23",533.0,education
+6091,CA,Sierra County,"Percent of adults who are not high school graduates, 2019-23",8.608058608,education
+6091,CA,Sierra County,"Percent of adults who are high school graduates (or equivalent), 2019-23",33.88278388,education
+6091,CA,Sierra County,"Percent of adults completing some college or associate degree, 2019-23",33.1043956,education
+6091,CA,Sierra County,"Percent of adults with a bachelor's degree or higher, 2019-23",24.4047619,education
 6093,CA,Siskiyou County,2023 Rural-urban Continuum Code,7.0,education
+6093,CA,Siskiyou County,"Less than high school graduate, 2019-23",2873.0,education
+6093,CA,Siskiyou County,"High school graduate (or equivalency), 2019-23",8373.0,education
+6093,CA,Siskiyou County,"Some college or associate degree, 2019-23",13508.0,education
+6093,CA,Siskiyou County,"Bachelor's degree or higher, 2019-23",7429.0,education
+6093,CA,Siskiyou County,"Percent of adults who are not high school graduates, 2019-23",8.9270733,education
+6093,CA,Siskiyou County,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.01684119,education
+6093,CA,Siskiyou County,"Percent of adults completing some college or associate degree, 2019-23",41.97246994,education
+6093,CA,Siskiyou County,"Percent of adults with a bachelor's degree or higher, 2019-23",23.08361557,education
 6095,CA,Solano County,2023 Rural-urban Continuum Code,2.0,education
+6095,CA,Solano County,"Less than high school graduate, 2019-23",34788.0,education
+6095,CA,Solano County,"High school graduate (or equivalency), 2019-23",76361.0,education
+6095,CA,Solano County,"Some college or associate degree, 2019-23",113757.0,education
+6095,CA,Solano County,"Bachelor's degree or higher, 2019-23",89064.0,education
+6095,CA,Solano County,"Percent of adults who are not high school graduates, 2019-23",11.08003949,education
+6095,CA,Solano County,"Percent of adults who are high school graduates (or equivalent), 2019-23",24.32111348,education
+6095,CA,Solano County,"Percent of adults completing some college or associate degree, 2019-23",36.23180559,education
+6095,CA,Solano County,"Percent of adults with a bachelor's degree or higher, 2019-23",28.36704144,education
 6097,CA,Sonoma County,2023 Rural-urban Continuum Code,2.0,education
+6097,CA,Sonoma County,"Less than high school graduate, 2019-23",39389.0,education
+6097,CA,Sonoma County,"High school graduate (or equivalency), 2019-23",65960.0,education
+6097,CA,Sonoma County,"Some college or associate degree, 2019-23",114487.0,education
+6097,CA,Sonoma County,"Bachelor's degree or higher, 2019-23",133865.0,education
+6097,CA,Sonoma County,"Percent of adults who are not high school graduates, 2019-23",11.13624219,education
+6097,CA,Sonoma County,"Percent of adults who are high school graduates (or equivalent), 2019-23",18.64851951,education
+6097,CA,Sonoma County,"Percent of adults completing some college or associate degree, 2019-23",32.36829978,education
+6097,CA,Sonoma County,"Percent of adults with a bachelor's degree or higher, 2019-23",37.84693852,education
 6099,CA,Stanislaus County,2023 Rural-urban Continuum Code,2.0,education
+6099,CA,Stanislaus County,"Less than high school graduate, 2019-23",70118.0,education
+6099,CA,Stanislaus County,"High school graduate (or equivalency), 2019-23",103475.0,education
+6099,CA,Stanislaus County,"Some college or associate degree, 2019-23",111518.0,education
+6099,CA,Stanislaus County,"Bachelor's degree or higher, 2019-23",67474.0,education
+6099,CA,Stanislaus County,"Percent of adults who are not high school graduates, 2019-23",19.8868358,education
+6099,CA,Stanislaus County,"Percent of adults who are high school graduates (or equivalent), 2019-23",29.34753322,education
+6099,CA,Stanislaus County,"Percent of adults completing some college or associate degree, 2019-23",31.62868528,education
+6099,CA,Stanislaus County,"Percent of adults with a bachelor's degree or higher, 2019-23",19.1369457,education
 6101,CA,Sutter County,2023 Rural-urban Continuum Code,3.0,education
+6101,CA,Sutter County,"Less than high school graduate, 2019-23",13814.0,education
+6101,CA,Sutter County,"High school graduate (or equivalency), 2019-23",16102.0,education
+6101,CA,Sutter County,"Some college or associate degree, 2019-23",22163.0,education
+6101,CA,Sutter County,"Bachelor's degree or higher, 2019-23",13189.0,education
+6101,CA,Sutter County,"Percent of adults who are not high school graduates, 2019-23",21.16504259,education
+6101,CA,Sutter County,"Percent of adults who are high school graduates (or equivalent), 2019-23",24.67058896,education
+6101,CA,Sutter County,"Percent of adults completing some college or associate degree, 2019-23",33.9569161,education
+6101,CA,Sutter County,"Percent of adults with a bachelor's degree or higher, 2019-23",20.20745235,education
 6103,CA,Tehama County,2023 Rural-urban Continuum Code,4.0,education
+6103,CA,Tehama County,"Less than high school graduate, 2019-23",6165.0,education
+6103,CA,Tehama County,"High school graduate (or equivalency), 2019-23",12929.0,education
+6103,CA,Tehama County,"Some college or associate degree, 2019-23",17373.0,education
+6103,CA,Tehama County,"Bachelor's degree or higher, 2019-23",8467.0,education
+6103,CA,Tehama County,"Percent of adults who are not high school graduates, 2019-23",13.72012285,education
+6103,CA,Tehama County,"Percent of adults who are high school graduates (or equivalent), 2019-23",28.77331197,education
+6103,CA,Tehama County,"Percent of adults completing some college or associate degree, 2019-23",38.66337295,education
+6103,CA,Tehama County,"Percent of adults with a bachelor's degree or higher, 2019-23",18.84319224,education
 6105,CA,Trinity County,2023 Rural-urban Continuum Code,8.0,education
+6105,CA,Trinity County,"Less than high school graduate, 2019-23",643.0,education
+6105,CA,Trinity County,"High school graduate (or equivalency), 2019-23",4973.0,education
+6105,CA,Trinity County,"Some college or associate degree, 2019-23",4461.0,education
+6105,CA,Trinity County,"Bachelor's degree or higher, 2019-23",2219.0,education
+6105,CA,Trinity County,"Percent of adults who are not high school graduates, 2019-23",5.229342876,education
+6105,CA,Trinity County,"Percent of adults who are high school graduates (or equivalent), 2019-23",40.44404684,education
+6105,CA,Trinity County,"Percent of adults completing some college or associate degree, 2019-23",36.28009109,education
+6105,CA,Trinity County,"Percent of adults with a bachelor's degree or higher, 2019-23",18.04651919,education
 6107,CA,Tulare County,2023 Rural-urban Continuum Code,2.0,education
+6107,CA,Tulare County,"Less than high school graduate, 2019-23",72985.0,education
+6107,CA,Tulare County,"High school graduate (or equivalency), 2019-23",76798.0,education
+6107,CA,Tulare County,"Some college or associate degree, 2019-23",89859.0,education
+6107,CA,Tulare County,"Bachelor's degree or higher, 2019-23",45102.0,education
+6107,CA,Tulare County,"Percent of adults who are not high school graduates, 2019-23",25.63179558,education
+6107,CA,Tulare County,"Percent of adults who are high school graduates (or equivalent), 2019-23",26.97089315,education
+6107,CA,Tulare County,"Percent of adults completing some college or associate degree, 2019-23",31.55782036,education
+6107,CA,Tulare County,"Percent of adults with a bachelor's degree or higher, 2019-23",15.83949091,education
 6109,CA,Tuolumne County,2023 Rural-urban Continuum Code,4.0,education
+6109,CA,Tuolumne County,"Less than high school graduate, 2019-23",2717.0,education
+6109,CA,Tuolumne County,"High school graduate (or equivalency), 2019-23",10532.0,education
+6109,CA,Tuolumne County,"Some college or associate degree, 2019-23",18635.0,education
+6109,CA,Tuolumne County,"Bachelor's degree or higher, 2019-23",10038.0,education
+6109,CA,Tuolumne County,"Percent of adults who are not high school graduates, 2019-23",6.481083918,education
+6109,CA,Tuolumne County,"Percent of adults who are high school graduates (or equivalent), 2019-23",25.12284719,education
+6109,CA,Tuolumne County,"Percent of adults completing some college or associate degree, 2019-23",44.45160059,education
+6109,CA,Tuolumne County,"Percent of adults with a bachelor's degree or higher, 2019-23",23.9444683,education
 6111,CA,Ventura County,2023 Rural-urban Continuum Code,2.0,education
+6111,CA,Ventura County,"Less than high school graduate, 2019-23",85061.0,education
+6111,CA,Ventura County,"High school graduate (or equivalency), 2019-23",112500.0,education
+6111,CA,Ventura County,"Some college or associate degree, 2019-23",174417.0,education
+6111,CA,Ventura County,"Bachelor's degree or higher, 2019-23",206218.0,education
+6111,CA,Ventura County,"Percent of adults who are not high school graduates, 2019-23",14.71144733,education
+6111,CA,Ventura County,"Percent of adults who are high school graduates (or equivalent), 2019-23",19.45706992,education
+6111,CA,Ventura County,"Percent of adults completing some college or associate degree, 2019-23",30.16572235,education
+6111,CA,Ventura County,"Percent of adults with a bachelor's degree or higher, 2019-23",35.6657604,education
 6113,CA,Yolo County,2023 Rural-urban Continuum Code,1.0,education
+6113,CA,Yolo County,"Less than high school graduate, 2019-23",15097.0,education
+6113,CA,Yolo County,"High school graduate (or equivalency), 2019-23",22852.0,education
+6113,CA,Yolo County,"Some college or associate degree, 2019-23",34898.0,education
+6113,CA,Yolo County,"Bachelor's degree or higher, 2019-23",57432.0,education
+6113,CA,Yolo County,"Percent of adults who are not high school graduates, 2019-23",11.58820685,education
+6113,CA,Yolo County,"Percent of adults who are high school graduates (or equivalent), 2019-23",17.54081625,education
+6113,CA,Yolo County,"Percent of adults completing some college or associate degree, 2019-23",26.78712609,education
+6113,CA,Yolo County,"Percent of adults with a bachelor's degree or higher, 2019-23",44.08385081,education
 6115,CA,Yuba County,2023 Rural-urban Continuum Code,3.0,education
+6115,CA,Yuba County,"Less than high school graduate, 2019-23",8120.0,education
+6115,CA,Yuba County,"High school graduate (or equivalency), 2019-23",14344.0,education
+6115,CA,Yuba County,"Some college or associate degree, 2019-23",21000.0,education
+6115,CA,Yuba County,"Bachelor's degree or higher, 2019-23",9474.0,education
+6115,CA,Yuba County,"Percent of adults who are not high school graduates, 2019-23",15.3386981,education
+6115,CA,Yuba County,"Percent of adults who are high school graduates (or equivalent), 2019-23",27.09584797,education
+6115,CA,Yuba County,"Percent of adults completing some college or associate degree, 2019-23",39.66904681,education
+6115,CA,Yuba County,"Percent of adults with a bachelor's degree or higher, 2019-23",17.89640712,education
 6001,CA,"Alameda County, CA",Rural_Urban_Continuum_Code_2023,1.0,unemployment
 6001,CA,"Alameda County, CA",Metro_2023,1.0,unemployment
 6001,CA,"Alameda County, CA",Civilian_labor_force_2023,826102.0,unemployment
